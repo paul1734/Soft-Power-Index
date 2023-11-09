@@ -1,6 +1,6 @@
 # Soft-Power-Index
 
-The following Soft Power Index (SPI) is created for my Master's thesis in Economics at the University of Kiel. It is losely inspired by the work of Jonathan McClory for Portland (https://softpower30.com/) and the conceptual idea from Nye (1990). Within my Master's thesis, I am using this index to study the effects of soft power on bilateral trade over a timespan of up to 30 years. This repo is used to explain my choice of datasets and to combine my data collection and cleaning efforts.
+The following Soft Power Index (SPI) is created for my Master's thesis in Economics at the University of Kiel. It is loosely inspired by the work of Jonathan McClory for Portland (https://softpower30.com/) and the conceptual idea from Nye (1990). Within my Master's thesis, I am using this index to study the effects of soft power on bilateral trade over a timespan of up to 30 years. This repo is used to explain my choice of datasets and to combine my data collection and cleaning efforts.
 
 The Soft Power: "This power tends to arise from such resources as cultural and ideological attraction as well as rules and
 institutions of international regulations" (Nye 1990, p. 168).
