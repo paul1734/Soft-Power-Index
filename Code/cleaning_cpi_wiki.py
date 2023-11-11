@@ -10,7 +10,7 @@ using https://wikitable2csv.ggor.de/
  and https://www.transparency.org/en/cpi/2011
 """
 os.getcwd()
-path = "/files"
+path = "/files/CPI"
 os.chdir(path)
 
 cpi5 = pd.read_csv("Corruption_Perceptions_Index_5.csv")
@@ -39,7 +39,7 @@ for df in list_cpi_clean:
     df.drop(cols_to_drop, axis=1, inplace=True)
     df.reset_index(drop=True, inplace=True)
     df.columns.values[0] = 'Nation'
-    #df = df.replace({'—':np.nan, 'nan':np.nan})
+    #df = df.replace({'?':np.nan, 'nan':np.nan})
     df = df.infer_objects()
     # Reset the index after dropping rows
 #test1 = cpi5.iloc[:,1:].apply(pd.to_numeric)
@@ -54,10 +54,10 @@ cpi3.drop(columns=['2010', '2011', 'country_x', 'country_y'], inplace=True)
 cpi3 = cpi3.rename(columns={'score_x': '2010', 'score_y': '2011'})
 
 
-cpi2 = cpi2.replace({'—':np.nan, 'nan':np.nan})
-cpi3 = cpi3.replace({'—':np.nan, 'nan':np.nan})
-cpi4 = cpi4.replace({'—':np.nan, 'nan':np.nan})
-cpi5 = cpi5.replace({'—':np.nan, 'nan':np.nan})
+cpi2 = cpi2.replace({'?':np.nan, 'nan':np.nan})
+cpi3 = cpi3.replace({'?':np.nan, 'nan':np.nan})
+cpi4 = cpi4.replace({'?':np.nan, 'nan':np.nan})
+cpi5 = cpi5.replace({'?':np.nan, 'nan':np.nan})
 
 cpi2 = cpi2.infer_objects()
 cpi3 = cpi3.infer_objects()
@@ -95,12 +95,13 @@ cpi_test2 = copy.deepcopy(cpi2)
 result = pd.concat([df.set_index('Nation') for df in list_cpi_clean], axis=1).reset_index()
 result_bfill = result.fillna(method='bfill', axis=1)
 result = result_bfill.fillna(method='ffill', axis=1)
-print(result)
-result.to_csv('/files/CPI_Index.csv') 
-# Concatenate the DataFrames vertically
-#merged_df = pd.concat(list_cpi_clean)
+cpi_uniqueval = result['Nation'].value_counts()
+# change to long format
+cpi_long = pd.melt(result, id_vars=['Nation'], var_name='Year', value_name='Value')
+# Check data, all countries should only appear once for every year
+# all years should appear 198 times
+cpi_uniqueval = pd.DataFrame()
+cpi_uniqueval["count_country"] = cpi_long['Nation'].value_counts()
+print(cpi_long['Year'].value_counts())
 
-#merged_df = merged_df.apply(pd.to_numeric, errors='ignore')
-#print(merged_df)
-
-
+cpi_long.to_csv('/files/CPI_Index.csv')
