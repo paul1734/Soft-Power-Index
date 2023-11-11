@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import numpy as np
 import copy
+import country_converter as coco
 
 """
 data from https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
@@ -13,11 +14,60 @@ os.getcwd()
 path = "/files/CPI"
 os.chdir(path)
 
-cpi5 = pd.read_csv("Corruption_Perceptions_Index_5.csv")
+
+"""
+List CPI Annoying Countries Doubles
+
+Kyrgyz Republic	56 | Kyrgyzstan
+Slovakia	56 | Slovak Republic
+Congo Republic	56 | Republic of the Congo
+Czech Republic	56 | Czechia
+Sao Tome and Principe 56 | S㯠Tom頡nd Pr�ipe
+North Macedonia	56 | FYR Macedonia
+Eswatini 56 | Swaziland
+
+# Change 1995-1999 to equalize
+Kyrgyzstan (2000 - 2022)
+Kyrgyz Republic (1995 -1999)
+
+# Change 1995-1999 to equalize
+Slovakia (2000 - 2022)
+Slovak Republic (1995 -1999)
+
+Congo (2020 - 2022)
+Republic of the Congo (2000 - 2019)
+missing before
+
+North Macedonia (2010 - 2022)
+FYR Macedonia (1995-2009)
+
+Eswatini (2010 - 2022)
+Swaziland (2000 - 2009)
+missing 1999 before
+
+Czechia (2020 -2022)
+Czech rep (1995 - 2019)
+
+Sao Tome and Principe (2000 - 2009)
+S㯠Tom頡nd Pr�ipe (2010 - 2022)
+missing before
+
+Nation | Number of appearances | Former double Counterpart (changed by coco)
+Kyrgyz Republic	56 | Kyrgyzstan
+Slovakia	56 | Slovak Republic
+Congo Republic	56 | Republic of the Congo
+Czech Republic	56 | Czechia
+Sao Tome and Principe 56 | S㯠Tom頡nd Pr�ipe
+North Macedonia	56 | FYR Macedonia
+Eswatini 56 | Swaziland
+"""
+
+cpi5 = pd.read_csv("Corruption_Perceptions_Index_5.csv")    
 cpi4 = pd.read_csv("Corruption_Perceptions_Index_4.csv")
 cpi3 = pd.read_csv("Corruption_Perceptions_Index_3.csv")
 cpi2 = pd.read_csv("Corruption_Perceptions_Index_2.csv")
 
+    
 cpi_10 = pd.read_csv("CPI_2010.csv")
 cpi_11 = pd.read_csv("CPI_2011.csv")
 
@@ -44,6 +94,23 @@ for df in list_cpi_clean:
     # Reset the index after dropping rows
 #test1 = cpi5.iloc[:,1:].apply(pd.to_numeric)
 # Now the original DataFrames have the first row and undesired columns removed and are modified in place
+
+cpi5['Nation'] = cpi5['Nation']\
+    .replace({'Kyrgyz Republic':'Kyrgyzstan'})
+cpi5['Nation'] = cpi5['Nation']\
+    .replace({'Slovak Republic':'Slovakia'})
+cpi5['Nation'] = cpi5['Nation']\
+    .replace({'FYR Macedonia':'North Macedonia'})
+cpi4['Nation'] = cpi4['Nation']\
+    .replace({'FYR Macedonia':'North Macedonia'})
+cpi4['Nation'] = cpi4['Nation']\
+    .replace({'Swaziland':'Eswatini'})
+cpi4['Nation'] = cpi4['Nation']\
+    .replace({'Sao Tome and Principe':'S㯠Tom頡nd Pr�ipe'})  
+cpi2['Nation'] = cpi2['Nation']\
+    .replace({'Czechia':'Czech Republic'})
+cpi2['Nation'] = cpi2['Nation']\
+    .replace({'Congo':'Republic of the Congo'})
 
 # Merge cpi_10 into cpi3 for the year 2010 using 'Nation' as the common column
 cpi3 = pd.merge(cpi3, cpi_10, left_on='Nation', right_on='country', how='left')
@@ -104,4 +171,22 @@ cpi_uniqueval = pd.DataFrame()
 cpi_uniqueval["count_country"] = cpi_long['Nation'].value_counts()
 print(cpi_long['Year'].value_counts())
 
-cpi_long.to_csv('/files/CPI_Index.csv')
+"""
+Drop countries also dropped from polity data due to stated reasons
+
+"""
+dropped_countries = ["Serbia and Montenegro", "Yugoslavia",
+"Czechoslovakia","Yemen North",
+"Yemen South","Germany West","Germany East",
+"South Sudan", "Kosovo","Serbia","Montenegro" , "Timor Leste"]
+
+for name in dropped_countries:    
+    cpi_long = cpi_long.drop(cpi_long[cpi_long['Nation'] == name].index)
+
+
+
+cpi_long2 = pd.DataFrame()
+cpi_long["Nation"] = coco.convert(names=cpi_long["Nation"], to='name_short')
+cpi_uniqueval2 = cpi_long['Nation'].value_counts()
+
+cpi_long.to_csv(path + '/CPI_Index.csv')
