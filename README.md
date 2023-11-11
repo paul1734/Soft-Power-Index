@@ -21,12 +21,12 @@ Schema:
 Based on McClory's 6 main sub-indices:
 1.	Government Sub-index:
   - Polity 5 project [1812-2018] (https://www.systemicpeace.org/polityproject.html)
-3.	Culture Sub-index:
+2.	Culture Sub-index:
   - Music Global Top 50 Charts + Global Charts by Spotify
   - World Value Survey Global Culture Map [1998-2023] (https://www.worldvaluessurvey.org/WVSNewsShow.jsp?ID=467)
       - Needs lots of interpolation, limited amount of countries represented. But very interesting.
   - World Religion Data [1950-2010; 5 year steps] (https://correlatesofwar.org/data-sets/world-religion-data/)
-4.	Global Engagement Sub-index:
+3.	Global Engagement Sub-index:
   - Net Migration (rate) [1960-2020] (https://data.worldbank.org/indicator/SM.POP.NETM?end=1985&start=1985&view=map&year=2013)
      - Includes both voluntarily migration and refugees (https://ourworldindata.org/migration-definition)
   - Number of refugees living in the host country per 1,000 people (Number of refugees living in the host country per 1,000 people)
@@ -34,19 +34,20 @@ Based on McClory's 6 main sub-indices:
   -	Number of Embassies Abroad
   -	Membership of Multilateral Organizations
   -	Overseas Development Aid
-5.	Education Sub-index:
+  -	Permanent Member UN Security Council + 
+4.	Education Sub-index:
   - Scimago Country Citations Ranking [1996-2022] (https://www.scimagojr.com/countryrank.php?order=itp&ord=desc)
       - Rough estimate of the scientific power only based on Elsevier / Scopus database. Will be used as a composite index, e.g.
         Ranking = Citations per (citable) document * H-Index
   - R&D Spending by GDP per capita [1996-2022] (https://ourworldindata.org/research-and-development)
       - A higher R&D spending results in higher tech output with well known brands like Samsung, Siemens, Google etc. This helps the     
         cultural perception as a technologically advanced nation.
-6.	Enterprise Sub-index:
+5.	Enterprise Sub-index:
   - Corruption Perceptions Index (CPI) [1995-2022] (https://de.wikipedia.org/wiki/Korruptionswahrnehmungsindex#2022 and )
       - Will only lower SPI. A high corruption level is bad for the perception in any case. However, the CPI has been criticised for its reliability and validity.
   - Forbes Global 2000 [2003-2023] Global 500 [1990 - 2023] (SOURCE OF EVERY DATA?)
       - "Multinational corporations are another source of co-optive power" (Nye 1990, p.168)
-7.	Digital Sub-index: Questionable wether to include or omit. Unclear which variables to use which could represent soft power.. 
+6.	Digital Sub-index: Questionable wether to include or omit. Unclear which variables to use which could represent soft power.. 
 
 
 # Source: 
