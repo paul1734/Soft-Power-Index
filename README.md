@@ -52,16 +52,23 @@ CPI:
     - https://www.transparency.org/en/cpi/2010
     - https://www.transparency.org/en/cpi/2011
     - https://de.wikipedia.org/wiki/Korruptionswahrnehmungsindex#2022](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
+    
 Polity 5:
     - https://www.systemicpeace.org/polityproject.html
+
 Net Migration:
     - https://data.worldbank.org/indicator/SM.POP.NETM?end=1985&start=1985&view=map&year=2013
+
 Nye, J. S. (1990). Soft Power. Foreign Policy, 80, 153–171. https://doi.org/10.2307/1148580
+
 R&D Spending:
     - https://ourworldindata.org/research-and-development
+
 Scimago: 
     - https://www.scimagojr.com/countryrank.php?order=itp&ord=desc
+
 World Religion Data:
     - https://correlatesofwar.org/data-sets/world-religion-data/ 
+
 World Value Survey: 
     - https://www.worldvaluessurvey.org/WVSNewsShow.jsp?ID=467
