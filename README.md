@@ -13,42 +13,55 @@ institutions of international regulations" (Nye 1990, p. 168).
 5) avoid a systemic bias for Western liberal democracies
 
 ### The following list will explain my choice of sub-indices. 
-Schema:
-1. Main Sub-index:
-  - Data Source [timespan of complete data] (website source)
-     - Explanation for usage, shortcomings and feasible remedies
 
 Based on McClory's 6 main sub-indices:
 1.	Government Sub-index:
-  - Polity 5 project [1812-2018] (https://www.systemicpeace.org/polityproject.html)
+  - Polity 5 project [1812-2018] 
 2.	Culture Sub-index:
   - Music Global Top 50 Charts + Global Charts by Spotify
-  - World Value Survey Global Culture Map [1998-2023] (https://www.worldvaluessurvey.org/WVSNewsShow.jsp?ID=467)
+  - World Value Survey Global Culture Map [1998-2023] 
       - Needs lots of interpolation, limited amount of countries represented. But very interesting.
-  - World Religion Data [1950-2010; 5 year steps] (https://correlatesofwar.org/data-sets/world-religion-data/)
+  - World Religion Data [1950-2010; 5 year steps]
 3.	Global Engagement Sub-index:
-  - Net Migration (rate) [1960-2020] (https://data.worldbank.org/indicator/SM.POP.NETM?end=1985&start=1985&view=map&year=2013)
+  - Net Migration (rate) [1960-2020] 
      - Includes both voluntarily migration and refugees (https://ourworldindata.org/migration-definition)
   - Number of refugees living in the host country per 1,000 people (Number of refugees living in the host country per 1,000 people)
      - specify direct impact of refugess
   -	Number of Embassies Abroad
+     - Difficulty finding complete Data set for whole 	
   -	Membership of Multilateral Organizations
   -	Overseas Development Aid
-  -	Permanent Member UN Security Council + 
+  -	Permanent Member UN Security Council and Presidency Bonus
 4.	Education Sub-index:
-  - Scimago Country Citations Ranking [1996-2022] (https://www.scimagojr.com/countryrank.php?order=itp&ord=desc)
+  - Scimago Country Citations Ranking [1996-2022] 
       - Rough estimate of the scientific power only based on Elsevier / Scopus database. Will be used as a composite index, e.g.
         Ranking = Citations per (citable) document * H-Index
-  - R&D Spending by GDP per capita [1996-2022] (https://ourworldindata.org/research-and-development)
+  - R&D Spending by GDP per capita [1996-2022] 
       - A higher R&D spending results in higher tech output with well known brands like Samsung, Siemens, Google etc. This helps the     
         cultural perception as a technologically advanced nation.
 5.	Enterprise Sub-index:
-  - Corruption Perceptions Index (CPI) [1995-2022] (https://de.wikipedia.org/wiki/Korruptionswahrnehmungsindex#2022 and )
+  - Corruption Perceptions Index (CPI) [1995-2022] 
       - Will only lower SPI. A high corruption level is bad for the perception in any case. However, the CPI has been criticised for its reliability and validity.
   - Forbes Global 2000 [2003-2023] Global 500 [1990 - 2023] (SOURCE OF EVERY DATA?)
-      - "Multinational corporations are another source of co-optive power" (Nye 1990, p.168)
+      - "Multinational corporations are another source of cooptive power" (Nye 1990, p.168)
 6.	Digital Sub-index: Questionable wether to include or omit. Unclear which variables to use which could represent soft power.. 
 
 
 # Source: 
+CPI: 
+    - https://www.transparency.org/en/cpi/2010
+    - https://www.transparency.org/en/cpi/2011
+    - https://de.wikipedia.org/wiki/Korruptionswahrnehmungsindex#2022](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
+Polity 5:
+    - https://www.systemicpeace.org/polityproject.html
+Net Migration:
+    - https://data.worldbank.org/indicator/SM.POP.NETM?end=1985&start=1985&view=map&year=2013
 Nye, J. S. (1990). Soft Power. Foreign Policy, 80, 153–171. https://doi.org/10.2307/1148580
+R&D Spending:
+    - https://ourworldindata.org/research-and-development
+Scimago: 
+    - https://www.scimagojr.com/countryrank.php?order=itp&ord=desc
+World Religion Data:
+    - https://correlatesofwar.org/data-sets/world-religion-data/ 
+World Value Survey: 
+    - https://www.worldvaluessurvey.org/WVSNewsShow.jsp?ID=467
