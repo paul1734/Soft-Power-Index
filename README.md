@@ -22,6 +22,15 @@ Based on McClory's 6 main sub-indices:
   - World Value Survey Global Culture Map [1998-2023] 
       - Needs lots of interpolation, limited amount of countries represented. But very interesting.
   - World Religion Data [1950-2010; 5 year steps]
+      - Will be interpolated for years 2015 and 2020
+      - Interpolation for 4 years between each data point
+      - Data as percent of religious denomination
+        - e.g. catholic, anglican, protestant (see: https://correlatesofwar.org/wp-content/uploads/wrp-codebook-bibliography.pdf)
+        - Either do superficial: Only Christianity, Islam etc. without specification or use specifics
+          - Catholicism or Protestantism doesn't play a huge role for Christian nations anymore
+          - However, divide between shia and sunni is still very important
+            -> Will use specifics; calculate likeness between each country?
+              - Use of clustering? Give each country their specific religious sphere 
 3.	Global Engagement Sub-index:
   - Net Migration (rate) [1960-2020] 
      - Includes both voluntarily migration and refugees (https://ourworldindata.org/migration-definition)
