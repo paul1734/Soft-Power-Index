@@ -70,6 +70,8 @@ Net Migration:
 
 Nye, J. S. (1990). Soft Power. Foreign Policy, 80, 153–171. https://doi.org/10.2307/1148580
 
+Nye, J. S. (2004). Soft Power and American Foreign Policy. Political Science Quarterly, 119: 255-270. https://doi.org/10.2307/20202345
+
 R&D Spending:
     - https://ourworldindata.org/research-and-development
 
