@@ -52,7 +52,7 @@ Based on McClory's 6 main sub-indices:
   - Corruption Perceptions Index (CPI) [1995-2022] 
       - Will only lower SPI. A high corruption level is bad for the perception in any case. However, the CPI has been criticised for its reliability and validity.
   - Forbes Global 2000 [2003-2023] Global 500 [1990 - 2023] (SOURCE OF EVERY DATA?)
-      - "Multinational corporations are another source of cooptive power" (Nye 1990, p.168) -> However, strongly correlated to 
+      - "Multinational corporations are another source of cooptive power" (Nye 1990, p.168) -> However, strongly correlated to economic success.
 6.	Digital Sub-index: Questionable wether to include or omit. Unclear which variables to use which could represent soft power.. 
 
 
