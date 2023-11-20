@@ -36,9 +36,14 @@ Based on McClory's 6 main sub-indices:
      - Includes both voluntarily migration and refugees (https://ourworldindata.org/migration-definition)
   - Number of refugees living in the host country per 1,000 people (Number of refugees living in the host country per 1,000 people)
      - specify direct impact of refugess
+           -> Refugees are included in the net migration rate; problem of endogeneity?
+             - Should be manageable 
   -	Number of Embassies Abroad
      - Difficulty finding complete Data set for whole 	
   -	Membership of Multilateral Organizations
+      - G20, IMF, WTO, World Bank
+      - Political Unions: EU, ASEAN, African Union (-> Why not include smaller ones?)
+        - Also, the EU  has more political weigth than most other supranational orgs., introduce some sort of weigth?   	
   -	Overseas Development Aid -> Questionable as it is highly tied to economic might; can be seen as buying influence.
   -	Permanent Member UN Security Council and Presidency Bonus
 4.	Education Sub-index:
