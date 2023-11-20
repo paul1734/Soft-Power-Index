@@ -2,8 +2,8 @@
 
 The following Soft Power Index (SPI) is loosely inspired by the work of Jonathan McClory for Portland (https://softpower30.com/) and the conceptual idea from Nye (1990). Within my Master's thesis, I am using this index to study the effects of soft power on bilateral trade over a timespan of up to 30 years. This repo is used to explain my choice of datasets and to combine my data collection and cleaning efforts.
 
-The Soft Power: "This power tends to arise from such resources as cultural and ideological attraction as well as rules and
-institutions of international regulations" (Nye 1990, p. 168). "Soft power is the ability to get what you want through attraction rather than coercion or payments. When you can get others to want what you want, you do not have to spend as much on sticks and carrots to move them in your direc- tion. Hard power, the ability to coerce, grows out of a country’s military and economic might. Soft power arises from the attractiveness of a country’s cul- ture, political ideals, and policies. When our policies are seen as legitimate in the eyes of others, our soft power is enhanced." (Nye 2004, p. 256).
+Soft Power "tends to arise from such resources as cultural and ideological attraction as well as rules and
+institutions of international regulations" (Nye 1990, p. 168). "Soft power is the ability to get what you want through attraction rather than coercion or payments. When you can get others to want what you want, you do not have to spend as much on sticks and carrots to move them in your direction. Hard power, the ability to coerce, grows out of a country’s military and economic might. Soft power arises from the attractiveness of a country’s culture, political ideals, and policies. When our policies are seen as legitimate in the eyes of others, our soft power is enhanced." (Nye 2004, p. 256).
 
 ## The target for this SPI is:
 1) a timespan of at least 30 years
@@ -18,7 +18,11 @@ Based on McClory's 6 main sub-indices:
 1.	Government Sub-index:
   - Polity 5 project [1812-2018] 
 2.	Culture Sub-index:
+  - Country Similarity Index (CSI)
+    - no peer reviewed article citing it, difficulty of using it in academic context.
+    - However, great methodology and useful application. 
   - Music Global Top 50 Charts + Global Charts by Spotify
+    - Difficult to find; mostly dominated by US musicians 
   - World Value Survey Global Culture Map [1998-2023] 
       - Needs lots of interpolation, limited amount of countries represented. But very interesting.
   - World Religion Data [1950-2010; 5 year steps]
@@ -34,16 +38,17 @@ Based on McClory's 6 main sub-indices:
 3.	Global Engagement Sub-index:
   - Net Migration (rate) [1960-2020] 
      - Includes both voluntarily migration and refugees (https://ourworldindata.org/migration-definition)
-  - Number of refugees living in the host country per 1,000 people (Number of refugees living in the host country per 1,000 people)
+  - Number of refugees living in the host country per 1,000 people 
      - specify direct impact of refugess
            -> Refugees are included in the net migration rate; problem of endogeneity?
              - Should be manageable 
   -	Number of Embassies Abroad
-     - Difficulty finding complete Data set for whole 	
+     - Difficulty finding complete Data set for whole timeframe
+       - Maybe only use current year and assume it would stay relatively constant? Difficult to argue for this, irresponsible assumption
   -	Membership of Multilateral Organizations
       - G20, IMF, WTO, World Bank
       - Political Unions: EU, ASEAN, African Union (-> Why not include smaller ones?)
-        - Also, the EU  has more political weigth than most other supranational orgs., introduce some sort of weigth?   	
+        - Also, the EU  has more political weigth / cohesion than most other supranational orgs., introduce some sort of weigth?   	
   -	Overseas Development Aid -> Questionable as it is highly tied to economic might; can be seen as buying influence.
   -	Permanent Member UN Security Council and Presidency Bonus
 4.	Education Sub-index:
@@ -58,15 +63,20 @@ Based on McClory's 6 main sub-indices:
       - Will only lower SPI. A high corruption level is bad for the perception in any case. However, the CPI has been criticised for its reliability and validity.
   - Forbes Global 2000 [2003-2023] Global 500 [1990 - 2023] (SOURCE OF EVERY DATA?)
       - "Multinational corporations are another source of cooptive power" (Nye 1990, p.168) -> However, strongly correlated to economic success.
-6.	Digital Sub-index: Questionable wether to include or omit. Unclear which variables to use which could represent soft power.. 
+6.	Digital Sub-index: Questionable wether to include or omit. Unclear which variables to use which could represent soft power.
+  - could include: telephone, mail and post service, internet connectivity, TV as a whole
 
 
 # Source: 
 CPI: 
     - https://www.transparency.org/en/cpi/2010
-    - https://www.transparency.org/en/cpi/2011
-    - https://de.wikipedia.org/wiki/Korruptionswahrnehmungsindex#2022](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
     
+    - https://www.transparency.org/en/cpi/2011
+    
+    - https://de.wikipedia.org/wiki/Korruptionswahrnehmungsindex#2022](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
+
+CSI:
+    - https://objectivelists.com/2020/05/30/country-similarity-index/
 Polity 5:
     - https://www.systemicpeace.org/polityproject.html
 
