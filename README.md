@@ -69,6 +69,7 @@ Based on McClory's 6 main sub-indices:
 
 # Source: 
 CPI: 
+
     - https://www.transparency.org/en/cpi/2010
     
     - https://www.transparency.org/en/cpi/2011
@@ -76,11 +77,15 @@ CPI:
     - https://de.wikipedia.org/wiki/Korruptionswahrnehmungsindex#2022](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
 
 CSI:
+
     - https://objectivelists.com/2020/05/30/country-similarity-index/
+
 Polity 5:
+
     - https://www.systemicpeace.org/polityproject.html
 
 Net Migration:
+
     - https://data.worldbank.org/indicator/SM.POP.NETM?end=1985&start=1985&view=map&year=2013
 
 Nye, J. S. (1990). Soft Power. Foreign Policy, 80, 153–171. https://doi.org/10.2307/1148580
@@ -88,13 +93,17 @@ Nye, J. S. (1990). Soft Power. Foreign Policy, 80, 153–171. https://doi.org/10
 Nye, J. S. (2004). Soft Power and American Foreign Policy. Political Science Quarterly, 119: 255-270. https://doi.org/10.2307/20202345
 
 R&D Spending:
+    
     - https://ourworldindata.org/research-and-development
 
 Scimago: 
+    
     - https://www.scimagojr.com/countryrank.php?order=itp&ord=desc
 
 World Religion Data:
+    
     - https://correlatesofwar.org/data-sets/world-religion-data/ 
 
 World Value Survey: 
+    
     - https://www.worldvaluessurvey.org/WVSNewsShow.jsp?ID=467
