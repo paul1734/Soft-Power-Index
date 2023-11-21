@@ -20,7 +20,8 @@ Based on McClory's 6 main sub-indices:
 2.	Culture Sub-index:
   - Country Similarity Index (CSI)
     - no peer reviewed article citing it, difficulty of using it in academic context.
-    - However, great methodology and useful application. 
+    - However, great methodology and useful application.
+    - Similar in construction to this paper (https://zenodo.org/records/3275138) on the Trade Similarity Index for the EU
   - Music Global Top 50 Charts + Global Charts by Spotify
     - Difficult to find; mostly dominated by US musicians 
   - World Value Survey Global Culture Map [1998-2023] 
