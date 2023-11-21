@@ -18,10 +18,11 @@ Based on McClory's 6 main sub-indices:
 1.	Government Sub-index:
   - Polity 5 project [1812-2018] 
 2.	Culture Sub-index:
-  - Country Similarity Index (CSI)
+  - Country Similarity Index (CSI) / Distance Matrix
     - no peer reviewed article citing it, difficulty of using it in academic context.
     - However, great methodology and useful application.
     - Similar in construction to this paper (https://zenodo.org/records/3275138) on the Trade Similarity Index for the EU
+        - Use bilateral distance relationship within SPI 
   - Music Global Top 50 Charts + Global Charts by Spotify
     - Difficult to find; mostly dominated by US musicians 
   - World Value Survey Global Culture Map [1998-2023] 
