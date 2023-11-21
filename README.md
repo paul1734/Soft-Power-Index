@@ -11,6 +11,9 @@ institutions of international regulations" (Nye 1990, p. 168). "Soft power is th
 3) ideally consisting of over 100 countries
 4) create a internally valid ranking system
 5) avoid a systemic bias for Western liberal democracies
+   - ‘the power of attraction is not inherently liberal or Western’,
+      since a Hollywood flm, for example, ‘may produce attraction in Brazil at the same time it produces
+      repulsion in Saudi Arabia’ (Nye 2021, p. 201; in Chitty et al 2023)  
 
 ### The following list will explain my choice of sub-indices. 
 
@@ -97,6 +100,10 @@ Nye, J. S. (2004). Soft Power and American Foreign Policy. Political Science Qua
 R&D Spending:
     
     - https://ourworldindata.org/research-and-development
+
+
+Chitty, N., Ji, L., & Rawnsley, G.D. (Eds.). (2023). The Routledge Handbook of Soft Power (2nd ed.). Routledge. https://doi.org/10.4324/9781003189756
+
 
 Scimago: 
     
