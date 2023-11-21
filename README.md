@@ -70,6 +70,8 @@ Based on McClory's 6 main sub-indices:
       - "Multinational corporations are another source of cooptive power" (Nye 1990, p.168) -> However, strongly correlated to economic success.
 6.	Digital Sub-index: Questionable wether to include or omit. Unclear which variables to use which could represent soft power.
   - could include: telephone, mail and post service, internet connectivity, TV as a whole
+  - List of international broadcasters: https://en.wikipedia.org/wiki/List_of_international_broadcasters
+        - TV and Radio   
 
 
 # Source: 
