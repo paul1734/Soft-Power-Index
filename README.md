@@ -19,7 +19,8 @@ institutions of international regulations" (Nye 1990, p. 168). "Soft power is th
 
 Based on McClory's 6 main sub-indices:
 1.	Government Sub-index:
-  - Polity 5 project [1812-2018] 
+  - Polity 5 project [1812-2018]
+  - Diplometrics Database [1960-2020]; Includes every state visit to foreign embassy for past 60 years
 2.	Culture Sub-index:
   - Country Similarity Index (CSI) / Distance Matrix
     - no peer reviewed article citing it, difficulty of using it in academic context.
@@ -86,6 +87,10 @@ CPI:
 CSI:
 
     - https://objectivelists.com/2020/05/30/country-similarity-index/
+
+Diplometrics:
+
+    - https://korbel.du.edu/pardee/research/diplometrics/diplomatic-representation
 
 Polity 5:
 
