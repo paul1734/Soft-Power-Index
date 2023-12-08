@@ -15,6 +15,7 @@ institutions of international regulations" (Nye 1990, p. 168). "Soft power is th
       since a Hollywood flm, for example, ‘may produce attraction in Brazil at the same time it produces
       repulsion in Saudi Arabia’ (Nye 2021, p. 201; in Chitty et al 2023)  
 
+## The following table explains my data choice which will be present in the soft power index
 
 | Data                                        | Type       | Year Coverage               | Static / Yearly | Soft Power Category      | Interpolation | Extrapolation | Score   | Notes                                                                                                                                                            |
 | ------------------------------------------- | ---------- | --------------------------- | --------------- | ------------------------ | ------------- | ------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +30,7 @@ institutions of international regulations" (Nye 1990, p. 168). "Soft power is th
 | Tourism: Int Arrivals                       | Unilateral | 1995 - 2020                 | Yearly          | Culture                  | unclear       | unclear       | unclear |                                                                                                                                                                  |
 | Tourism: Int Departures                     | Unilateral | 1995 - 2020                 | Yearly          | Culture                  | unclear       | unclear       | unclear | A lot of missing data for every country                                                                                                                          |
 | Unesco Heritage Sites                       | Unilateral | 1990 - 2020                 | Yearly          | Culture                  | No            | No            | 2       |                                                                                                                                                                  |
-### The following list will explain my choice of sub-indices. 
+### The following list will explain my choice of data and possible further extension. 
 
 Based on McClory's 6 main sub-indices:
 1.	Government Sub-index:
