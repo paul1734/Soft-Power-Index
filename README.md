@@ -29,7 +29,15 @@ institutions of international regulations" (Nye 1990, p. 168). "Soft power is th
 | Science: R&D Spending by GDP                | Unilateral | 1996-2020                   | Yearly          | Political Values         | Yes           | Yes           | 1,25    |                                                                                                                                                                  |
 | Tourism: Int Arrivals                       | Unilateral | 1995 - 2020                 | Yearly          | Culture                  | unclear       | unclear       | unclear |                                                                                                                                                                  |
 | Tourism: Int Departures                     | Unilateral | 1995 - 2020                 | Yearly          | Culture                  | unclear       | unclear       | unclear | A lot of missing data for every country                                                                                                                          |
-| Unesco Heritage Sites                       | Unilateral | 1990 - 2020                 | Yearly          | Culture                  | No            | No            | 2       |                                                                                                                                                                  |
+| Unesco Heritage Sites                       | Unilateral | 1990 - 2020                 | Yearly          | Culture                  | No            | No            | 2       |        
+
+### How the score is calculated:
+| Score            | Complete       | Semi                       | Semi                      | Semi                                  | Semi            | Incomplete                 | Incomplete                | Incomplete                            |
+| ---------------- | -------------- | -------------------------- | ------------------------- | ------------------------------------- | --------------- | -------------------------- | ------------------------- | ------------------------------------- |
+| Year Coverage    | Complete (+1)  | Interpolated Years (+0,75) | Extrapolated Years (+0,5) | Extra- and Interpolated Years (+0,25) | Complete (+1)   | Interpolated Years (+0,75) | Extrapolated Years (+0,5) | Extra- and Interpolated Years (+0,25) |
+| Type             | Bilateral (+2) | Bilateral (+2)             | Bilateral (+2)            | Bilateral (+2)                        | Unilateral (+1) | Unilateral (+1)            | Unilateral (+1)           | Unilateral (+1)                       |
+| If Static: - 0,5 |                |                            |                           |                                       |                 |                            |                           |                                       |
+| Sum              | 3              | 2,75                       | 2,5                       | 2,25                                  | 2               | 1,75                       | 1,5                       | 1,25                                  ||
 ### The following list will explain my choice of data and possible further extension. 
 
 Based on McClory's 6 main sub-indices:
