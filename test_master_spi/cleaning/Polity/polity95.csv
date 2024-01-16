@@ -1,0 +1,4692 @@
+Nation,Year,polity,state_type
+Afghanistan,1990,-8,Autocracy
+Afghanistan,1991,-8,Autocracy
+Afghanistan,1992,0,Anocracy
+Afghanistan,1993,0,Anocracy
+Afghanistan,1994,0,Anocracy
+Afghanistan,1995,0,Anocracy
+Afghanistan,1996,-7,Autocracy
+Afghanistan,1997,-7,Autocracy
+Afghanistan,1998,-7,Autocracy
+Afghanistan,1999,-7,Autocracy
+Afghanistan,2000,-7,Autocracy
+Afghanistan,2001,-7,Autocracy
+Afghanistan,2002,-6,Autocracy
+Afghanistan,2003,-6,Autocracy
+Afghanistan,2004,-5,Anocracy
+Afghanistan,2005,-5,Anocracy
+Afghanistan,2006,-4,Anocracy
+Afghanistan,2007,-4,Anocracy
+Afghanistan,2008,-4,Anocracy
+Afghanistan,2009,-3,Anocracy
+Afghanistan,2010,-3,Anocracy
+Afghanistan,2011,-2,Anocracy
+Afghanistan,2012,-2,Anocracy
+Afghanistan,2013,-1,Anocracy
+Afghanistan,2014,-1,Anocracy
+Afghanistan,2015,-1,Anocracy
+Afghanistan,2016,-1,Anocracy
+Afghanistan,2017,-1,Anocracy
+Afghanistan,2018,-1,Anocracy
+Albania,1990,1,Anocracy
+Albania,1991,3,Anocracy
+Albania,1992,5,Anocracy
+Albania,1993,5,Anocracy
+Albania,1994,5,Anocracy
+Albania,1995,5,Anocracy
+Albania,1996,0,Anocracy
+Albania,1997,5,Anocracy
+Albania,1998,5,Anocracy
+Albania,1999,5,Anocracy
+Albania,2000,5,Anocracy
+Albania,2001,5,Anocracy
+Albania,2002,7,Democracy
+Albania,2003,7,Democracy
+Albania,2004,7,Democracy
+Albania,2005,9,Democracy
+Albania,2006,9,Democracy
+Albania,2007,9,Democracy
+Albania,2008,9,Democracy
+Albania,2009,9,Democracy
+Albania,2010,9,Democracy
+Albania,2011,9,Democracy
+Albania,2012,9,Democracy
+Albania,2013,9,Democracy
+Albania,2014,9,Democracy
+Albania,2015,9,Democracy
+Albania,2016,9,Democracy
+Albania,2017,9,Democracy
+Albania,2018,9,Democracy
+Algeria,1990,-2,Anocracy
+Algeria,1991,-2,Anocracy
+Algeria,1992,-7,Autocracy
+Algeria,1993,-7,Autocracy
+Algeria,1994,-7,Autocracy
+Algeria,1995,-3,Anocracy
+Algeria,1996,-3,Anocracy
+Algeria,1997,-3,Anocracy
+Algeria,1998,-3,Anocracy
+Algeria,1999,-3,Anocracy
+Algeria,2000,-3,Anocracy
+Algeria,2001,-3,Anocracy
+Algeria,2002,-3,Anocracy
+Algeria,2003,-3,Anocracy
+Algeria,2004,2,Anocracy
+Algeria,2005,2,Anocracy
+Algeria,2006,2,Anocracy
+Algeria,2007,2,Anocracy
+Algeria,2008,2,Anocracy
+Algeria,2009,2,Anocracy
+Algeria,2010,2,Anocracy
+Algeria,2011,2,Anocracy
+Algeria,2012,2,Anocracy
+Algeria,2013,2,Anocracy
+Algeria,2014,2,Anocracy
+Algeria,2015,2,Anocracy
+Algeria,2016,2,Anocracy
+Algeria,2017,2,Anocracy
+Algeria,2018,2,Anocracy
+Angola,1990,-7,Autocracy
+Angola,1991,-4,Anocracy
+Angola,1992,0,Anocracy
+Angola,1993,-1,Anocracy
+Angola,1994,-2,Anocracy
+Angola,1995,-4,Anocracy
+Angola,1996,-5,Anocracy
+Angola,1997,-6,Autocracy
+Angola,1998,-6,Autocracy
+Angola,1999,-6,Autocracy
+Angola,2000,-6,Autocracy
+Angola,2001,-6,Autocracy
+Angola,2002,-2,Anocracy
+Angola,2003,-2,Anocracy
+Angola,2004,-2,Anocracy
+Angola,2005,-2,Anocracy
+Angola,2006,-2,Anocracy
+Angola,2007,-2,Anocracy
+Angola,2008,-2,Anocracy
+Angola,2009,-2,Anocracy
+Angola,2010,-2,Anocracy
+Angola,2011,-2,Anocracy
+Angola,2012,-2,Anocracy
+Angola,2013,-2,Anocracy
+Angola,2014,-2,Anocracy
+Angola,2015,-2,Anocracy
+Angola,2016,-2,Anocracy
+Angola,2017,-2,Anocracy
+Angola,2018,-2,Anocracy
+Argentina,1990,7,Democracy
+Argentina,1991,7,Democracy
+Argentina,1992,7,Democracy
+Argentina,1993,7,Democracy
+Argentina,1994,7,Democracy
+Argentina,1995,7,Democracy
+Argentina,1996,7,Democracy
+Argentina,1997,7,Democracy
+Argentina,1998,7,Democracy
+Argentina,1999,8,Democracy
+Argentina,2000,8,Democracy
+Argentina,2001,8,Democracy
+Argentina,2002,8,Democracy
+Argentina,2003,8,Democracy
+Argentina,2004,8,Democracy
+Argentina,2005,8,Democracy
+Argentina,2006,8,Democracy
+Argentina,2007,8,Democracy
+Argentina,2008,8,Democracy
+Argentina,2009,8,Democracy
+Argentina,2010,8,Democracy
+Argentina,2011,8,Democracy
+Argentina,2012,8,Democracy
+Argentina,2013,8,Democracy
+Argentina,2014,8,Democracy
+Argentina,2015,9,Democracy
+Argentina,2016,9,Democracy
+Argentina,2017,9,Democracy
+Argentina,2018,9,Democracy
+Armenia,1991,6,Democracy
+Armenia,1992,6,Democracy
+Armenia,1993,6,Democracy
+Armenia,1994,6,Democracy
+Armenia,1995,1,Anocracy
+Armenia,1996,-6,Autocracy
+Armenia,1997,-6,Autocracy
+Armenia,1998,5,Anocracy
+Armenia,1999,5,Anocracy
+Armenia,2000,5,Anocracy
+Armenia,2001,5,Anocracy
+Armenia,2002,5,Anocracy
+Armenia,2003,5,Anocracy
+Armenia,2004,5,Anocracy
+Armenia,2005,5,Anocracy
+Armenia,2006,5,Anocracy
+Armenia,2007,5,Anocracy
+Armenia,2008,5,Anocracy
+Armenia,2009,5,Anocracy
+Armenia,2010,5,Anocracy
+Armenia,2011,5,Anocracy
+Armenia,2012,5,Anocracy
+Armenia,2013,5,Anocracy
+Armenia,2014,5,Anocracy
+Armenia,2015,5,Anocracy
+Armenia,2016,5,Anocracy
+Armenia,2017,5,Anocracy
+Armenia,2018,7,Democracy
+Australia,1990,10,Democracy
+Australia,1991,10,Democracy
+Australia,1992,10,Democracy
+Australia,1993,10,Democracy
+Australia,1994,10,Democracy
+Australia,1995,10,Democracy
+Australia,1996,10,Democracy
+Australia,1997,10,Democracy
+Australia,1998,10,Democracy
+Australia,1999,10,Democracy
+Australia,2000,10,Democracy
+Australia,2001,10,Democracy
+Australia,2002,10,Democracy
+Australia,2003,10,Democracy
+Australia,2004,10,Democracy
+Australia,2005,10,Democracy
+Australia,2006,10,Democracy
+Australia,2007,10,Democracy
+Australia,2008,10,Democracy
+Australia,2009,10,Democracy
+Australia,2010,10,Democracy
+Australia,2011,10,Democracy
+Australia,2012,10,Democracy
+Australia,2013,10,Democracy
+Australia,2014,10,Democracy
+Australia,2015,10,Democracy
+Australia,2016,10,Democracy
+Australia,2017,10,Democracy
+Australia,2018,10,Democracy
+Austria,1990,10,Democracy
+Austria,1991,10,Democracy
+Austria,1992,10,Democracy
+Austria,1993,10,Democracy
+Austria,1994,10,Democracy
+Austria,1995,10,Democracy
+Austria,1996,10,Democracy
+Austria,1997,10,Democracy
+Austria,1998,10,Democracy
+Austria,1999,10,Democracy
+Austria,2000,10,Democracy
+Austria,2001,10,Democracy
+Austria,2002,10,Democracy
+Austria,2003,10,Democracy
+Austria,2004,10,Democracy
+Austria,2005,10,Democracy
+Austria,2006,10,Democracy
+Austria,2007,10,Democracy
+Austria,2008,10,Democracy
+Austria,2009,10,Democracy
+Austria,2010,10,Democracy
+Austria,2011,10,Democracy
+Austria,2012,10,Democracy
+Austria,2013,10,Democracy
+Austria,2014,10,Democracy
+Austria,2015,10,Democracy
+Austria,2016,10,Democracy
+Austria,2017,10,Democracy
+Austria,2018,10,Democracy
+Azerbaijan,1991,-3,Anocracy
+Azerbaijan,1992,1,Anocracy
+Azerbaijan,1993,-3,Anocracy
+Azerbaijan,1994,-3,Anocracy
+Azerbaijan,1995,-6,Autocracy
+Azerbaijan,1996,-6,Autocracy
+Azerbaijan,1997,-6,Autocracy
+Azerbaijan,1998,-7,Autocracy
+Azerbaijan,1999,-7,Autocracy
+Azerbaijan,2000,-7,Autocracy
+Azerbaijan,2001,-7,Autocracy
+Azerbaijan,2002,-7,Autocracy
+Azerbaijan,2003,-7,Autocracy
+Azerbaijan,2004,-7,Autocracy
+Azerbaijan,2005,-7,Autocracy
+Azerbaijan,2006,-7,Autocracy
+Azerbaijan,2007,-7,Autocracy
+Azerbaijan,2008,-7,Autocracy
+Azerbaijan,2009,-7,Autocracy
+Azerbaijan,2010,-7,Autocracy
+Azerbaijan,2011,-7,Autocracy
+Azerbaijan,2012,-7,Autocracy
+Azerbaijan,2013,-7,Autocracy
+Azerbaijan,2014,-7,Autocracy
+Azerbaijan,2015,-7,Autocracy
+Azerbaijan,2016,-7,Autocracy
+Azerbaijan,2017,-7,Autocracy
+Azerbaijan,2018,-7,Autocracy
+Bahrain,1990,-10,Autocracy
+Bahrain,1991,-10,Autocracy
+Bahrain,1992,-10,Autocracy
+Bahrain,1993,-9,Autocracy
+Bahrain,1994,-9,Autocracy
+Bahrain,1995,-9,Autocracy
+Bahrain,1996,-9,Autocracy
+Bahrain,1997,-9,Autocracy
+Bahrain,1998,-9,Autocracy
+Bahrain,1999,-9,Autocracy
+Bahrain,2000,-9,Autocracy
+Bahrain,2001,-8,Autocracy
+Bahrain,2002,-7,Autocracy
+Bahrain,2003,-7,Autocracy
+Bahrain,2004,-7,Autocracy
+Bahrain,2005,-7,Autocracy
+Bahrain,2006,-7,Autocracy
+Bahrain,2007,-7,Autocracy
+Bahrain,2008,-7,Autocracy
+Bahrain,2009,-7,Autocracy
+Bahrain,2010,-5,Anocracy
+Bahrain,2011,-8,Autocracy
+Bahrain,2012,-10,Autocracy
+Bahrain,2013,-10,Autocracy
+Bahrain,2014,-10,Autocracy
+Bahrain,2015,-10,Autocracy
+Bahrain,2016,-10,Autocracy
+Bahrain,2017,-10,Autocracy
+Bahrain,2018,-10,Autocracy
+Belgium,1990,10,Democracy
+Belgium,1991,10,Democracy
+Belgium,1992,10,Democracy
+Belgium,1993,10,Democracy
+Belgium,1994,10,Democracy
+Belgium,1995,10,Democracy
+Belgium,1996,10,Democracy
+Belgium,1997,10,Democracy
+Belgium,1998,10,Democracy
+Belgium,1999,10,Democracy
+Belgium,2000,10,Democracy
+Belgium,2001,10,Democracy
+Belgium,2002,10,Democracy
+Belgium,2003,10,Democracy
+Belgium,2004,10,Democracy
+Belgium,2005,10,Democracy
+Belgium,2006,10,Democracy
+Belgium,2007,8,Democracy
+Belgium,2008,8,Democracy
+Belgium,2009,8,Democracy
+Belgium,2010,8,Democracy
+Belgium,2011,8,Democracy
+Belgium,2012,8,Democracy
+Belgium,2013,8,Democracy
+Belgium,2014,8,Democracy
+Belgium,2015,8,Democracy
+Belgium,2016,8,Democracy
+Belgium,2017,8,Democracy
+Belgium,2018,8,Democracy
+Benin,1990,7,Democracy
+Benin,1991,6,Democracy
+Benin,1992,6,Democracy
+Benin,1993,6,Democracy
+Benin,1994,6,Democracy
+Benin,1995,6,Democracy
+Benin,1996,6,Democracy
+Benin,1997,6,Democracy
+Benin,1998,6,Democracy
+Benin,1999,6,Democracy
+Benin,2000,6,Democracy
+Benin,2001,6,Democracy
+Benin,2002,6,Democracy
+Benin,2003,6,Democracy
+Benin,2004,6,Democracy
+Benin,2005,6,Democracy
+Benin,2006,7,Democracy
+Benin,2007,7,Democracy
+Benin,2008,7,Democracy
+Benin,2009,7,Democracy
+Benin,2010,7,Democracy
+Benin,2011,7,Democracy
+Benin,2012,7,Democracy
+Benin,2013,7,Democracy
+Benin,2014,7,Democracy
+Benin,2015,7,Democracy
+Benin,2016,7,Democracy
+Benin,2017,7,Democracy
+Benin,2018,7,Democracy
+Burkina Faso,1990,-7,Autocracy
+Burkina Faso,1991,-5,Anocracy
+Burkina Faso,1992,-5,Anocracy
+Burkina Faso,1993,-5,Anocracy
+Burkina Faso,1994,-5,Anocracy
+Burkina Faso,1995,-5,Anocracy
+Burkina Faso,1996,-5,Anocracy
+Burkina Faso,1997,-5,Anocracy
+Burkina Faso,1998,-4,Anocracy
+Burkina Faso,1999,-4,Anocracy
+Burkina Faso,2000,-3,Anocracy
+Burkina Faso,2001,0,Anocracy
+Burkina Faso,2002,0,Anocracy
+Burkina Faso,2003,0,Anocracy
+Burkina Faso,2004,0,Anocracy
+Burkina Faso,2005,0,Anocracy
+Burkina Faso,2006,0,Anocracy
+Burkina Faso,2007,0,Anocracy
+Burkina Faso,2008,0,Anocracy
+Burkina Faso,2009,0,Anocracy
+Burkina Faso,2010,0,Anocracy
+Burkina Faso,2011,0,Anocracy
+Burkina Faso,2012,0,Anocracy
+Burkina Faso,2013,0,Anocracy
+Burkina Faso,2014,0,Anocracy
+Burkina Faso,2015,6,Democracy
+Burkina Faso,2016,6,Democracy
+Burkina Faso,2017,6,Democracy
+Burkina Faso,2018,6,Democracy
+Bhutan,1990,-10,Autocracy
+Bhutan,1991,-10,Autocracy
+Bhutan,1992,-10,Autocracy
+Bhutan,1993,-10,Autocracy
+Bhutan,1994,-10,Autocracy
+Bhutan,1995,-10,Autocracy
+Bhutan,1996,-10,Autocracy
+Bhutan,1997,-10,Autocracy
+Bhutan,1998,-10,Autocracy
+Bhutan,1999,-10,Autocracy
+Bhutan,2000,-10,Autocracy
+Bhutan,2001,-10,Autocracy
+Bhutan,2002,-10,Autocracy
+Bhutan,2003,-10,Autocracy
+Bhutan,2004,-10,Autocracy
+Bhutan,2005,-5,Anocracy
+Bhutan,2006,-5,Anocracy
+Bhutan,2007,-5,Anocracy
+Bhutan,2008,3,Anocracy
+Bhutan,2009,3,Anocracy
+Bhutan,2010,3,Anocracy
+Bhutan,2011,3,Anocracy
+Bhutan,2012,3,Anocracy
+Bhutan,2013,5,Anocracy
+Bhutan,2014,5,Anocracy
+Bhutan,2015,5,Anocracy
+Bhutan,2016,5,Anocracy
+Bhutan,2017,5,Anocracy
+Bhutan,2018,7,Democracy
+Belarus,1991,6,Democracy
+Belarus,1992,6,Democracy
+Belarus,1993,6,Democracy
+Belarus,1994,8,Democracy
+Belarus,1995,0,Anocracy
+Belarus,1996,-7,Autocracy
+Belarus,1997,-7,Autocracy
+Belarus,1998,-7,Autocracy
+Belarus,1999,-7,Autocracy
+Belarus,2000,-7,Autocracy
+Belarus,2001,-7,Autocracy
+Belarus,2002,-7,Autocracy
+Belarus,2003,-7,Autocracy
+Belarus,2004,-7,Autocracy
+Belarus,2005,-7,Autocracy
+Belarus,2006,-7,Autocracy
+Belarus,2007,-7,Autocracy
+Belarus,2008,-7,Autocracy
+Belarus,2009,-7,Autocracy
+Belarus,2010,-7,Autocracy
+Belarus,2011,-7,Autocracy
+Belarus,2012,-7,Autocracy
+Belarus,2013,-7,Autocracy
+Belarus,2014,-7,Autocracy
+Belarus,2015,-7,Autocracy
+Belarus,2016,-7,Autocracy
+Belarus,2017,-7,Autocracy
+Belarus,2018,-7,Autocracy
+Bangladesh,1990,-5,Anocracy
+Bangladesh,1991,6,Democracy
+Bangladesh,1992,6,Democracy
+Bangladesh,1993,6,Democracy
+Bangladesh,1994,6,Democracy
+Bangladesh,1995,6,Democracy
+Bangladesh,1996,6,Democracy
+Bangladesh,1997,6,Democracy
+Bangladesh,1998,6,Democracy
+Bangladesh,1999,6,Democracy
+Bangladesh,2000,6,Democracy
+Bangladesh,2001,6,Democracy
+Bangladesh,2002,6,Democracy
+Bangladesh,2003,6,Democracy
+Bangladesh,2004,6,Democracy
+Bangladesh,2005,6,Democracy
+Bangladesh,2006,6,Democracy
+Bangladesh,2007,-6,Autocracy
+Bangladesh,2008,-6,Autocracy
+Bangladesh,2009,5,Anocracy
+Bangladesh,2010,5,Anocracy
+Bangladesh,2011,5,Anocracy
+Bangladesh,2012,5,Anocracy
+Bangladesh,2013,4,Anocracy
+Bangladesh,2014,1,Anocracy
+Bangladesh,2015,1,Anocracy
+Bangladesh,2016,1,Anocracy
+Bangladesh,2017,1,Anocracy
+Bangladesh,2018,-6,Autocracy
+Bolivia,1990,9,Democracy
+Bolivia,1991,9,Democracy
+Bolivia,1992,9,Democracy
+Bolivia,1993,9,Democracy
+Bolivia,1994,9,Democracy
+Bolivia,1995,9,Democracy
+Bolivia,1996,9,Democracy
+Bolivia,1997,9,Democracy
+Bolivia,1998,9,Democracy
+Bolivia,1999,9,Democracy
+Bolivia,2000,9,Democracy
+Bolivia,2001,9,Democracy
+Bolivia,2002,9,Democracy
+Bolivia,2003,8,Democracy
+Bolivia,2004,8,Democracy
+Bolivia,2005,8,Democracy
+Bolivia,2006,8,Democracy
+Bolivia,2007,8,Democracy
+Bolivia,2008,8,Democracy
+Bolivia,2009,7,Democracy
+Bolivia,2010,7,Democracy
+Bolivia,2011,7,Democracy
+Bolivia,2012,7,Democracy
+Bolivia,2013,7,Democracy
+Bolivia,2014,7,Democracy
+Bolivia,2015,7,Democracy
+Bolivia,2016,7,Democracy
+Bolivia,2017,7,Democracy
+Bolivia,2018,7,Democracy
+Bosnia and Herzegovina,1992,0,Anocracy
+Bosnia and Herzegovina,1993,0,Anocracy
+Bosnia and Herzegovina,1994,0,Anocracy
+Bosnia and Herzegovina,1995,0,Anocracy
+Bosnia and Herzegovina,1996,1,Anocracy
+Bosnia and Herzegovina,1997,1,Anocracy
+Bosnia and Herzegovina,1998,1,Anocracy
+Bosnia and Herzegovina,1999,1,Anocracy
+Bosnia and Herzegovina,2000,2,Anocracy
+Bosnia and Herzegovina,2001,2,Anocracy
+Bosnia and Herzegovina,2002,2,Anocracy
+Bosnia and Herzegovina,2003,3,Anocracy
+Bosnia and Herzegovina,2004,3,Anocracy
+Bosnia and Herzegovina,2005,3,Anocracy
+Bosnia and Herzegovina,2006,3,Anocracy
+Bosnia and Herzegovina,2007,4,Anocracy
+Bosnia and Herzegovina,2008,4,Anocracy
+Bosnia and Herzegovina,2009,4,Anocracy
+Bosnia and Herzegovina,2010,4,Anocracy
+Bosnia and Herzegovina,2011,5,Anocracy
+Bosnia and Herzegovina,2012,5,Anocracy
+Bosnia and Herzegovina,2013,5,Anocracy
+Bosnia and Herzegovina,2014,6,Democracy
+Bosnia and Herzegovina,2015,6,Democracy
+Bosnia and Herzegovina,2016,6,Democracy
+Bosnia and Herzegovina,2017,6,Democracy
+Bosnia and Herzegovina,2018,7,Democracy
+Botswana,1990,7,Democracy
+Botswana,1991,7,Democracy
+Botswana,1992,7,Democracy
+Botswana,1993,7,Democracy
+Botswana,1994,7,Democracy
+Botswana,1995,7,Democracy
+Botswana,1996,7,Democracy
+Botswana,1997,8,Democracy
+Botswana,1998,8,Democracy
+Botswana,1999,8,Democracy
+Botswana,2000,8,Democracy
+Botswana,2001,8,Democracy
+Botswana,2002,8,Democracy
+Botswana,2003,8,Democracy
+Botswana,2004,8,Democracy
+Botswana,2005,8,Democracy
+Botswana,2006,8,Democracy
+Botswana,2007,8,Democracy
+Botswana,2008,8,Democracy
+Botswana,2009,8,Democracy
+Botswana,2010,8,Democracy
+Botswana,2011,8,Democracy
+Botswana,2012,8,Democracy
+Botswana,2013,8,Democracy
+Botswana,2014,8,Democracy
+Botswana,2015,8,Democracy
+Botswana,2016,8,Democracy
+Botswana,2017,8,Democracy
+Botswana,2018,8,Democracy
+Brazil,1990,8,Democracy
+Brazil,1991,8,Democracy
+Brazil,1992,8,Democracy
+Brazil,1993,8,Democracy
+Brazil,1994,8,Democracy
+Brazil,1995,8,Democracy
+Brazil,1996,8,Democracy
+Brazil,1997,8,Democracy
+Brazil,1998,8,Democracy
+Brazil,1999,8,Democracy
+Brazil,2000,8,Democracy
+Brazil,2001,8,Democracy
+Brazil,2002,8,Democracy
+Brazil,2003,8,Democracy
+Brazil,2004,8,Democracy
+Brazil,2005,8,Democracy
+Brazil,2006,8,Democracy
+Brazil,2007,8,Democracy
+Brazil,2008,8,Democracy
+Brazil,2009,8,Democracy
+Brazil,2010,8,Democracy
+Brazil,2011,8,Democracy
+Brazil,2012,8,Democracy
+Brazil,2013,8,Democracy
+Brazil,2014,8,Democracy
+Brazil,2015,8,Democracy
+Brazil,2016,8,Democracy
+Brazil,2017,8,Democracy
+Brazil,2018,8,Democracy
+Burundi,1990,-6,Autocracy
+Burundi,1991,-6,Autocracy
+Burundi,1992,-3,Anocracy
+Burundi,1993,0,Anocracy
+Burundi,1994,0,Anocracy
+Burundi,1995,0,Anocracy
+Burundi,1996,-5,Anocracy
+Burundi,1997,-5,Anocracy
+Burundi,1998,-1,Anocracy
+Burundi,1999,-1,Anocracy
+Burundi,2000,-1,Anocracy
+Burundi,2001,0,Anocracy
+Burundi,2002,2,Anocracy
+Burundi,2003,3,Anocracy
+Burundi,2004,5,Anocracy
+Burundi,2005,6,Democracy
+Burundi,2006,6,Democracy
+Burundi,2007,6,Democracy
+Burundi,2008,6,Democracy
+Burundi,2009,6,Democracy
+Burundi,2010,6,Democracy
+Burundi,2011,6,Democracy
+Burundi,2012,6,Democracy
+Burundi,2013,6,Democracy
+Burundi,2014,6,Democracy
+Burundi,2015,-1,Anocracy
+Burundi,2016,-1,Anocracy
+Burundi,2017,-1,Anocracy
+Burundi,2018,-1,Anocracy
+Bulgaria,1990,7,Democracy
+Bulgaria,1991,7,Democracy
+Bulgaria,1992,8,Democracy
+Bulgaria,1993,8,Democracy
+Bulgaria,1994,8,Democracy
+Bulgaria,1995,8,Democracy
+Bulgaria,1996,8,Democracy
+Bulgaria,1997,8,Democracy
+Bulgaria,1998,8,Democracy
+Bulgaria,1999,8,Democracy
+Bulgaria,2000,8,Democracy
+Bulgaria,2001,9,Democracy
+Bulgaria,2002,9,Democracy
+Bulgaria,2003,9,Democracy
+Bulgaria,2004,9,Democracy
+Bulgaria,2005,9,Democracy
+Bulgaria,2006,9,Democracy
+Bulgaria,2007,9,Democracy
+Bulgaria,2008,9,Democracy
+Bulgaria,2009,9,Democracy
+Bulgaria,2010,9,Democracy
+Bulgaria,2011,9,Democracy
+Bulgaria,2012,9,Democracy
+Bulgaria,2013,9,Democracy
+Bulgaria,2014,9,Democracy
+Bulgaria,2015,9,Democracy
+Bulgaria,2016,9,Democracy
+Bulgaria,2017,9,Democracy
+Bulgaria,2018,9,Democracy
+Cambodia,1990,7,Democracy
+Cambodia,1991,5,Anocracy
+Cambodia,1992,3,Anocracy
+Cambodia,1993,1,Anocracy
+Cambodia,1994,1,Anocracy
+Cambodia,1995,1,Anocracy
+Cambodia,1996,1,Anocracy
+Cambodia,1997,-7,Autocracy
+Cambodia,1998,2,Anocracy
+Cambodia,1999,2,Anocracy
+Cambodia,2000,2,Anocracy
+Cambodia,2001,2,Anocracy
+Cambodia,2002,2,Anocracy
+Cambodia,2003,2,Anocracy
+Cambodia,2004,2,Anocracy
+Cambodia,2005,2,Anocracy
+Cambodia,2006,2,Anocracy
+Cambodia,2007,2,Anocracy
+Cambodia,2008,2,Anocracy
+Cambodia,2009,2,Anocracy
+Cambodia,2010,2,Anocracy
+Cambodia,2011,2,Anocracy
+Cambodia,2012,2,Anocracy
+Cambodia,2013,2,Anocracy
+Cambodia,2014,2,Anocracy
+Cambodia,2015,2,Anocracy
+Cambodia,2016,2,Anocracy
+Cambodia,2017,-4,Anocracy
+Cambodia,2018,-4,Anocracy
+Canada,1990,10,Democracy
+Canada,1991,10,Democracy
+Canada,1992,10,Democracy
+Canada,1993,10,Democracy
+Canada,1994,10,Democracy
+Canada,1995,10,Democracy
+Canada,1996,10,Democracy
+Canada,1997,10,Democracy
+Canada,1998,10,Democracy
+Canada,1999,10,Democracy
+Canada,2000,10,Democracy
+Canada,2001,10,Democracy
+Canada,2002,10,Democracy
+Canada,2003,10,Democracy
+Canada,2004,10,Democracy
+Canada,2005,10,Democracy
+Canada,2006,10,Democracy
+Canada,2007,10,Democracy
+Canada,2008,10,Democracy
+Canada,2009,10,Democracy
+Canada,2010,10,Democracy
+Canada,2011,10,Democracy
+Canada,2012,10,Democracy
+Canada,2013,10,Democracy
+Canada,2014,10,Democracy
+Canada,2015,10,Democracy
+Canada,2016,10,Democracy
+Canada,2017,10,Democracy
+Canada,2018,10,Democracy
+Cameroon,1990,-3,Anocracy
+Cameroon,1991,-3,Anocracy
+Cameroon,1992,-5,Anocracy
+Cameroon,1993,-5,Anocracy
+Cameroon,1994,-5,Anocracy
+Cameroon,1995,-5,Anocracy
+Cameroon,1996,-5,Anocracy
+Cameroon,1997,-5,Anocracy
+Cameroon,1998,-5,Anocracy
+Cameroon,1999,-5,Anocracy
+Cameroon,2000,-5,Anocracy
+Cameroon,2001,-5,Anocracy
+Cameroon,2002,-5,Anocracy
+Cameroon,2003,-5,Anocracy
+Cameroon,2004,-5,Anocracy
+Cameroon,2005,-5,Anocracy
+Cameroon,2006,-5,Anocracy
+Cameroon,2007,-5,Anocracy
+Cameroon,2008,-5,Anocracy
+Cameroon,2009,-5,Anocracy
+Cameroon,2010,-5,Anocracy
+Cameroon,2011,-5,Anocracy
+Cameroon,2012,-5,Anocracy
+Cameroon,2013,-5,Anocracy
+Cameroon,2014,-5,Anocracy
+Cameroon,2015,-5,Anocracy
+Cameroon,2016,-5,Anocracy
+Cameroon,2017,-5,Anocracy
+Cameroon,2018,-5,Anocracy
+Cabo Verde,1990,-2,Anocracy
+Cabo Verde,1991,8,Democracy
+Cabo Verde,1992,8,Democracy
+Cabo Verde,1993,8,Democracy
+Cabo Verde,1994,8,Democracy
+Cabo Verde,1995,8,Democracy
+Cabo Verde,1996,8,Democracy
+Cabo Verde,1997,8,Democracy
+Cabo Verde,1998,8,Democracy
+Cabo Verde,1999,8,Democracy
+Cabo Verde,2000,8,Democracy
+Cabo Verde,2001,10,Democracy
+Cabo Verde,2002,10,Democracy
+Cabo Verde,2003,10,Democracy
+Cabo Verde,2004,10,Democracy
+Cabo Verde,2005,10,Democracy
+Cabo Verde,2006,10,Democracy
+Cabo Verde,2007,10,Democracy
+Cabo Verde,2008,10,Democracy
+Cabo Verde,2009,10,Democracy
+Cabo Verde,2010,10,Democracy
+Cabo Verde,2011,10,Democracy
+Cabo Verde,2012,10,Democracy
+Cabo Verde,2013,10,Democracy
+Cabo Verde,2014,10,Democracy
+Cabo Verde,2015,10,Democracy
+Cabo Verde,2016,10,Democracy
+Cabo Verde,2017,10,Democracy
+Cabo Verde,2018,10,Democracy
+Central African Republic,1990,-7,Autocracy
+Central African Republic,1991,-6,Autocracy
+Central African Republic,1992,-6,Autocracy
+Central African Republic,1993,5,Anocracy
+Central African Republic,1994,5,Anocracy
+Central African Republic,1995,5,Anocracy
+Central African Republic,1996,5,Anocracy
+Central African Republic,1997,5,Anocracy
+Central African Republic,1998,5,Anocracy
+Central African Republic,1999,5,Anocracy
+Central African Republic,2000,5,Anocracy
+Central African Republic,2001,5,Anocracy
+Central African Republic,2002,5,Anocracy
+Central African Republic,2003,-1,Anocracy
+Central African Republic,2004,-1,Anocracy
+Central African Republic,2005,-1,Anocracy
+Central African Republic,2006,-1,Anocracy
+Central African Republic,2007,-1,Anocracy
+Central African Republic,2008,-1,Anocracy
+Central African Republic,2009,-1,Anocracy
+Central African Republic,2010,-1,Anocracy
+Central African Republic,2011,-1,Anocracy
+Central African Republic,2012,-1,Anocracy
+Central African Republic,2013,0,Anocracy
+Central African Republic,2014,0,Anocracy
+Central African Republic,2015,0,Anocracy
+Central African Republic,2016,6,Democracy
+Central African Republic,2017,6,Democracy
+Central African Republic,2018,6,Democracy
+Chad,1990,-3,Anocracy
+Chad,1991,-3,Anocracy
+Chad,1992,-3,Anocracy
+Chad,1993,-2,Anocracy
+Chad,1994,-2,Anocracy
+Chad,1995,-2,Anocracy
+Chad,1996,-1,Anocracy
+Chad,1997,-1,Anocracy
+Chad,1998,-1,Anocracy
+Chad,1999,-1,Anocracy
+Chad,2000,-1,Anocracy
+Chad,2001,-1,Anocracy
+Chad,2002,-1,Anocracy
+Chad,2003,-1,Anocracy
+Chad,2004,-1,Anocracy
+Chad,2005,-1,Anocracy
+Chad,2006,-1,Anocracy
+Chad,2007,-1,Anocracy
+Chad,2008,-1,Anocracy
+Chad,2009,-1,Anocracy
+Chad,2010,-1,Anocracy
+Chad,2011,-1,Anocracy
+Chad,2012,-1,Anocracy
+Chad,2013,-1,Anocracy
+Chad,2014,-1,Anocracy
+Chad,2015,-1,Anocracy
+Chad,2016,-1,Anocracy
+Chad,2017,-1,Anocracy
+Chad,2018,-1,Anocracy
+Chile,1990,8,Democracy
+Chile,1991,8,Democracy
+Chile,1992,8,Democracy
+Chile,1993,8,Democracy
+Chile,1994,8,Democracy
+Chile,1995,8,Democracy
+Chile,1996,8,Democracy
+Chile,1997,8,Democracy
+Chile,1998,8,Democracy
+Chile,1999,8,Democracy
+Chile,2000,9,Democracy
+Chile,2001,9,Democracy
+Chile,2002,9,Democracy
+Chile,2003,9,Democracy
+Chile,2004,9,Democracy
+Chile,2005,9,Democracy
+Chile,2006,10,Democracy
+Chile,2007,10,Democracy
+Chile,2008,10,Democracy
+Chile,2009,10,Democracy
+Chile,2010,10,Democracy
+Chile,2011,10,Democracy
+Chile,2012,10,Democracy
+Chile,2013,10,Democracy
+Chile,2014,10,Democracy
+Chile,2015,10,Democracy
+Chile,2016,10,Democracy
+Chile,2017,10,Democracy
+Chile,2018,10,Democracy
+China,1990,-7,Autocracy
+China,1991,-7,Autocracy
+China,1992,-7,Autocracy
+China,1993,-7,Autocracy
+China,1994,-7,Autocracy
+China,1995,-7,Autocracy
+China,1996,-7,Autocracy
+China,1997,-7,Autocracy
+China,1998,-7,Autocracy
+China,1999,-7,Autocracy
+China,2000,-7,Autocracy
+China,2001,-7,Autocracy
+China,2002,-7,Autocracy
+China,2003,-7,Autocracy
+China,2004,-7,Autocracy
+China,2005,-7,Autocracy
+China,2006,-7,Autocracy
+China,2007,-7,Autocracy
+China,2008,-7,Autocracy
+China,2009,-7,Autocracy
+China,2010,-7,Autocracy
+China,2011,-7,Autocracy
+China,2012,-7,Autocracy
+China,2013,-7,Autocracy
+China,2014,-7,Autocracy
+China,2015,-7,Autocracy
+China,2016,-7,Autocracy
+China,2017,-7,Autocracy
+China,2018,-7,Autocracy
+Colombia,1990,8,Democracy
+Colombia,1991,9,Democracy
+Colombia,1992,9,Democracy
+Colombia,1993,9,Democracy
+Colombia,1994,9,Democracy
+Colombia,1995,7,Democracy
+Colombia,1996,7,Democracy
+Colombia,1997,7,Democracy
+Colombia,1998,7,Democracy
+Colombia,1999,7,Democracy
+Colombia,2000,7,Democracy
+Colombia,2001,7,Democracy
+Colombia,2002,7,Democracy
+Colombia,2003,7,Democracy
+Colombia,2004,7,Democracy
+Colombia,2005,7,Democracy
+Colombia,2006,7,Democracy
+Colombia,2007,7,Democracy
+Colombia,2008,7,Democracy
+Colombia,2009,7,Democracy
+Colombia,2010,7,Democracy
+Colombia,2011,7,Democracy
+Colombia,2012,7,Democracy
+Colombia,2013,7,Democracy
+Colombia,2014,7,Democracy
+Colombia,2015,7,Democracy
+Colombia,2016,7,Democracy
+Colombia,2017,7,Democracy
+Colombia,2018,7,Democracy
+Comoros,1990,4,Anocracy
+Comoros,1991,4,Anocracy
+Comoros,1992,4,Anocracy
+Comoros,1993,4,Anocracy
+Comoros,1994,4,Anocracy
+Comoros,1995,0,Anocracy
+Comoros,1996,4,Anocracy
+Comoros,1997,4,Anocracy
+Comoros,1998,4,Anocracy
+Comoros,1999,-2,Anocracy
+Comoros,2000,-1,Anocracy
+Comoros,2001,0,Anocracy
+Comoros,2002,4,Anocracy
+Comoros,2003,4,Anocracy
+Comoros,2004,6,Democracy
+Comoros,2005,6,Democracy
+Comoros,2006,9,Democracy
+Comoros,2007,9,Democracy
+Comoros,2008,9,Democracy
+Comoros,2009,9,Democracy
+Comoros,2010,9,Democracy
+Comoros,2011,9,Democracy
+Comoros,2012,9,Democracy
+Comoros,2013,9,Democracy
+Comoros,2014,9,Democracy
+Comoros,2015,9,Democracy
+Comoros,2016,9,Democracy
+Comoros,2017,9,Democracy
+Comoros,2018,-3,Anocracy
+Congo Republic,1990,-8,Autocracy
+Congo Republic,1991,-2,Anocracy
+Congo Republic,1992,5,Anocracy
+Congo Republic,1993,5,Anocracy
+Congo Republic,1994,5,Anocracy
+Congo Republic,1995,5,Anocracy
+Congo Republic,1996,5,Anocracy
+Congo Republic,1997,-6,Autocracy
+Congo Republic,1998,-6,Autocracy
+Congo Republic,1999,-6,Autocracy
+Congo Republic,2000,-6,Autocracy
+Congo Republic,2001,-5,Anocracy
+Congo Republic,2002,-4,Anocracy
+Congo Republic,2003,-4,Anocracy
+Congo Republic,2004,-4,Anocracy
+Congo Republic,2005,-4,Anocracy
+Congo Republic,2006,-4,Anocracy
+Congo Republic,2007,-4,Anocracy
+Congo Republic,2008,-4,Anocracy
+Congo Republic,2009,-4,Anocracy
+Congo Republic,2010,-4,Anocracy
+Congo Republic,2011,-4,Anocracy
+Congo Republic,2012,-4,Anocracy
+Congo Republic,2013,-4,Anocracy
+Congo Republic,2014,-4,Anocracy
+Congo Republic,2015,-4,Anocracy
+Congo Republic,2016,-4,Anocracy
+Congo Republic,2017,-4,Anocracy
+Congo Republic,2018,-4,Anocracy
+Costa Rica,1990,10,Democracy
+Costa Rica,1991,10,Democracy
+Costa Rica,1992,10,Democracy
+Costa Rica,1993,10,Democracy
+Costa Rica,1994,10,Democracy
+Costa Rica,1995,10,Democracy
+Costa Rica,1996,10,Democracy
+Costa Rica,1997,10,Democracy
+Costa Rica,1998,10,Democracy
+Costa Rica,1999,10,Democracy
+Costa Rica,2000,10,Democracy
+Costa Rica,2001,10,Democracy
+Costa Rica,2002,10,Democracy
+Costa Rica,2003,10,Democracy
+Costa Rica,2004,10,Democracy
+Costa Rica,2005,10,Democracy
+Costa Rica,2006,10,Democracy
+Costa Rica,2007,10,Democracy
+Costa Rica,2008,10,Democracy
+Costa Rica,2009,10,Democracy
+Costa Rica,2010,10,Democracy
+Costa Rica,2011,10,Democracy
+Costa Rica,2012,10,Democracy
+Costa Rica,2013,10,Democracy
+Costa Rica,2014,10,Democracy
+Costa Rica,2015,10,Democracy
+Costa Rica,2016,10,Democracy
+Costa Rica,2017,10,Democracy
+Costa Rica,2018,10,Democracy
+Croatia,1991,-3,Anocracy
+Croatia,1992,-3,Anocracy
+Croatia,1993,-3,Anocracy
+Croatia,1994,-3,Anocracy
+Croatia,1995,-5,Anocracy
+Croatia,1996,-5,Anocracy
+Croatia,1997,-5,Anocracy
+Croatia,1998,-5,Anocracy
+Croatia,1999,2,Anocracy
+Croatia,2000,8,Democracy
+Croatia,2001,8,Democracy
+Croatia,2002,8,Democracy
+Croatia,2003,8,Democracy
+Croatia,2004,8,Democracy
+Croatia,2005,9,Democracy
+Croatia,2006,9,Democracy
+Croatia,2007,9,Democracy
+Croatia,2008,9,Democracy
+Croatia,2009,9,Democracy
+Croatia,2010,9,Democracy
+Croatia,2011,9,Democracy
+Croatia,2012,9,Democracy
+Croatia,2013,9,Democracy
+Croatia,2014,9,Democracy
+Croatia,2015,9,Democracy
+Croatia,2016,9,Democracy
+Croatia,2017,9,Democracy
+Croatia,2018,9,Democracy
+Cuba,1990,-7,Autocracy
+Cuba,1991,-7,Autocracy
+Cuba,1992,-7,Autocracy
+Cuba,1993,-7,Autocracy
+Cuba,1994,-7,Autocracy
+Cuba,1995,-7,Autocracy
+Cuba,1996,-7,Autocracy
+Cuba,1997,-7,Autocracy
+Cuba,1998,-7,Autocracy
+Cuba,1999,-7,Autocracy
+Cuba,2000,-7,Autocracy
+Cuba,2001,-7,Autocracy
+Cuba,2002,-7,Autocracy
+Cuba,2003,-7,Autocracy
+Cuba,2004,-7,Autocracy
+Cuba,2005,-7,Autocracy
+Cuba,2006,-7,Autocracy
+Cuba,2007,-7,Autocracy
+Cuba,2008,-7,Autocracy
+Cuba,2009,-7,Autocracy
+Cuba,2010,-7,Autocracy
+Cuba,2011,-7,Autocracy
+Cuba,2012,-7,Autocracy
+Cuba,2013,-7,Autocracy
+Cuba,2014,-7,Autocracy
+Cuba,2015,-7,Autocracy
+Cuba,2016,-7,Autocracy
+Cuba,2017,-7,Autocracy
+Cuba,2018,-5,Anocracy
+Cyprus,1990,10,Democracy
+Cyprus,1991,10,Democracy
+Cyprus,1992,10,Democracy
+Cyprus,1993,10,Democracy
+Cyprus,1994,10,Democracy
+Cyprus,1995,10,Democracy
+Cyprus,1996,10,Democracy
+Cyprus,1997,10,Democracy
+Cyprus,1998,10,Democracy
+Cyprus,1999,10,Democracy
+Cyprus,2000,10,Democracy
+Cyprus,2001,10,Democracy
+Cyprus,2002,10,Democracy
+Cyprus,2003,10,Democracy
+Cyprus,2004,10,Democracy
+Cyprus,2005,10,Democracy
+Cyprus,2006,10,Democracy
+Cyprus,2007,10,Democracy
+Cyprus,2008,10,Democracy
+Cyprus,2009,10,Democracy
+Cyprus,2010,10,Democracy
+Cyprus,2011,10,Democracy
+Cyprus,2012,10,Democracy
+Cyprus,2013,10,Democracy
+Cyprus,2014,10,Democracy
+Cyprus,2015,10,Democracy
+Cyprus,2016,10,Democracy
+Cyprus,2017,10,Democracy
+Cyprus,2018,10,Democracy
+Czechia,1990,7,Democracy
+Czechia,1991,7,Democracy
+Czechia,1992,7,Democracy
+Czechia,1993,10,Democracy
+Czechia,1994,10,Democracy
+Czechia,1995,10,Democracy
+Czechia,1996,10,Democracy
+Czechia,1997,10,Democracy
+Czechia,1998,10,Democracy
+Czechia,1999,10,Democracy
+Czechia,2000,10,Democracy
+Czechia,2001,10,Democracy
+Czechia,2002,10,Democracy
+Czechia,2003,10,Democracy
+Czechia,2004,10,Democracy
+Czechia,2005,10,Democracy
+Czechia,2006,9,Democracy
+Czechia,2007,9,Democracy
+Czechia,2008,9,Democracy
+Czechia,2009,9,Democracy
+Czechia,2010,9,Democracy
+Czechia,2011,9,Democracy
+Czechia,2012,9,Democracy
+Czechia,2013,9,Democracy
+Czechia,2014,9,Democracy
+Czechia,2015,9,Democracy
+Czechia,2016,9,Democracy
+Czechia,2017,9,Democracy
+Czechia,2018,9,Democracy
+Denmark,1990,10,Democracy
+Denmark,1991,10,Democracy
+Denmark,1992,10,Democracy
+Denmark,1993,10,Democracy
+Denmark,1994,10,Democracy
+Denmark,1995,10,Democracy
+Denmark,1996,10,Democracy
+Denmark,1997,10,Democracy
+Denmark,1998,10,Democracy
+Denmark,1999,10,Democracy
+Denmark,2000,10,Democracy
+Denmark,2001,10,Democracy
+Denmark,2002,10,Democracy
+Denmark,2003,10,Democracy
+Denmark,2004,10,Democracy
+Denmark,2005,10,Democracy
+Denmark,2006,10,Democracy
+Denmark,2007,10,Democracy
+Denmark,2008,10,Democracy
+Denmark,2009,10,Democracy
+Denmark,2010,10,Democracy
+Denmark,2011,10,Democracy
+Denmark,2012,10,Democracy
+Denmark,2013,10,Democracy
+Denmark,2014,10,Democracy
+Denmark,2015,10,Democracy
+Denmark,2016,10,Democracy
+Denmark,2017,10,Democracy
+Denmark,2018,10,Democracy
+Djibouti,1990,-8,Autocracy
+Djibouti,1991,-8,Autocracy
+Djibouti,1992,-7,Autocracy
+Djibouti,1993,-7,Autocracy
+Djibouti,1994,-7,Autocracy
+Djibouti,1995,-7,Autocracy
+Djibouti,1996,-6,Autocracy
+Djibouti,1997,-6,Autocracy
+Djibouti,1998,-6,Autocracy
+Djibouti,1999,1,Anocracy
+Djibouti,2000,1,Anocracy
+Djibouti,2001,1,Anocracy
+Djibouti,2002,1,Anocracy
+Djibouti,2003,1,Anocracy
+Djibouti,2004,1,Anocracy
+Djibouti,2005,2,Anocracy
+Djibouti,2006,2,Anocracy
+Djibouti,2007,2,Anocracy
+Djibouti,2008,2,Anocracy
+Djibouti,2009,2,Anocracy
+Djibouti,2010,2,Anocracy
+Djibouti,2011,2,Anocracy
+Djibouti,2012,2,Anocracy
+Djibouti,2013,3,Anocracy
+Djibouti,2014,3,Anocracy
+Djibouti,2015,3,Anocracy
+Djibouti,2016,3,Anocracy
+Djibouti,2017,3,Anocracy
+Djibouti,2018,3,Anocracy
+Dominican Republic,1990,5,Anocracy
+Dominican Republic,1991,5,Anocracy
+Dominican Republic,1992,5,Anocracy
+Dominican Republic,1993,5,Anocracy
+Dominican Republic,1994,5,Anocracy
+Dominican Republic,1995,5,Anocracy
+Dominican Republic,1996,8,Democracy
+Dominican Republic,1997,8,Democracy
+Dominican Republic,1998,8,Democracy
+Dominican Republic,1999,8,Democracy
+Dominican Republic,2000,8,Democracy
+Dominican Republic,2001,8,Democracy
+Dominican Republic,2002,8,Democracy
+Dominican Republic,2003,8,Democracy
+Dominican Republic,2004,8,Democracy
+Dominican Republic,2005,8,Democracy
+Dominican Republic,2006,8,Democracy
+Dominican Republic,2007,8,Democracy
+Dominican Republic,2008,8,Democracy
+Dominican Republic,2009,8,Democracy
+Dominican Republic,2010,8,Democracy
+Dominican Republic,2011,8,Democracy
+Dominican Republic,2012,8,Democracy
+Dominican Republic,2013,8,Democracy
+Dominican Republic,2014,8,Democracy
+Dominican Republic,2015,8,Democracy
+Dominican Republic,2016,7,Democracy
+Dominican Republic,2017,7,Democracy
+Dominican Republic,2018,7,Democracy
+Ecuador,1990,9,Democracy
+Ecuador,1991,9,Democracy
+Ecuador,1992,9,Democracy
+Ecuador,1993,9,Democracy
+Ecuador,1994,9,Democracy
+Ecuador,1995,9,Democracy
+Ecuador,1996,9,Democracy
+Ecuador,1997,9,Democracy
+Ecuador,1998,9,Democracy
+Ecuador,1999,9,Democracy
+Ecuador,2000,6,Democracy
+Ecuador,2001,6,Democracy
+Ecuador,2002,6,Democracy
+Ecuador,2003,6,Democracy
+Ecuador,2004,6,Democracy
+Ecuador,2005,6,Democracy
+Ecuador,2006,7,Democracy
+Ecuador,2007,5,Anocracy
+Ecuador,2008,5,Anocracy
+Ecuador,2009,5,Anocracy
+Ecuador,2010,5,Anocracy
+Ecuador,2011,5,Anocracy
+Ecuador,2012,5,Anocracy
+Ecuador,2013,5,Anocracy
+Ecuador,2014,5,Anocracy
+Ecuador,2015,5,Anocracy
+Ecuador,2016,5,Anocracy
+Ecuador,2017,5,Anocracy
+Ecuador,2018,5,Anocracy
+Egypt,1990,-6,Autocracy
+Egypt,1991,-6,Autocracy
+Egypt,1992,-6,Autocracy
+Egypt,1993,-6,Autocracy
+Egypt,1994,-6,Autocracy
+Egypt,1995,-6,Autocracy
+Egypt,1996,-6,Autocracy
+Egypt,1997,-6,Autocracy
+Egypt,1998,-6,Autocracy
+Egypt,1999,-6,Autocracy
+Egypt,2000,-6,Autocracy
+Egypt,2001,-6,Autocracy
+Egypt,2002,-6,Autocracy
+Egypt,2003,-6,Autocracy
+Egypt,2004,-6,Autocracy
+Egypt,2005,-3,Anocracy
+Egypt,2006,-3,Anocracy
+Egypt,2007,-3,Anocracy
+Egypt,2008,-3,Anocracy
+Egypt,2009,-3,Anocracy
+Egypt,2010,-3,Anocracy
+Egypt,2011,-2,Anocracy
+Egypt,2012,-3,Anocracy
+Egypt,2013,-4,Anocracy
+Egypt,2014,-4,Anocracy
+Egypt,2015,-4,Anocracy
+Egypt,2016,-4,Anocracy
+Egypt,2017,-4,Anocracy
+Egypt,2018,-4,Anocracy
+Equatorial Guinea,1990,-7,Autocracy
+Equatorial Guinea,1991,-7,Autocracy
+Equatorial Guinea,1992,-7,Autocracy
+Equatorial Guinea,1993,-5,Anocracy
+Equatorial Guinea,1994,-5,Anocracy
+Equatorial Guinea,1995,-5,Anocracy
+Equatorial Guinea,1996,-6,Autocracy
+Equatorial Guinea,1997,-6,Autocracy
+Equatorial Guinea,1998,-6,Autocracy
+Equatorial Guinea,1999,-6,Autocracy
+Equatorial Guinea,2000,-6,Autocracy
+Equatorial Guinea,2001,-6,Autocracy
+Equatorial Guinea,2002,-6,Autocracy
+Equatorial Guinea,2003,-6,Autocracy
+Equatorial Guinea,2004,-6,Autocracy
+Equatorial Guinea,2005,-6,Autocracy
+Equatorial Guinea,2006,-6,Autocracy
+Equatorial Guinea,2007,-6,Autocracy
+Equatorial Guinea,2008,-6,Autocracy
+Equatorial Guinea,2009,-6,Autocracy
+Equatorial Guinea,2010,-6,Autocracy
+Equatorial Guinea,2011,-6,Autocracy
+Equatorial Guinea,2012,-6,Autocracy
+Equatorial Guinea,2013,-6,Autocracy
+Equatorial Guinea,2014,-6,Autocracy
+Equatorial Guinea,2015,-6,Autocracy
+Equatorial Guinea,2016,-6,Autocracy
+Equatorial Guinea,2017,-6,Autocracy
+Equatorial Guinea,2018,-6,Autocracy
+Eritrea,1993,-6,Autocracy
+Eritrea,1994,-6,Autocracy
+Eritrea,1995,-6,Autocracy
+Eritrea,1996,-6,Autocracy
+Eritrea,1997,-6,Autocracy
+Eritrea,1998,-6,Autocracy
+Eritrea,1999,-6,Autocracy
+Eritrea,2000,-6,Autocracy
+Eritrea,2001,-7,Autocracy
+Eritrea,2002,-7,Autocracy
+Eritrea,2003,-7,Autocracy
+Eritrea,2004,-7,Autocracy
+Eritrea,2005,-7,Autocracy
+Eritrea,2006,-7,Autocracy
+Eritrea,2007,-7,Autocracy
+Eritrea,2008,-7,Autocracy
+Eritrea,2009,-7,Autocracy
+Eritrea,2010,-7,Autocracy
+Eritrea,2011,-7,Autocracy
+Eritrea,2012,-7,Autocracy
+Eritrea,2013,-7,Autocracy
+Eritrea,2014,-7,Autocracy
+Eritrea,2015,-7,Autocracy
+Eritrea,2016,-7,Autocracy
+Eritrea,2017,-7,Autocracy
+Eritrea,2018,-7,Autocracy
+Estonia,1991,6,Democracy
+Estonia,1992,6,Democracy
+Estonia,1993,6,Democracy
+Estonia,1994,6,Democracy
+Estonia,1995,6,Democracy
+Estonia,1996,6,Democracy
+Estonia,1997,6,Democracy
+Estonia,1998,6,Democracy
+Estonia,1999,7,Democracy
+Estonia,2000,9,Democracy
+Estonia,2001,9,Democracy
+Estonia,2002,9,Democracy
+Estonia,2003,9,Democracy
+Estonia,2004,9,Democracy
+Estonia,2005,9,Democracy
+Estonia,2006,9,Democracy
+Estonia,2007,9,Democracy
+Estonia,2008,9,Democracy
+Estonia,2009,9,Democracy
+Estonia,2010,9,Democracy
+Estonia,2011,9,Democracy
+Estonia,2012,9,Democracy
+Estonia,2013,9,Democracy
+Estonia,2014,9,Democracy
+Estonia,2015,9,Democracy
+Estonia,2016,9,Democracy
+Estonia,2017,9,Democracy
+Estonia,2018,9,Democracy
+Ethiopia,1990,-8,Autocracy
+Ethiopia,1991,0,Anocracy
+Ethiopia,1992,0,Anocracy
+Ethiopia,1993,0,Anocracy
+Ethiopia,1993,1,Anocracy
+Ethiopia,1994,1,Anocracy
+Ethiopia,1995,1,Anocracy
+Ethiopia,1996,1,Anocracy
+Ethiopia,1997,1,Anocracy
+Ethiopia,1998,1,Anocracy
+Ethiopia,1999,1,Anocracy
+Ethiopia,2000,1,Anocracy
+Ethiopia,2001,1,Anocracy
+Ethiopia,2002,1,Anocracy
+Ethiopia,2003,1,Anocracy
+Ethiopia,2004,1,Anocracy
+Ethiopia,2005,-3,Anocracy
+Ethiopia,2006,-3,Anocracy
+Ethiopia,2007,-3,Anocracy
+Ethiopia,2008,-3,Anocracy
+Ethiopia,2009,-3,Anocracy
+Ethiopia,2010,-3,Anocracy
+Ethiopia,2011,-3,Anocracy
+Ethiopia,2012,-3,Anocracy
+Ethiopia,2013,-3,Anocracy
+Ethiopia,2014,-3,Anocracy
+Ethiopia,2015,-3,Anocracy
+Ethiopia,2016,-3,Anocracy
+Ethiopia,2017,-3,Anocracy
+Ethiopia,2018,1,Anocracy
+Finland,1990,10,Democracy
+Finland,1991,10,Democracy
+Finland,1992,10,Democracy
+Finland,1993,10,Democracy
+Finland,1994,10,Democracy
+Finland,1995,10,Democracy
+Finland,1996,10,Democracy
+Finland,1997,10,Democracy
+Finland,1998,10,Democracy
+Finland,1999,10,Democracy
+Finland,2000,10,Democracy
+Finland,2001,10,Democracy
+Finland,2002,10,Democracy
+Finland,2003,10,Democracy
+Finland,2004,10,Democracy
+Finland,2005,10,Democracy
+Finland,2006,10,Democracy
+Finland,2007,10,Democracy
+Finland,2008,10,Democracy
+Finland,2009,10,Democracy
+Finland,2010,10,Democracy
+Finland,2011,10,Democracy
+Finland,2012,10,Democracy
+Finland,2013,10,Democracy
+Finland,2014,10,Democracy
+Finland,2015,10,Democracy
+Finland,2016,10,Democracy
+Finland,2017,10,Democracy
+Finland,2018,10,Democracy
+Fiji,1990,5,Anocracy
+Fiji,1991,5,Anocracy
+Fiji,1992,5,Anocracy
+Fiji,1993,5,Anocracy
+Fiji,1994,5,Anocracy
+Fiji,1995,5,Anocracy
+Fiji,1996,5,Anocracy
+Fiji,1997,5,Anocracy
+Fiji,1998,6,Democracy
+Fiji,1999,8,Democracy
+Fiji,2000,6,Democracy
+Fiji,2001,5,Anocracy
+Fiji,2002,5,Anocracy
+Fiji,2003,5,Anocracy
+Fiji,2004,6,Democracy
+Fiji,2005,6,Democracy
+Fiji,2006,-3,Anocracy
+Fiji,2007,-4,Anocracy
+Fiji,2008,-4,Anocracy
+Fiji,2009,-4,Anocracy
+Fiji,2010,-4,Anocracy
+Fiji,2011,-4,Anocracy
+Fiji,2012,-4,Anocracy
+Fiji,2013,-4,Anocracy
+Fiji,2014,2,Anocracy
+Fiji,2015,2,Anocracy
+Fiji,2016,2,Anocracy
+Fiji,2017,2,Anocracy
+Fiji,2018,4,Anocracy
+France,1990,10,Democracy
+France,1991,10,Democracy
+France,1992,10,Democracy
+France,1993,10,Democracy
+France,1994,10,Democracy
+France,1995,10,Democracy
+France,1996,10,Democracy
+France,1997,10,Democracy
+France,1998,10,Democracy
+France,1999,10,Democracy
+France,2000,10,Democracy
+France,2001,10,Democracy
+France,2002,10,Democracy
+France,2003,10,Democracy
+France,2004,10,Democracy
+France,2005,10,Democracy
+France,2006,10,Democracy
+France,2007,10,Democracy
+France,2008,10,Democracy
+France,2009,10,Democracy
+France,2010,10,Democracy
+France,2011,10,Democracy
+France,2012,10,Democracy
+France,2013,10,Democracy
+France,2014,10,Democracy
+France,2015,10,Democracy
+France,2016,10,Democracy
+France,2017,10,Democracy
+France,2018,10,Democracy
+Gabon,1990,3,Anocracy
+Gabon,1991,-4,Anocracy
+Gabon,1992,-4,Anocracy
+Gabon,1993,-4,Anocracy
+Gabon,1994,-4,Anocracy
+Gabon,1995,-4,Anocracy
+Gabon,1996,-4,Anocracy
+Gabon,1997,-4,Anocracy
+Gabon,1998,-4,Anocracy
+Gabon,1999,-4,Anocracy
+Gabon,2000,-4,Anocracy
+Gabon,2001,-4,Anocracy
+Gabon,2002,-4,Anocracy
+Gabon,2003,-4,Anocracy
+Gabon,2004,-4,Anocracy
+Gabon,2005,-4,Anocracy
+Gabon,2006,-4,Anocracy
+Gabon,2007,-4,Anocracy
+Gabon,2008,-4,Anocracy
+Gabon,2009,3,Anocracy
+Gabon,2010,3,Anocracy
+Gabon,2011,3,Anocracy
+Gabon,2012,3,Anocracy
+Gabon,2013,3,Anocracy
+Gabon,2014,3,Anocracy
+Gabon,2015,3,Anocracy
+Gabon,2016,3,Anocracy
+Gabon,2017,3,Anocracy
+Gabon,2018,3,Anocracy
+Gambia,1990,8,Democracy
+Gambia,1991,8,Democracy
+Gambia,1992,8,Democracy
+Gambia,1993,8,Democracy
+Gambia,1994,-7,Autocracy
+Gambia,1995,-7,Autocracy
+Gambia,1996,-6,Autocracy
+Gambia,1997,-5,Anocracy
+Gambia,1998,-5,Anocracy
+Gambia,1999,-5,Anocracy
+Gambia,2000,-5,Anocracy
+Gambia,2001,-5,Anocracy
+Gambia,2002,-5,Anocracy
+Gambia,2003,-5,Anocracy
+Gambia,2004,-5,Anocracy
+Gambia,2005,-5,Anocracy
+Gambia,2006,-5,Anocracy
+Gambia,2007,-5,Anocracy
+Gambia,2008,-5,Anocracy
+Gambia,2009,-5,Anocracy
+Gambia,2010,-5,Anocracy
+Gambia,2011,-5,Anocracy
+Gambia,2012,-5,Anocracy
+Gambia,2013,-5,Anocracy
+Gambia,2014,-5,Anocracy
+Gambia,2015,-5,Anocracy
+Gambia,2016,-5,Anocracy
+Gambia,2017,4,Anocracy
+Gambia,2018,4,Anocracy
+Ghana,1990,-7,Autocracy
+Ghana,1991,-4,Anocracy
+Ghana,1992,-1,Anocracy
+Ghana,1993,-1,Anocracy
+Ghana,1994,-1,Anocracy
+Ghana,1995,-1,Anocracy
+Ghana,1996,2,Anocracy
+Ghana,1997,2,Anocracy
+Ghana,1998,2,Anocracy
+Ghana,1999,2,Anocracy
+Ghana,2000,2,Anocracy
+Ghana,2001,6,Democracy
+Ghana,2002,6,Democracy
+Ghana,2003,6,Democracy
+Ghana,2004,8,Democracy
+Ghana,2005,8,Democracy
+Ghana,2006,8,Democracy
+Ghana,2007,8,Democracy
+Ghana,2008,8,Democracy
+Ghana,2009,8,Democracy
+Ghana,2010,8,Democracy
+Ghana,2011,8,Democracy
+Ghana,2012,8,Democracy
+Ghana,2013,8,Democracy
+Ghana,2014,8,Democracy
+Ghana,2015,8,Democracy
+Ghana,2016,8,Democracy
+Ghana,2017,8,Democracy
+Ghana,2018,8,Democracy
+Germany,1990,10,Democracy
+Germany,1991,10,Democracy
+Germany,1992,10,Democracy
+Germany,1993,10,Democracy
+Germany,1994,10,Democracy
+Germany,1995,10,Democracy
+Germany,1996,10,Democracy
+Germany,1997,10,Democracy
+Germany,1998,10,Democracy
+Germany,1999,10,Democracy
+Germany,2000,10,Democracy
+Germany,2001,10,Democracy
+Germany,2002,10,Democracy
+Germany,2003,10,Democracy
+Germany,2004,10,Democracy
+Germany,2005,10,Democracy
+Germany,2006,10,Democracy
+Germany,2007,10,Democracy
+Germany,2008,10,Democracy
+Germany,2009,10,Democracy
+Germany,2010,10,Democracy
+Germany,2011,10,Democracy
+Germany,2012,10,Democracy
+Germany,2013,10,Democracy
+Germany,2014,10,Democracy
+Germany,2015,10,Democracy
+Germany,2016,10,Democracy
+Germany,2017,10,Democracy
+Germany,2018,10,Democracy
+Guinea-Bissau,1990,-8,Autocracy
+Guinea-Bissau,1991,-5,Anocracy
+Guinea-Bissau,1992,-5,Anocracy
+Guinea-Bissau,1993,-5,Anocracy
+Guinea-Bissau,1994,2,Anocracy
+Guinea-Bissau,1995,2,Anocracy
+Guinea-Bissau,1996,2,Anocracy
+Guinea-Bissau,1997,2,Anocracy
+Guinea-Bissau,1998,0,Anocracy
+Guinea-Bissau,1999,2,Anocracy
+Guinea-Bissau,2000,5,Anocracy
+Guinea-Bissau,2001,5,Anocracy
+Guinea-Bissau,2002,5,Anocracy
+Guinea-Bissau,2003,-1,Anocracy
+Guinea-Bissau,2004,-1,Anocracy
+Guinea-Bissau,2005,6,Democracy
+Guinea-Bissau,2006,6,Democracy
+Guinea-Bissau,2007,6,Democracy
+Guinea-Bissau,2008,6,Democracy
+Guinea-Bissau,2009,6,Democracy
+Guinea-Bissau,2010,6,Democracy
+Guinea-Bissau,2011,6,Democracy
+Guinea-Bissau,2012,1,Anocracy
+Guinea-Bissau,2013,1,Anocracy
+Guinea-Bissau,2014,6,Democracy
+Guinea-Bissau,2015,6,Democracy
+Guinea-Bissau,2016,6,Democracy
+Guinea-Bissau,2017,6,Democracy
+Guinea-Bissau,2018,6,Democracy
+Greece,1990,10,Democracy
+Greece,1991,10,Democracy
+Greece,1992,10,Democracy
+Greece,1993,10,Democracy
+Greece,1994,10,Democracy
+Greece,1995,10,Democracy
+Greece,1996,10,Democracy
+Greece,1997,10,Democracy
+Greece,1998,10,Democracy
+Greece,1999,10,Democracy
+Greece,2000,10,Democracy
+Greece,2001,10,Democracy
+Greece,2002,10,Democracy
+Greece,2003,10,Democracy
+Greece,2004,10,Democracy
+Greece,2005,10,Democracy
+Greece,2006,10,Democracy
+Greece,2007,10,Democracy
+Greece,2008,10,Democracy
+Greece,2009,10,Democracy
+Greece,2010,10,Democracy
+Greece,2011,10,Democracy
+Greece,2012,10,Democracy
+Greece,2013,10,Democracy
+Greece,2014,10,Democracy
+Greece,2015,10,Democracy
+Greece,2016,10,Democracy
+Greece,2017,10,Democracy
+Greece,2018,10,Democracy
+Georgia,1991,3,Anocracy
+Georgia,1992,0,Anocracy
+Georgia,1993,0,Anocracy
+Georgia,1994,2,Anocracy
+Georgia,1995,4,Anocracy
+Georgia,1996,4,Anocracy
+Georgia,1997,4,Anocracy
+Georgia,1998,4,Anocracy
+Georgia,1999,4,Anocracy
+Georgia,2000,2,Anocracy
+Georgia,2001,2,Anocracy
+Georgia,2002,2,Anocracy
+Georgia,2003,2,Anocracy
+Georgia,2004,6,Democracy
+Georgia,2005,6,Democracy
+Georgia,2006,6,Democracy
+Georgia,2007,6,Democracy
+Georgia,2008,6,Democracy
+Georgia,2009,6,Democracy
+Georgia,2010,6,Democracy
+Georgia,2011,6,Democracy
+Georgia,2012,6,Democracy
+Georgia,2013,7,Democracy
+Georgia,2014,7,Democracy
+Georgia,2015,7,Democracy
+Georgia,2016,7,Democracy
+Georgia,2017,7,Democracy
+Georgia,2018,7,Democracy
+Guatemala,1990,3,Anocracy
+Guatemala,1991,3,Anocracy
+Guatemala,1992,3,Anocracy
+Guatemala,1993,3,Anocracy
+Guatemala,1994,3,Anocracy
+Guatemala,1995,3,Anocracy
+Guatemala,1996,8,Democracy
+Guatemala,1997,8,Democracy
+Guatemala,1998,8,Democracy
+Guatemala,1999,8,Democracy
+Guatemala,2000,8,Democracy
+Guatemala,2001,8,Democracy
+Guatemala,2002,8,Democracy
+Guatemala,2003,8,Democracy
+Guatemala,2004,8,Democracy
+Guatemala,2005,8,Democracy
+Guatemala,2006,8,Democracy
+Guatemala,2007,8,Democracy
+Guatemala,2008,8,Democracy
+Guatemala,2009,8,Democracy
+Guatemala,2010,8,Democracy
+Guatemala,2011,8,Democracy
+Guatemala,2012,8,Democracy
+Guatemala,2013,8,Democracy
+Guatemala,2014,8,Democracy
+Guatemala,2015,8,Democracy
+Guatemala,2016,8,Democracy
+Guatemala,2017,8,Democracy
+Guatemala,2018,8,Democracy
+Guinea,1990,-7,Autocracy
+Guinea,1991,-5,Anocracy
+Guinea,1992,-5,Anocracy
+Guinea,1993,-5,Anocracy
+Guinea,1994,-5,Anocracy
+Guinea,1995,-1,Anocracy
+Guinea,1996,-1,Anocracy
+Guinea,1997,-1,Anocracy
+Guinea,1998,-1,Anocracy
+Guinea,1999,-1,Anocracy
+Guinea,2000,-1,Anocracy
+Guinea,2001,-1,Anocracy
+Guinea,2002,-1,Anocracy
+Guinea,2003,-1,Anocracy
+Guinea,2004,-1,Anocracy
+Guinea,2005,-1,Anocracy
+Guinea,2006,-1,Anocracy
+Guinea,2007,-1,Anocracy
+Guinea,2008,-1,Anocracy
+Guinea,2009,-1,Anocracy
+Guinea,2010,1,Anocracy
+Guinea,2011,1,Anocracy
+Guinea,2012,1,Anocracy
+Guinea,2013,4,Anocracy
+Guinea,2014,4,Anocracy
+Guinea,2015,4,Anocracy
+Guinea,2016,4,Anocracy
+Guinea,2017,4,Anocracy
+Guinea,2018,4,Anocracy
+Guyana,1990,-7,Autocracy
+Guyana,1991,-7,Autocracy
+Guyana,1992,6,Democracy
+Guyana,1993,6,Democracy
+Guyana,1994,6,Democracy
+Guyana,1995,6,Democracy
+Guyana,1996,6,Democracy
+Guyana,1997,6,Democracy
+Guyana,1998,6,Democracy
+Guyana,1999,6,Democracy
+Guyana,2000,6,Democracy
+Guyana,2001,6,Democracy
+Guyana,2002,6,Democracy
+Guyana,2003,6,Democracy
+Guyana,2004,6,Democracy
+Guyana,2005,6,Democracy
+Guyana,2006,6,Democracy
+Guyana,2007,6,Democracy
+Guyana,2008,6,Democracy
+Guyana,2009,6,Democracy
+Guyana,2010,6,Democracy
+Guyana,2011,6,Democracy
+Guyana,2012,6,Democracy
+Guyana,2013,6,Democracy
+Guyana,2014,6,Democracy
+Guyana,2015,7,Democracy
+Guyana,2016,7,Democracy
+Guyana,2017,7,Democracy
+Guyana,2018,7,Democracy
+Haiti,1990,0,Anocracy
+Haiti,1991,-7,Autocracy
+Haiti,1992,-7,Autocracy
+Haiti,1993,-7,Autocracy
+Haiti,1994,6,Democracy
+Haiti,1995,6,Democracy
+Haiti,1996,7,Democracy
+Haiti,1997,7,Democracy
+Haiti,1998,7,Democracy
+Haiti,1999,2,Anocracy
+Haiti,2000,-2,Anocracy
+Haiti,2001,-2,Anocracy
+Haiti,2002,-2,Anocracy
+Haiti,2003,-2,Anocracy
+Haiti,2004,0,Anocracy
+Haiti,2005,3,Anocracy
+Haiti,2006,5,Anocracy
+Haiti,2007,5,Anocracy
+Haiti,2008,5,Anocracy
+Haiti,2009,5,Anocracy
+Haiti,2010,0,Anocracy
+Haiti,2011,0,Anocracy
+Haiti,2012,0,Anocracy
+Haiti,2013,0,Anocracy
+Haiti,2014,0,Anocracy
+Haiti,2015,0,Anocracy
+Haiti,2016,2,Anocracy
+Haiti,2017,5,Anocracy
+Haiti,2018,5,Anocracy
+Honduras,1990,6,Democracy
+Honduras,1991,6,Democracy
+Honduras,1992,6,Democracy
+Honduras,1993,6,Democracy
+Honduras,1994,6,Democracy
+Honduras,1995,6,Democracy
+Honduras,1996,6,Democracy
+Honduras,1997,6,Democracy
+Honduras,1998,6,Democracy
+Honduras,1999,7,Democracy
+Honduras,2000,7,Democracy
+Honduras,2001,7,Democracy
+Honduras,2002,7,Democracy
+Honduras,2003,7,Democracy
+Honduras,2004,7,Democracy
+Honduras,2005,7,Democracy
+Honduras,2006,7,Democracy
+Honduras,2007,7,Democracy
+Honduras,2008,7,Democracy
+Honduras,2009,7,Democracy
+Honduras,2010,7,Democracy
+Honduras,2011,7,Democracy
+Honduras,2012,7,Democracy
+Honduras,2013,7,Democracy
+Honduras,2014,7,Democracy
+Honduras,2015,7,Democracy
+Honduras,2016,7,Democracy
+Honduras,2017,7,Democracy
+Honduras,2018,7,Democracy
+Hungary,1990,10,Democracy
+Hungary,1991,10,Democracy
+Hungary,1992,10,Democracy
+Hungary,1993,10,Democracy
+Hungary,1994,10,Democracy
+Hungary,1995,10,Democracy
+Hungary,1996,10,Democracy
+Hungary,1997,10,Democracy
+Hungary,1998,10,Democracy
+Hungary,1999,10,Democracy
+Hungary,2000,10,Democracy
+Hungary,2001,10,Democracy
+Hungary,2002,10,Democracy
+Hungary,2003,10,Democracy
+Hungary,2004,10,Democracy
+Hungary,2005,10,Democracy
+Hungary,2006,10,Democracy
+Hungary,2007,10,Democracy
+Hungary,2008,10,Democracy
+Hungary,2009,10,Democracy
+Hungary,2010,10,Democracy
+Hungary,2011,10,Democracy
+Hungary,2012,10,Democracy
+Hungary,2013,10,Democracy
+Hungary,2014,10,Democracy
+Hungary,2015,10,Democracy
+Hungary,2016,10,Democracy
+Hungary,2017,10,Democracy
+Hungary,2018,10,Democracy
+India,1990,8,Democracy
+India,1991,8,Democracy
+India,1992,8,Democracy
+India,1993,8,Democracy
+India,1994,8,Democracy
+India,1995,8,Democracy
+India,1996,8,Democracy
+India,1997,8,Democracy
+India,1998,9,Democracy
+India,1999,9,Democracy
+India,2000,9,Democracy
+India,2001,9,Democracy
+India,2002,9,Democracy
+India,2003,9,Democracy
+India,2004,9,Democracy
+India,2005,9,Democracy
+India,2006,9,Democracy
+India,2007,9,Democracy
+India,2008,9,Democracy
+India,2009,9,Democracy
+India,2010,9,Democracy
+India,2011,9,Democracy
+India,2012,9,Democracy
+India,2013,9,Democracy
+India,2014,9,Democracy
+India,2015,9,Democracy
+India,2016,9,Democracy
+India,2017,9,Democracy
+India,2018,9,Democracy
+Indonesia,1990,-7,Autocracy
+Indonesia,1991,-7,Autocracy
+Indonesia,1992,-7,Autocracy
+Indonesia,1993,-7,Autocracy
+Indonesia,1994,-7,Autocracy
+Indonesia,1995,-7,Autocracy
+Indonesia,1996,-7,Autocracy
+Indonesia,1997,-7,Autocracy
+Indonesia,1998,-5,Anocracy
+Indonesia,1999,6,Democracy
+Indonesia,2000,6,Democracy
+Indonesia,2001,6,Democracy
+Indonesia,2002,6,Democracy
+Indonesia,2003,6,Democracy
+Indonesia,2004,8,Democracy
+Indonesia,2005,8,Democracy
+Indonesia,2006,8,Democracy
+Indonesia,2007,8,Democracy
+Indonesia,2008,8,Democracy
+Indonesia,2009,8,Democracy
+Indonesia,2010,8,Democracy
+Indonesia,2011,8,Democracy
+Indonesia,2012,8,Democracy
+Indonesia,2013,8,Democracy
+Indonesia,2014,9,Democracy
+Indonesia,2015,9,Democracy
+Indonesia,2016,9,Democracy
+Indonesia,2017,9,Democracy
+Indonesia,2018,9,Democracy
+Ireland,1990,10,Democracy
+Ireland,1991,10,Democracy
+Ireland,1992,10,Democracy
+Ireland,1993,10,Democracy
+Ireland,1994,10,Democracy
+Ireland,1995,10,Democracy
+Ireland,1996,10,Democracy
+Ireland,1997,10,Democracy
+Ireland,1998,10,Democracy
+Ireland,1999,10,Democracy
+Ireland,2000,10,Democracy
+Ireland,2001,10,Democracy
+Ireland,2002,10,Democracy
+Ireland,2003,10,Democracy
+Ireland,2004,10,Democracy
+Ireland,2005,10,Democracy
+Ireland,2006,10,Democracy
+Ireland,2007,10,Democracy
+Ireland,2008,10,Democracy
+Ireland,2009,10,Democracy
+Ireland,2010,10,Democracy
+Ireland,2011,10,Democracy
+Ireland,2012,10,Democracy
+Ireland,2013,10,Democracy
+Ireland,2014,10,Democracy
+Ireland,2015,10,Democracy
+Ireland,2016,10,Democracy
+Ireland,2017,10,Democracy
+Ireland,2018,10,Democracy
+Iran,1990,-6,Autocracy
+Iran,1991,-6,Autocracy
+Iran,1992,-6,Autocracy
+Iran,1993,-6,Autocracy
+Iran,1994,-6,Autocracy
+Iran,1995,-6,Autocracy
+Iran,1996,-6,Autocracy
+Iran,1997,3,Anocracy
+Iran,1998,3,Anocracy
+Iran,1999,3,Anocracy
+Iran,2000,3,Anocracy
+Iran,2001,3,Anocracy
+Iran,2002,3,Anocracy
+Iran,2003,3,Anocracy
+Iran,2004,-7,Autocracy
+Iran,2005,-6,Autocracy
+Iran,2006,-6,Autocracy
+Iran,2007,-6,Autocracy
+Iran,2008,-6,Autocracy
+Iran,2009,-7,Autocracy
+Iran,2010,-7,Autocracy
+Iran,2011,-7,Autocracy
+Iran,2012,-7,Autocracy
+Iran,2013,-7,Autocracy
+Iran,2014,-7,Autocracy
+Iran,2015,-7,Autocracy
+Iran,2016,-7,Autocracy
+Iran,2017,-7,Autocracy
+Iran,2018,-7,Autocracy
+Iraq,1990,-9,Autocracy
+Iraq,1991,-9,Autocracy
+Iraq,1992,-9,Autocracy
+Iraq,1993,-9,Autocracy
+Iraq,1994,-9,Autocracy
+Iraq,1995,-9,Autocracy
+Iraq,1996,-9,Autocracy
+Iraq,1997,-9,Autocracy
+Iraq,1998,-9,Autocracy
+Iraq,1999,-9,Autocracy
+Iraq,2000,-9,Autocracy
+Iraq,2001,-9,Autocracy
+Iraq,2002,-9,Autocracy
+Iraq,2003,-8,Autocracy
+Iraq,2004,-6,Autocracy
+Iraq,2005,-4,Anocracy
+Iraq,2006,-3,Anocracy
+Iraq,2007,-2,Anocracy
+Iraq,2008,0,Anocracy
+Iraq,2009,2,Anocracy
+Iraq,2010,3,Anocracy
+Iraq,2011,3,Anocracy
+Iraq,2012,3,Anocracy
+Iraq,2013,3,Anocracy
+Iraq,2014,6,Democracy
+Iraq,2015,6,Democracy
+Iraq,2016,6,Democracy
+Iraq,2017,6,Democracy
+Iraq,2018,6,Democracy
+Israel,1990,6,Democracy
+Israel,1991,6,Democracy
+Israel,1992,6,Democracy
+Israel,1993,6,Democracy
+Israel,1994,6,Democracy
+Israel,1995,6,Democracy
+Israel,1996,6,Democracy
+Israel,1997,6,Democracy
+Israel,1998,6,Democracy
+Israel,1999,6,Democracy
+Israel,2000,6,Democracy
+Israel,2001,6,Democracy
+Israel,2002,6,Democracy
+Israel,2003,6,Democracy
+Israel,2004,6,Democracy
+Israel,2005,6,Democracy
+Israel,2006,6,Democracy
+Israel,2007,6,Democracy
+Israel,2008,6,Democracy
+Israel,2009,6,Democracy
+Israel,2010,6,Democracy
+Israel,2011,6,Democracy
+Israel,2012,6,Democracy
+Israel,2013,6,Democracy
+Israel,2014,6,Democracy
+Israel,2015,6,Democracy
+Israel,2016,6,Democracy
+Israel,2017,6,Democracy
+Israel,2018,6,Democracy
+Italy,1990,10,Democracy
+Italy,1991,10,Democracy
+Italy,1992,10,Democracy
+Italy,1993,10,Democracy
+Italy,1994,10,Democracy
+Italy,1995,10,Democracy
+Italy,1996,10,Democracy
+Italy,1997,10,Democracy
+Italy,1998,10,Democracy
+Italy,1999,10,Democracy
+Italy,2000,10,Democracy
+Italy,2001,10,Democracy
+Italy,2002,10,Democracy
+Italy,2003,10,Democracy
+Italy,2004,10,Democracy
+Italy,2005,10,Democracy
+Italy,2006,10,Democracy
+Italy,2007,10,Democracy
+Italy,2008,10,Democracy
+Italy,2009,10,Democracy
+Italy,2010,10,Democracy
+Italy,2011,10,Democracy
+Italy,2012,10,Democracy
+Italy,2013,10,Democracy
+Italy,2014,10,Democracy
+Italy,2015,10,Democracy
+Italy,2016,10,Democracy
+Italy,2017,10,Democracy
+Italy,2018,10,Democracy
+Cote d'Ivoire,1990,-7,Autocracy
+Cote d'Ivoire,1991,-7,Autocracy
+Cote d'Ivoire,1992,-7,Autocracy
+Cote d'Ivoire,1993,-6,Autocracy
+Cote d'Ivoire,1994,-6,Autocracy
+Cote d'Ivoire,1995,-6,Autocracy
+Cote d'Ivoire,1996,-6,Autocracy
+Cote d'Ivoire,1997,-6,Autocracy
+Cote d'Ivoire,1998,-6,Autocracy
+Cote d'Ivoire,1999,-1,Anocracy
+Cote d'Ivoire,2000,4,Anocracy
+Cote d'Ivoire,2001,4,Anocracy
+Cote d'Ivoire,2002,0,Anocracy
+Cote d'Ivoire,2003,0,Anocracy
+Cote d'Ivoire,2004,0,Anocracy
+Cote d'Ivoire,2005,0,Anocracy
+Cote d'Ivoire,2006,0,Anocracy
+Cote d'Ivoire,2007,0,Anocracy
+Cote d'Ivoire,2008,0,Anocracy
+Cote d'Ivoire,2009,0,Anocracy
+Cote d'Ivoire,2010,0,Anocracy
+Cote d'Ivoire,2011,4,Anocracy
+Cote d'Ivoire,2012,4,Anocracy
+Cote d'Ivoire,2013,4,Anocracy
+Cote d'Ivoire,2014,4,Anocracy
+Cote d'Ivoire,2015,4,Anocracy
+Cote d'Ivoire,2016,4,Anocracy
+Cote d'Ivoire,2017,4,Anocracy
+Cote d'Ivoire,2018,4,Anocracy
+Jamaica,1990,10,Democracy
+Jamaica,1991,10,Democracy
+Jamaica,1992,10,Democracy
+Jamaica,1993,9,Democracy
+Jamaica,1994,9,Democracy
+Jamaica,1995,9,Democracy
+Jamaica,1996,9,Democracy
+Jamaica,1997,9,Democracy
+Jamaica,1998,9,Democracy
+Jamaica,1999,9,Democracy
+Jamaica,2000,9,Democracy
+Jamaica,2001,9,Democracy
+Jamaica,2002,9,Democracy
+Jamaica,2003,9,Democracy
+Jamaica,2004,9,Democracy
+Jamaica,2005,9,Democracy
+Jamaica,2006,9,Democracy
+Jamaica,2007,9,Democracy
+Jamaica,2008,9,Democracy
+Jamaica,2009,9,Democracy
+Jamaica,2010,9,Democracy
+Jamaica,2011,9,Democracy
+Jamaica,2012,9,Democracy
+Jamaica,2013,9,Democracy
+Jamaica,2014,9,Democracy
+Jamaica,2015,9,Democracy
+Jamaica,2016,9,Democracy
+Jamaica,2017,9,Democracy
+Jamaica,2018,9,Democracy
+Jordan,1990,-4,Anocracy
+Jordan,1991,-4,Anocracy
+Jordan,1992,-2,Anocracy
+Jordan,1993,-2,Anocracy
+Jordan,1994,-2,Anocracy
+Jordan,1995,-2,Anocracy
+Jordan,1996,-2,Anocracy
+Jordan,1997,-2,Anocracy
+Jordan,1998,-2,Anocracy
+Jordan,1999,-2,Anocracy
+Jordan,2000,-2,Anocracy
+Jordan,2001,-2,Anocracy
+Jordan,2002,-2,Anocracy
+Jordan,2003,-2,Anocracy
+Jordan,2004,-2,Anocracy
+Jordan,2005,-2,Anocracy
+Jordan,2006,-2,Anocracy
+Jordan,2007,-3,Anocracy
+Jordan,2008,-3,Anocracy
+Jordan,2009,-3,Anocracy
+Jordan,2010,-3,Anocracy
+Jordan,2011,-3,Anocracy
+Jordan,2012,-3,Anocracy
+Jordan,2013,-3,Anocracy
+Jordan,2014,-3,Anocracy
+Jordan,2015,-3,Anocracy
+Jordan,2016,-3,Anocracy
+Jordan,2017,-3,Anocracy
+Jordan,2018,-3,Anocracy
+Japan,1990,10,Democracy
+Japan,1991,10,Democracy
+Japan,1992,10,Democracy
+Japan,1993,10,Democracy
+Japan,1994,10,Democracy
+Japan,1995,10,Democracy
+Japan,1996,10,Democracy
+Japan,1997,10,Democracy
+Japan,1998,10,Democracy
+Japan,1999,10,Democracy
+Japan,2000,10,Democracy
+Japan,2001,10,Democracy
+Japan,2002,10,Democracy
+Japan,2003,10,Democracy
+Japan,2004,10,Democracy
+Japan,2005,10,Democracy
+Japan,2006,10,Democracy
+Japan,2007,10,Democracy
+Japan,2008,10,Democracy
+Japan,2009,10,Democracy
+Japan,2010,10,Democracy
+Japan,2011,10,Democracy
+Japan,2012,10,Democracy
+Japan,2013,10,Democracy
+Japan,2014,10,Democracy
+Japan,2015,10,Democracy
+Japan,2016,10,Democracy
+Japan,2017,10,Democracy
+Japan,2018,10,Democracy
+Kenya,1990,-7,Autocracy
+Kenya,1991,-5,Anocracy
+Kenya,1992,-5,Anocracy
+Kenya,1993,-5,Anocracy
+Kenya,1994,-5,Anocracy
+Kenya,1995,-5,Anocracy
+Kenya,1996,-5,Anocracy
+Kenya,1997,4,Anocracy
+Kenya,1998,4,Anocracy
+Kenya,1999,4,Anocracy
+Kenya,2000,4,Anocracy
+Kenya,2001,4,Anocracy
+Kenya,2002,8,Democracy
+Kenya,2003,8,Democracy
+Kenya,2004,8,Democracy
+Kenya,2005,8,Democracy
+Kenya,2006,8,Democracy
+Kenya,2007,7,Democracy
+Kenya,2008,7,Democracy
+Kenya,2009,7,Democracy
+Kenya,2010,8,Democracy
+Kenya,2011,8,Democracy
+Kenya,2012,8,Democracy
+Kenya,2013,9,Democracy
+Kenya,2014,9,Democracy
+Kenya,2015,9,Democracy
+Kenya,2016,9,Democracy
+Kenya,2017,9,Democracy
+Kenya,2018,9,Democracy
+Kuwait,1990,0,Anocracy
+Kuwait,1991,-9,Autocracy
+Kuwait,1992,-7,Autocracy
+Kuwait,1993,-7,Autocracy
+Kuwait,1994,-7,Autocracy
+Kuwait,1995,-7,Autocracy
+Kuwait,1996,-7,Autocracy
+Kuwait,1997,-7,Autocracy
+Kuwait,1998,-7,Autocracy
+Kuwait,1999,-7,Autocracy
+Kuwait,2000,-7,Autocracy
+Kuwait,2001,-7,Autocracy
+Kuwait,2002,-7,Autocracy
+Kuwait,2003,-7,Autocracy
+Kuwait,2004,-7,Autocracy
+Kuwait,2005,-7,Autocracy
+Kuwait,2006,-7,Autocracy
+Kuwait,2007,-7,Autocracy
+Kuwait,2008,-7,Autocracy
+Kuwait,2009,-7,Autocracy
+Kuwait,2010,-7,Autocracy
+Kuwait,2011,-7,Autocracy
+Kuwait,2012,-7,Autocracy
+Kuwait,2013,-7,Autocracy
+Kuwait,2014,-7,Autocracy
+Kuwait,2015,-7,Autocracy
+Kuwait,2016,-7,Autocracy
+Kuwait,2017,-7,Autocracy
+Kuwait,2018,-7,Autocracy
+Kyrgyz Republic,1991,-3,Anocracy
+Kyrgyz Republic,1992,-3,Anocracy
+Kyrgyz Republic,1993,-3,Anocracy
+Kyrgyz Republic,1994,-3,Anocracy
+Kyrgyz Republic,1995,-3,Anocracy
+Kyrgyz Republic,1996,-3,Anocracy
+Kyrgyz Republic,1997,-3,Anocracy
+Kyrgyz Republic,1998,-3,Anocracy
+Kyrgyz Republic,1999,-3,Anocracy
+Kyrgyz Republic,2000,-3,Anocracy
+Kyrgyz Republic,2001,-3,Anocracy
+Kyrgyz Republic,2002,-3,Anocracy
+Kyrgyz Republic,2003,-3,Anocracy
+Kyrgyz Republic,2004,-3,Anocracy
+Kyrgyz Republic,2005,3,Anocracy
+Kyrgyz Republic,2006,4,Anocracy
+Kyrgyz Republic,2007,3,Anocracy
+Kyrgyz Republic,2008,3,Anocracy
+Kyrgyz Republic,2009,1,Anocracy
+Kyrgyz Republic,2010,4,Anocracy
+Kyrgyz Republic,2011,7,Democracy
+Kyrgyz Republic,2012,7,Democracy
+Kyrgyz Republic,2013,7,Democracy
+Kyrgyz Republic,2014,7,Democracy
+Kyrgyz Republic,2015,7,Democracy
+Kyrgyz Republic,2016,7,Democracy
+Kyrgyz Republic,2017,8,Democracy
+Kyrgyz Republic,2018,8,Democracy
+Kazakhstan,1991,-3,Anocracy
+Kazakhstan,1992,-3,Anocracy
+Kazakhstan,1993,-3,Anocracy
+Kazakhstan,1994,-3,Anocracy
+Kazakhstan,1995,-6,Autocracy
+Kazakhstan,1996,-6,Autocracy
+Kazakhstan,1997,-6,Autocracy
+Kazakhstan,1998,-6,Autocracy
+Kazakhstan,1999,-6,Autocracy
+Kazakhstan,2000,-6,Autocracy
+Kazakhstan,2001,-6,Autocracy
+Kazakhstan,2002,-6,Autocracy
+Kazakhstan,2003,-6,Autocracy
+Kazakhstan,2004,-6,Autocracy
+Kazakhstan,2005,-6,Autocracy
+Kazakhstan,2006,-6,Autocracy
+Kazakhstan,2007,-6,Autocracy
+Kazakhstan,2008,-6,Autocracy
+Kazakhstan,2009,-6,Autocracy
+Kazakhstan,2010,-6,Autocracy
+Kazakhstan,2011,-6,Autocracy
+Kazakhstan,2012,-6,Autocracy
+Kazakhstan,2013,-6,Autocracy
+Kazakhstan,2014,-6,Autocracy
+Kazakhstan,2015,-6,Autocracy
+Kazakhstan,2016,-6,Autocracy
+Kazakhstan,2017,-6,Autocracy
+Kazakhstan,2018,-6,Autocracy
+Laos,1990,-7,Autocracy
+Laos,1991,-7,Autocracy
+Laos,1992,-7,Autocracy
+Laos,1993,-7,Autocracy
+Laos,1994,-7,Autocracy
+Laos,1995,-7,Autocracy
+Laos,1996,-7,Autocracy
+Laos,1997,-7,Autocracy
+Laos,1998,-7,Autocracy
+Laos,1999,-7,Autocracy
+Laos,2000,-7,Autocracy
+Laos,2001,-7,Autocracy
+Laos,2002,-7,Autocracy
+Laos,2003,-7,Autocracy
+Laos,2004,-7,Autocracy
+Laos,2005,-7,Autocracy
+Laos,2006,-7,Autocracy
+Laos,2007,-7,Autocracy
+Laos,2008,-7,Autocracy
+Laos,2009,-7,Autocracy
+Laos,2010,-7,Autocracy
+Laos,2011,-7,Autocracy
+Laos,2012,-7,Autocracy
+Laos,2013,-7,Autocracy
+Laos,2014,-7,Autocracy
+Laos,2015,-7,Autocracy
+Laos,2016,-7,Autocracy
+Laos,2017,-7,Autocracy
+Laos,2018,-7,Autocracy
+Latvia,1991,8,Democracy
+Latvia,1992,8,Democracy
+Latvia,1993,8,Democracy
+Latvia,1994,8,Democracy
+Latvia,1995,8,Democracy
+Latvia,1996,8,Democracy
+Latvia,1997,8,Democracy
+Latvia,1998,8,Democracy
+Latvia,1999,8,Democracy
+Latvia,2000,8,Democracy
+Latvia,2001,8,Democracy
+Latvia,2002,8,Democracy
+Latvia,2003,8,Democracy
+Latvia,2004,8,Democracy
+Latvia,2005,8,Democracy
+Latvia,2006,8,Democracy
+Latvia,2007,8,Democracy
+Latvia,2008,8,Democracy
+Latvia,2009,8,Democracy
+Latvia,2010,8,Democracy
+Latvia,2011,8,Democracy
+Latvia,2012,8,Democracy
+Latvia,2013,8,Democracy
+Latvia,2014,8,Democracy
+Latvia,2015,8,Democracy
+Latvia,2016,8,Democracy
+Latvia,2017,8,Democracy
+Latvia,2018,8,Democracy
+Liberia,1990,0,Anocracy
+Liberia,1991,0,Anocracy
+Liberia,1992,0,Anocracy
+Liberia,1993,0,Anocracy
+Liberia,1994,0,Anocracy
+Liberia,1995,0,Anocracy
+Liberia,1996,0,Anocracy
+Liberia,1997,0,Anocracy
+Liberia,1998,0,Anocracy
+Liberia,1999,0,Anocracy
+Liberia,2000,0,Anocracy
+Liberia,2001,0,Anocracy
+Liberia,2002,0,Anocracy
+Liberia,2003,2,Anocracy
+Liberia,2004,3,Anocracy
+Liberia,2005,4,Anocracy
+Liberia,2006,6,Democracy
+Liberia,2007,6,Democracy
+Liberia,2008,6,Democracy
+Liberia,2009,6,Democracy
+Liberia,2010,6,Democracy
+Liberia,2011,6,Democracy
+Liberia,2012,6,Democracy
+Liberia,2013,6,Democracy
+Liberia,2014,6,Democracy
+Liberia,2015,6,Democracy
+Liberia,2016,6,Democracy
+Liberia,2017,6,Democracy
+Liberia,2018,7,Democracy
+Lebanon,1990,7,Democracy
+Lebanon,1991,7,Democracy
+Lebanon,1992,7,Democracy
+Lebanon,1993,7,Democracy
+Lebanon,1994,7,Democracy
+Lebanon,1995,7,Democracy
+Lebanon,1996,7,Democracy
+Lebanon,1997,6,Democracy
+Lebanon,1998,6,Democracy
+Lebanon,1999,6,Democracy
+Lebanon,2000,6,Democracy
+Lebanon,2001,6,Democracy
+Lebanon,2002,6,Democracy
+Lebanon,2003,6,Democracy
+Lebanon,2004,6,Democracy
+Lebanon,2005,6,Democracy
+Lebanon,2006,6,Democracy
+Lebanon,2007,6,Democracy
+Lebanon,2008,6,Democracy
+Lebanon,2009,6,Democracy
+Lebanon,2010,6,Democracy
+Lebanon,2011,6,Democracy
+Lebanon,2012,6,Democracy
+Lebanon,2013,6,Democracy
+Lebanon,2014,6,Democracy
+Lebanon,2015,6,Democracy
+Lebanon,2016,6,Democracy
+Lebanon,2017,6,Democracy
+Lebanon,2018,6,Democracy
+Lesotho,1990,-7,Autocracy
+Lesotho,1991,-4,Anocracy
+Lesotho,1992,-4,Anocracy
+Lesotho,1993,5,Anocracy
+Lesotho,1994,5,Anocracy
+Lesotho,1995,5,Anocracy
+Lesotho,1996,5,Anocracy
+Lesotho,1997,5,Anocracy
+Lesotho,1998,6,Democracy
+Lesotho,1999,6,Democracy
+Lesotho,2000,6,Democracy
+Lesotho,2001,6,Democracy
+Lesotho,2002,8,Democracy
+Lesotho,2003,8,Democracy
+Lesotho,2004,8,Democracy
+Lesotho,2005,8,Democracy
+Lesotho,2006,8,Democracy
+Lesotho,2007,8,Democracy
+Lesotho,2008,8,Democracy
+Lesotho,2009,8,Democracy
+Lesotho,2010,8,Democracy
+Lesotho,2011,8,Democracy
+Lesotho,2012,8,Democracy
+Lesotho,2013,8,Democracy
+Lesotho,2014,8,Democracy
+Lesotho,2015,8,Democracy
+Lesotho,2016,8,Democracy
+Lesotho,2017,8,Democracy
+Lesotho,2018,8,Democracy
+Libya,1990,-7,Autocracy
+Libya,1991,-7,Autocracy
+Libya,1992,-7,Autocracy
+Libya,1993,-7,Autocracy
+Libya,1994,-7,Autocracy
+Libya,1995,-7,Autocracy
+Libya,1996,-7,Autocracy
+Libya,1997,-7,Autocracy
+Libya,1998,-7,Autocracy
+Libya,1999,-7,Autocracy
+Libya,2000,-7,Autocracy
+Libya,2001,-7,Autocracy
+Libya,2002,-7,Autocracy
+Libya,2003,-7,Autocracy
+Libya,2004,-7,Autocracy
+Libya,2005,-7,Autocracy
+Libya,2006,-7,Autocracy
+Libya,2007,-7,Autocracy
+Libya,2008,-7,Autocracy
+Libya,2009,-7,Autocracy
+Libya,2010,-7,Autocracy
+Libya,2011,0,Anocracy
+Libya,2012,0,Anocracy
+Libya,2013,0,Anocracy
+Libya,2014,0,Anocracy
+Libya,2015,0,Anocracy
+Libya,2016,0,Anocracy
+Libya,2017,0,Anocracy
+Libya,2018,0,Anocracy
+Lithuania,1991,10,Democracy
+Lithuania,1992,10,Democracy
+Lithuania,1993,10,Democracy
+Lithuania,1994,10,Democracy
+Lithuania,1995,10,Democracy
+Lithuania,1996,10,Democracy
+Lithuania,1997,10,Democracy
+Lithuania,1998,10,Democracy
+Lithuania,1999,10,Democracy
+Lithuania,2000,10,Democracy
+Lithuania,2001,10,Democracy
+Lithuania,2002,10,Democracy
+Lithuania,2003,10,Democracy
+Lithuania,2004,10,Democracy
+Lithuania,2005,10,Democracy
+Lithuania,2006,10,Democracy
+Lithuania,2007,10,Democracy
+Lithuania,2008,10,Democracy
+Lithuania,2009,10,Democracy
+Lithuania,2010,10,Democracy
+Lithuania,2011,10,Democracy
+Lithuania,2012,10,Democracy
+Lithuania,2013,10,Democracy
+Lithuania,2014,10,Democracy
+Lithuania,2015,10,Democracy
+Lithuania,2016,10,Democracy
+Lithuania,2017,10,Democracy
+Lithuania,2018,10,Democracy
+Luxembourg,1990,10,Democracy
+Luxembourg,1991,10,Democracy
+Luxembourg,1992,10,Democracy
+Luxembourg,1993,10,Democracy
+Luxembourg,1994,10,Democracy
+Luxembourg,1995,10,Democracy
+Luxembourg,1996,10,Democracy
+Luxembourg,1997,10,Democracy
+Luxembourg,1998,10,Democracy
+Luxembourg,1999,10,Democracy
+Luxembourg,2000,10,Democracy
+Luxembourg,2001,10,Democracy
+Luxembourg,2002,10,Democracy
+Luxembourg,2003,10,Democracy
+Luxembourg,2004,10,Democracy
+Luxembourg,2005,10,Democracy
+Luxembourg,2006,10,Democracy
+Luxembourg,2007,10,Democracy
+Luxembourg,2008,10,Democracy
+Luxembourg,2009,10,Democracy
+Luxembourg,2010,10,Democracy
+Luxembourg,2011,10,Democracy
+Luxembourg,2012,10,Democracy
+Luxembourg,2013,10,Democracy
+Luxembourg,2014,10,Democracy
+Luxembourg,2015,10,Democracy
+Luxembourg,2016,10,Democracy
+Luxembourg,2017,10,Democracy
+Luxembourg,2018,10,Democracy
+Mauritania,1990,-7,Autocracy
+Mauritania,1991,-6,Autocracy
+Mauritania,1992,-6,Autocracy
+Mauritania,1993,-6,Autocracy
+Mauritania,1994,-6,Autocracy
+Mauritania,1995,-6,Autocracy
+Mauritania,1996,-6,Autocracy
+Mauritania,1997,-6,Autocracy
+Mauritania,1998,-6,Autocracy
+Mauritania,1999,-6,Autocracy
+Mauritania,2000,-6,Autocracy
+Mauritania,2001,-6,Autocracy
+Mauritania,2002,-6,Autocracy
+Mauritania,2003,-6,Autocracy
+Mauritania,2004,-6,Autocracy
+Mauritania,2005,-5,Anocracy
+Mauritania,2006,-3,Anocracy
+Mauritania,2007,4,Anocracy
+Mauritania,2008,-5,Anocracy
+Mauritania,2009,-2,Anocracy
+Mauritania,2010,-2,Anocracy
+Mauritania,2011,-2,Anocracy
+Mauritania,2012,-2,Anocracy
+Mauritania,2013,-2,Anocracy
+Mauritania,2014,-2,Anocracy
+Mauritania,2015,-2,Anocracy
+Mauritania,2016,-2,Anocracy
+Mauritania,2017,-2,Anocracy
+Mauritania,2018,-2,Anocracy
+North Macedonia,1991,6,Democracy
+North Macedonia,1992,6,Democracy
+North Macedonia,1993,6,Democracy
+North Macedonia,1994,6,Democracy
+North Macedonia,1995,6,Democracy
+North Macedonia,1996,6,Democracy
+North Macedonia,1997,6,Democracy
+North Macedonia,1998,6,Democracy
+North Macedonia,1999,6,Democracy
+North Macedonia,2000,6,Democracy
+North Macedonia,2001,6,Democracy
+North Macedonia,2002,9,Democracy
+North Macedonia,2003,9,Democracy
+North Macedonia,2004,9,Democracy
+North Macedonia,2005,9,Democracy
+North Macedonia,2006,9,Democracy
+North Macedonia,2007,9,Democracy
+North Macedonia,2008,9,Democracy
+North Macedonia,2009,9,Democracy
+North Macedonia,2010,9,Democracy
+North Macedonia,2011,9,Democracy
+North Macedonia,2012,9,Democracy
+North Macedonia,2013,9,Democracy
+North Macedonia,2014,9,Democracy
+North Macedonia,2015,9,Democracy
+North Macedonia,2016,9,Democracy
+North Macedonia,2017,9,Democracy
+North Macedonia,2018,9,Democracy
+Madagascar,1990,-6,Autocracy
+Madagascar,1991,2,Anocracy
+Madagascar,1992,9,Democracy
+Madagascar,1993,9,Democracy
+Madagascar,1994,9,Democracy
+Madagascar,1995,9,Democracy
+Madagascar,1996,9,Democracy
+Madagascar,1997,9,Democracy
+Madagascar,1998,7,Democracy
+Madagascar,1999,7,Democracy
+Madagascar,2000,7,Democracy
+Madagascar,2001,7,Democracy
+Madagascar,2002,7,Democracy
+Madagascar,2003,7,Democracy
+Madagascar,2004,7,Democracy
+Madagascar,2005,7,Democracy
+Madagascar,2006,7,Democracy
+Madagascar,2007,7,Democracy
+Madagascar,2008,7,Democracy
+Madagascar,2009,0,Anocracy
+Madagascar,2010,0,Anocracy
+Madagascar,2011,3,Anocracy
+Madagascar,2012,3,Anocracy
+Madagascar,2013,3,Anocracy
+Madagascar,2014,6,Democracy
+Madagascar,2015,6,Democracy
+Madagascar,2016,6,Democracy
+Madagascar,2017,6,Democracy
+Madagascar,2018,6,Democracy
+Malaysia,1990,4,Anocracy
+Malaysia,1991,4,Anocracy
+Malaysia,1992,4,Anocracy
+Malaysia,1993,4,Anocracy
+Malaysia,1994,4,Anocracy
+Malaysia,1995,4,Anocracy
+Malaysia,1996,3,Anocracy
+Malaysia,1997,3,Anocracy
+Malaysia,1998,3,Anocracy
+Malaysia,1999,3,Anocracy
+Malaysia,2000,3,Anocracy
+Malaysia,2001,3,Anocracy
+Malaysia,2002,3,Anocracy
+Malaysia,2003,3,Anocracy
+Malaysia,2004,3,Anocracy
+Malaysia,2005,3,Anocracy
+Malaysia,2006,3,Anocracy
+Malaysia,2007,3,Anocracy
+Malaysia,2008,6,Democracy
+Malaysia,2009,6,Democracy
+Malaysia,2010,6,Democracy
+Malaysia,2011,6,Democracy
+Malaysia,2012,6,Democracy
+Malaysia,2013,6,Democracy
+Malaysia,2014,5,Anocracy
+Malaysia,2015,5,Anocracy
+Malaysia,2016,5,Anocracy
+Malaysia,2017,5,Anocracy
+Malaysia,2018,7,Democracy
+Mauritius,1990,10,Democracy
+Mauritius,1991,10,Democracy
+Mauritius,1992,10,Democracy
+Mauritius,1993,10,Democracy
+Mauritius,1994,10,Democracy
+Mauritius,1995,10,Democracy
+Mauritius,1996,10,Democracy
+Mauritius,1997,10,Democracy
+Mauritius,1998,10,Democracy
+Mauritius,1999,10,Democracy
+Mauritius,2000,10,Democracy
+Mauritius,2001,10,Democracy
+Mauritius,2002,10,Democracy
+Mauritius,2003,10,Democracy
+Mauritius,2004,10,Democracy
+Mauritius,2005,10,Democracy
+Mauritius,2006,10,Democracy
+Mauritius,2007,10,Democracy
+Mauritius,2008,10,Democracy
+Mauritius,2009,10,Democracy
+Mauritius,2010,10,Democracy
+Mauritius,2011,10,Democracy
+Mauritius,2012,10,Democracy
+Mauritius,2013,10,Democracy
+Mauritius,2014,10,Democracy
+Mauritius,2015,10,Democracy
+Mauritius,2016,10,Democracy
+Mauritius,2017,10,Democracy
+Mauritius,2018,10,Democracy
+Malawi,1990,-9,Autocracy
+Malawi,1991,-9,Autocracy
+Malawi,1992,-9,Autocracy
+Malawi,1993,-6,Autocracy
+Malawi,1994,6,Democracy
+Malawi,1995,6,Democracy
+Malawi,1996,6,Democracy
+Malawi,1997,6,Democracy
+Malawi,1998,6,Democracy
+Malawi,1999,6,Democracy
+Malawi,2000,6,Democracy
+Malawi,2001,4,Anocracy
+Malawi,2002,4,Anocracy
+Malawi,2003,5,Anocracy
+Malawi,2004,6,Democracy
+Malawi,2005,6,Democracy
+Malawi,2006,6,Democracy
+Malawi,2007,6,Democracy
+Malawi,2008,6,Democracy
+Malawi,2009,6,Democracy
+Malawi,2010,6,Democracy
+Malawi,2011,6,Democracy
+Malawi,2012,6,Democracy
+Malawi,2013,6,Democracy
+Malawi,2014,6,Democracy
+Malawi,2015,6,Democracy
+Malawi,2016,6,Democracy
+Malawi,2017,6,Democracy
+Malawi,2018,6,Democracy
+Mexico,1990,0,Anocracy
+Mexico,1991,0,Anocracy
+Mexico,1992,0,Anocracy
+Mexico,1993,0,Anocracy
+Mexico,1994,4,Anocracy
+Mexico,1995,4,Anocracy
+Mexico,1996,4,Anocracy
+Mexico,1997,6,Democracy
+Mexico,1998,6,Democracy
+Mexico,1999,6,Democracy
+Mexico,2000,8,Democracy
+Mexico,2001,8,Democracy
+Mexico,2002,8,Democracy
+Mexico,2003,8,Democracy
+Mexico,2004,8,Democracy
+Mexico,2005,8,Democracy
+Mexico,2006,8,Democracy
+Mexico,2007,8,Democracy
+Mexico,2008,8,Democracy
+Mexico,2009,8,Democracy
+Mexico,2010,8,Democracy
+Mexico,2011,8,Democracy
+Mexico,2012,8,Democracy
+Mexico,2013,8,Democracy
+Mexico,2014,8,Democracy
+Mexico,2015,8,Democracy
+Mexico,2016,8,Democracy
+Mexico,2017,8,Democracy
+Mexico,2018,8,Democracy
+Moldova,1991,5,Anocracy
+Moldova,1992,5,Anocracy
+Moldova,1993,5,Anocracy
+Moldova,1994,7,Democracy
+Moldova,1995,7,Democracy
+Moldova,1996,7,Democracy
+Moldova,1997,7,Democracy
+Moldova,1998,7,Democracy
+Moldova,1999,7,Democracy
+Moldova,2000,7,Democracy
+Moldova,2001,8,Democracy
+Moldova,2002,8,Democracy
+Moldova,2003,8,Democracy
+Moldova,2004,8,Democracy
+Moldova,2005,9,Democracy
+Moldova,2006,9,Democracy
+Moldova,2007,9,Democracy
+Moldova,2008,9,Democracy
+Moldova,2009,9,Democracy
+Moldova,2010,9,Democracy
+Moldova,2011,9,Democracy
+Moldova,2012,9,Democracy
+Moldova,2013,9,Democracy
+Moldova,2014,9,Democracy
+Moldova,2015,9,Democracy
+Moldova,2016,9,Democracy
+Moldova,2017,9,Democracy
+Moldova,2018,9,Democracy
+Mali,1990,-7,Autocracy
+Mali,1991,-2,Anocracy
+Mali,1992,4,Anocracy
+Mali,1993,4,Anocracy
+Mali,1994,4,Anocracy
+Mali,1995,4,Anocracy
+Mali,1996,4,Anocracy
+Mali,1997,5,Anocracy
+Mali,1998,5,Anocracy
+Mali,1999,5,Anocracy
+Mali,2000,5,Anocracy
+Mali,2001,5,Anocracy
+Mali,2002,5,Anocracy
+Mali,2003,5,Anocracy
+Mali,2004,5,Anocracy
+Mali,2005,7,Democracy
+Mali,2006,7,Democracy
+Mali,2007,7,Democracy
+Mali,2008,7,Democracy
+Mali,2009,7,Democracy
+Mali,2010,7,Democracy
+Mali,2011,7,Democracy
+Mali,2012,0,Anocracy
+Mali,2013,5,Anocracy
+Mali,2014,5,Anocracy
+Mali,2015,5,Anocracy
+Mali,2016,5,Anocracy
+Mali,2017,5,Anocracy
+Mali,2018,5,Anocracy
+Mongolia,1990,2,Anocracy
+Mongolia,1991,2,Anocracy
+Mongolia,1992,9,Democracy
+Mongolia,1993,9,Democracy
+Mongolia,1994,9,Democracy
+Mongolia,1995,9,Democracy
+Mongolia,1996,10,Democracy
+Mongolia,1997,10,Democracy
+Mongolia,1998,10,Democracy
+Mongolia,1999,10,Democracy
+Mongolia,2000,10,Democracy
+Mongolia,2001,10,Democracy
+Mongolia,2002,10,Democracy
+Mongolia,2003,10,Democracy
+Mongolia,2004,10,Democracy
+Mongolia,2005,10,Democracy
+Mongolia,2006,10,Democracy
+Mongolia,2007,10,Democracy
+Mongolia,2008,10,Democracy
+Mongolia,2009,10,Democracy
+Mongolia,2010,10,Democracy
+Mongolia,2011,10,Democracy
+Mongolia,2012,10,Democracy
+Mongolia,2013,10,Democracy
+Mongolia,2014,10,Democracy
+Mongolia,2015,10,Democracy
+Mongolia,2016,10,Democracy
+Mongolia,2017,10,Democracy
+Mongolia,2018,10,Democracy
+Morocco,1990,-8,Autocracy
+Morocco,1991,-8,Autocracy
+Morocco,1992,-7,Autocracy
+Morocco,1993,-7,Autocracy
+Morocco,1994,-7,Autocracy
+Morocco,1995,-7,Autocracy
+Morocco,1996,-7,Autocracy
+Morocco,1997,-7,Autocracy
+Morocco,1998,-6,Autocracy
+Morocco,1999,-6,Autocracy
+Morocco,2000,-6,Autocracy
+Morocco,2001,-6,Autocracy
+Morocco,2002,-6,Autocracy
+Morocco,2003,-6,Autocracy
+Morocco,2004,-6,Autocracy
+Morocco,2005,-6,Autocracy
+Morocco,2006,-6,Autocracy
+Morocco,2007,-6,Autocracy
+Morocco,2008,-6,Autocracy
+Morocco,2009,-6,Autocracy
+Morocco,2010,-6,Autocracy
+Morocco,2011,-4,Anocracy
+Morocco,2012,-4,Anocracy
+Morocco,2013,-4,Anocracy
+Morocco,2014,-4,Anocracy
+Morocco,2015,-4,Anocracy
+Morocco,2016,-4,Anocracy
+Morocco,2017,-4,Anocracy
+Morocco,2018,-4,Anocracy
+Myanmar,1990,-5,Anocracy
+Myanmar,1991,-5,Anocracy
+Myanmar,1992,-5,Anocracy
+Myanmar,1993,-5,Anocracy
+Myanmar,1994,-5,Anocracy
+Myanmar,1995,-5,Anocracy
+Myanmar,1996,-5,Anocracy
+Myanmar,1997,-5,Anocracy
+Myanmar,1998,-5,Anocracy
+Myanmar,1999,-5,Anocracy
+Myanmar,2000,-5,Anocracy
+Myanmar,2001,-5,Anocracy
+Myanmar,2002,-5,Anocracy
+Myanmar,2003,-5,Anocracy
+Myanmar,2004,-6,Autocracy
+Myanmar,2005,-6,Autocracy
+Myanmar,2006,-6,Autocracy
+Myanmar,2007,-6,Autocracy
+Myanmar,2008,-6,Autocracy
+Myanmar,2009,-6,Autocracy
+Myanmar,2010,-6,Autocracy
+Myanmar,2011,-3,Anocracy
+Myanmar,2012,-3,Anocracy
+Myanmar,2013,-3,Anocracy
+Myanmar,2014,-3,Anocracy
+Myanmar,2015,2,Anocracy
+Myanmar,2016,8,Democracy
+Myanmar,2017,8,Democracy
+Myanmar,2018,8,Democracy
+Mozambique,1990,-7,Autocracy
+Mozambique,1991,-6,Autocracy
+Mozambique,1992,-6,Autocracy
+Mozambique,1993,-6,Autocracy
+Mozambique,1994,5,Anocracy
+Mozambique,1995,5,Anocracy
+Mozambique,1996,5,Anocracy
+Mozambique,1997,5,Anocracy
+Mozambique,1998,5,Anocracy
+Mozambique,1999,5,Anocracy
+Mozambique,2000,5,Anocracy
+Mozambique,2001,5,Anocracy
+Mozambique,2002,5,Anocracy
+Mozambique,2003,5,Anocracy
+Mozambique,2004,5,Anocracy
+Mozambique,2005,5,Anocracy
+Mozambique,2006,5,Anocracy
+Mozambique,2007,5,Anocracy
+Mozambique,2008,5,Anocracy
+Mozambique,2009,5,Anocracy
+Mozambique,2010,5,Anocracy
+Mozambique,2011,5,Anocracy
+Mozambique,2012,5,Anocracy
+Mozambique,2013,5,Anocracy
+Mozambique,2014,5,Anocracy
+Mozambique,2015,5,Anocracy
+Mozambique,2016,5,Anocracy
+Mozambique,2017,5,Anocracy
+Mozambique,2018,5,Anocracy
+Namibia,1990,6,Democracy
+Namibia,1991,6,Democracy
+Namibia,1992,6,Democracy
+Namibia,1993,6,Democracy
+Namibia,1994,6,Democracy
+Namibia,1995,6,Democracy
+Namibia,1996,6,Democracy
+Namibia,1997,6,Democracy
+Namibia,1998,6,Democracy
+Namibia,1999,6,Democracy
+Namibia,2000,6,Democracy
+Namibia,2001,6,Democracy
+Namibia,2002,6,Democracy
+Namibia,2003,6,Democracy
+Namibia,2004,6,Democracy
+Namibia,2005,6,Democracy
+Namibia,2006,6,Democracy
+Namibia,2007,6,Democracy
+Namibia,2008,6,Democracy
+Namibia,2009,6,Democracy
+Namibia,2010,6,Democracy
+Namibia,2011,6,Democracy
+Namibia,2012,6,Democracy
+Namibia,2013,6,Democracy
+Namibia,2014,6,Democracy
+Namibia,2015,6,Democracy
+Namibia,2016,6,Democracy
+Namibia,2017,6,Democracy
+Namibia,2018,6,Democracy
+Nepal,1990,5,Anocracy
+Nepal,1991,5,Anocracy
+Nepal,1992,5,Anocracy
+Nepal,1993,5,Anocracy
+Nepal,1994,5,Anocracy
+Nepal,1995,5,Anocracy
+Nepal,1996,5,Anocracy
+Nepal,1997,5,Anocracy
+Nepal,1998,5,Anocracy
+Nepal,1999,6,Democracy
+Nepal,2000,6,Democracy
+Nepal,2001,6,Democracy
+Nepal,2002,-6,Autocracy
+Nepal,2003,-6,Autocracy
+Nepal,2004,-6,Autocracy
+Nepal,2005,-6,Autocracy
+Nepal,2006,6,Democracy
+Nepal,2007,6,Democracy
+Nepal,2008,6,Democracy
+Nepal,2009,6,Democracy
+Nepal,2010,6,Democracy
+Nepal,2011,6,Democracy
+Nepal,2012,6,Democracy
+Nepal,2013,6,Democracy
+Nepal,2014,6,Democracy
+Nepal,2015,6,Democracy
+Nepal,2016,6,Democracy
+Nepal,2017,6,Democracy
+Nepal,2018,7,Democracy
+New Zealand,1990,10,Democracy
+New Zealand,1991,10,Democracy
+New Zealand,1992,10,Democracy
+New Zealand,1993,10,Democracy
+New Zealand,1994,10,Democracy
+New Zealand,1995,10,Democracy
+New Zealand,1996,10,Democracy
+New Zealand,1997,10,Democracy
+New Zealand,1998,10,Democracy
+New Zealand,1999,10,Democracy
+New Zealand,2000,10,Democracy
+New Zealand,2001,10,Democracy
+New Zealand,2002,10,Democracy
+New Zealand,2003,10,Democracy
+New Zealand,2004,10,Democracy
+New Zealand,2005,10,Democracy
+New Zealand,2006,10,Democracy
+New Zealand,2007,10,Democracy
+New Zealand,2008,10,Democracy
+New Zealand,2009,10,Democracy
+New Zealand,2010,10,Democracy
+New Zealand,2011,10,Democracy
+New Zealand,2012,10,Democracy
+New Zealand,2013,10,Democracy
+New Zealand,2014,10,Democracy
+New Zealand,2015,10,Democracy
+New Zealand,2016,10,Democracy
+New Zealand,2017,10,Democracy
+New Zealand,2018,10,Democracy
+Nicaragua,1990,6,Democracy
+Nicaragua,1991,6,Democracy
+Nicaragua,1992,6,Democracy
+Nicaragua,1993,6,Democracy
+Nicaragua,1994,6,Democracy
+Nicaragua,1995,8,Democracy
+Nicaragua,1996,8,Democracy
+Nicaragua,1997,8,Democracy
+Nicaragua,1998,8,Democracy
+Nicaragua,1999,8,Democracy
+Nicaragua,2000,8,Democracy
+Nicaragua,2001,8,Democracy
+Nicaragua,2002,8,Democracy
+Nicaragua,2003,8,Democracy
+Nicaragua,2004,8,Democracy
+Nicaragua,2005,8,Democracy
+Nicaragua,2006,8,Democracy
+Nicaragua,2007,9,Democracy
+Nicaragua,2008,9,Democracy
+Nicaragua,2009,9,Democracy
+Nicaragua,2010,9,Democracy
+Nicaragua,2011,9,Democracy
+Nicaragua,2012,9,Democracy
+Nicaragua,2013,9,Democracy
+Nicaragua,2014,9,Democracy
+Nicaragua,2015,9,Democracy
+Nicaragua,2016,6,Democracy
+Nicaragua,2017,6,Democracy
+Nicaragua,2018,6,Democracy
+Nigeria,1990,-5,Anocracy
+Nigeria,1991,-5,Anocracy
+Nigeria,1992,-5,Anocracy
+Nigeria,1993,-7,Autocracy
+Nigeria,1994,-7,Autocracy
+Nigeria,1995,-6,Autocracy
+Nigeria,1996,-6,Autocracy
+Nigeria,1997,-6,Autocracy
+Nigeria,1998,-1,Anocracy
+Nigeria,1999,4,Anocracy
+Nigeria,2000,4,Anocracy
+Nigeria,2001,4,Anocracy
+Nigeria,2002,4,Anocracy
+Nigeria,2003,4,Anocracy
+Nigeria,2004,4,Anocracy
+Nigeria,2005,4,Anocracy
+Nigeria,2006,4,Anocracy
+Nigeria,2007,4,Anocracy
+Nigeria,2008,4,Anocracy
+Nigeria,2009,4,Anocracy
+Nigeria,2010,4,Anocracy
+Nigeria,2011,4,Anocracy
+Nigeria,2012,4,Anocracy
+Nigeria,2013,4,Anocracy
+Nigeria,2014,4,Anocracy
+Nigeria,2015,7,Democracy
+Nigeria,2016,7,Democracy
+Nigeria,2017,7,Democracy
+Nigeria,2018,7,Democracy
+Niger,1990,-4,Anocracy
+Niger,1991,-1,Anocracy
+Niger,1992,3,Anocracy
+Niger,1993,6,Democracy
+Niger,1994,6,Democracy
+Niger,1995,6,Democracy
+Niger,1996,-3,Anocracy
+Niger,1997,-3,Anocracy
+Niger,1998,-3,Anocracy
+Niger,1999,5,Anocracy
+Niger,2000,5,Anocracy
+Niger,2001,5,Anocracy
+Niger,2002,5,Anocracy
+Niger,2003,5,Anocracy
+Niger,2004,6,Democracy
+Niger,2005,6,Democracy
+Niger,2006,6,Democracy
+Niger,2007,6,Democracy
+Niger,2008,6,Democracy
+Niger,2009,-3,Anocracy
+Niger,2010,3,Anocracy
+Niger,2011,6,Democracy
+Niger,2012,6,Democracy
+Niger,2013,6,Democracy
+Niger,2014,6,Democracy
+Niger,2015,6,Democracy
+Niger,2016,5,Anocracy
+Niger,2017,5,Anocracy
+Niger,2018,5,Anocracy
+Norway,1990,10,Democracy
+Norway,1991,10,Democracy
+Norway,1992,10,Democracy
+Norway,1993,10,Democracy
+Norway,1994,10,Democracy
+Norway,1995,10,Democracy
+Norway,1996,10,Democracy
+Norway,1997,10,Democracy
+Norway,1998,10,Democracy
+Norway,1999,10,Democracy
+Norway,2000,10,Democracy
+Norway,2001,10,Democracy
+Norway,2002,10,Democracy
+Norway,2003,10,Democracy
+Norway,2004,10,Democracy
+Norway,2005,10,Democracy
+Norway,2006,10,Democracy
+Norway,2007,10,Democracy
+Norway,2008,10,Democracy
+Norway,2009,10,Democracy
+Norway,2010,10,Democracy
+Norway,2011,10,Democracy
+Norway,2012,10,Democracy
+Norway,2013,10,Democracy
+Norway,2014,10,Democracy
+Norway,2015,10,Democracy
+Norway,2016,10,Democracy
+Norway,2017,10,Democracy
+Norway,2018,10,Democracy
+Netherlands,1990,10,Democracy
+Netherlands,1991,10,Democracy
+Netherlands,1992,10,Democracy
+Netherlands,1993,10,Democracy
+Netherlands,1994,10,Democracy
+Netherlands,1995,10,Democracy
+Netherlands,1996,10,Democracy
+Netherlands,1997,10,Democracy
+Netherlands,1998,10,Democracy
+Netherlands,1999,10,Democracy
+Netherlands,2000,10,Democracy
+Netherlands,2001,10,Democracy
+Netherlands,2002,10,Democracy
+Netherlands,2003,10,Democracy
+Netherlands,2004,10,Democracy
+Netherlands,2005,10,Democracy
+Netherlands,2006,10,Democracy
+Netherlands,2007,10,Democracy
+Netherlands,2008,10,Democracy
+Netherlands,2009,10,Democracy
+Netherlands,2010,10,Democracy
+Netherlands,2011,10,Democracy
+Netherlands,2012,10,Democracy
+Netherlands,2013,10,Democracy
+Netherlands,2014,10,Democracy
+Netherlands,2015,10,Democracy
+Netherlands,2016,10,Democracy
+Netherlands,2017,10,Democracy
+Netherlands,2018,10,Democracy
+Oman,1990,-10,Autocracy
+Oman,1991,-9,Autocracy
+Oman,1992,-9,Autocracy
+Oman,1993,-9,Autocracy
+Oman,1994,-9,Autocracy
+Oman,1995,-9,Autocracy
+Oman,1996,-9,Autocracy
+Oman,1997,-9,Autocracy
+Oman,1998,-9,Autocracy
+Oman,1999,-9,Autocracy
+Oman,2000,-9,Autocracy
+Oman,2001,-9,Autocracy
+Oman,2002,-8,Autocracy
+Oman,2003,-8,Autocracy
+Oman,2004,-8,Autocracy
+Oman,2005,-8,Autocracy
+Oman,2006,-8,Autocracy
+Oman,2007,-8,Autocracy
+Oman,2008,-8,Autocracy
+Oman,2009,-8,Autocracy
+Oman,2010,-8,Autocracy
+Oman,2011,-8,Autocracy
+Oman,2012,-8,Autocracy
+Oman,2013,-8,Autocracy
+Oman,2014,-8,Autocracy
+Oman,2015,-8,Autocracy
+Oman,2016,-8,Autocracy
+Oman,2017,-8,Autocracy
+Oman,2018,-8,Autocracy
+Pakistan,1990,8,Democracy
+Pakistan,1991,8,Democracy
+Pakistan,1992,8,Democracy
+Pakistan,1993,8,Democracy
+Pakistan,1994,8,Democracy
+Pakistan,1995,8,Democracy
+Pakistan,1996,8,Democracy
+Pakistan,1997,7,Democracy
+Pakistan,1998,7,Democracy
+Pakistan,1999,-6,Autocracy
+Pakistan,2000,-6,Autocracy
+Pakistan,2001,-6,Autocracy
+Pakistan,2002,-5,Anocracy
+Pakistan,2003,-5,Anocracy
+Pakistan,2004,-5,Anocracy
+Pakistan,2005,-5,Anocracy
+Pakistan,2006,-5,Anocracy
+Pakistan,2007,2,Anocracy
+Pakistan,2008,5,Anocracy
+Pakistan,2009,5,Anocracy
+Pakistan,2010,6,Democracy
+Pakistan,2011,6,Democracy
+Pakistan,2012,6,Democracy
+Pakistan,2013,7,Democracy
+Pakistan,2014,7,Democracy
+Pakistan,2015,7,Democracy
+Pakistan,2016,7,Democracy
+Pakistan,2017,7,Democracy
+Pakistan,2018,7,Democracy
+Panama,1990,8,Democracy
+Panama,1991,8,Democracy
+Panama,1992,8,Democracy
+Panama,1993,8,Democracy
+Panama,1994,9,Democracy
+Panama,1995,9,Democracy
+Panama,1996,9,Democracy
+Panama,1997,9,Democracy
+Panama,1998,9,Democracy
+Panama,1999,9,Democracy
+Panama,2000,9,Democracy
+Panama,2001,9,Democracy
+Panama,2002,9,Democracy
+Panama,2003,9,Democracy
+Panama,2004,9,Democracy
+Panama,2005,9,Democracy
+Panama,2006,9,Democracy
+Panama,2007,9,Democracy
+Panama,2008,9,Democracy
+Panama,2009,9,Democracy
+Panama,2010,9,Democracy
+Panama,2011,9,Democracy
+Panama,2012,9,Democracy
+Panama,2013,9,Democracy
+Panama,2014,9,Democracy
+Panama,2015,9,Democracy
+Panama,2016,9,Democracy
+Panama,2017,9,Democracy
+Panama,2018,9,Democracy
+Paraguay,1990,2,Anocracy
+Paraguay,1991,2,Anocracy
+Paraguay,1992,7,Democracy
+Paraguay,1993,7,Democracy
+Paraguay,1994,7,Democracy
+Paraguay,1995,7,Democracy
+Paraguay,1996,7,Democracy
+Paraguay,1997,7,Democracy
+Paraguay,1998,6,Democracy
+Paraguay,1999,7,Democracy
+Paraguay,2000,7,Democracy
+Paraguay,2001,7,Democracy
+Paraguay,2002,7,Democracy
+Paraguay,2003,8,Democracy
+Paraguay,2004,8,Democracy
+Paraguay,2005,8,Democracy
+Paraguay,2006,8,Democracy
+Paraguay,2007,8,Democracy
+Paraguay,2008,8,Democracy
+Paraguay,2009,8,Democracy
+Paraguay,2010,8,Democracy
+Paraguay,2011,8,Democracy
+Paraguay,2012,8,Democracy
+Paraguay,2013,9,Democracy
+Paraguay,2014,9,Democracy
+Paraguay,2015,9,Democracy
+Paraguay,2016,9,Democracy
+Paraguay,2017,9,Democracy
+Paraguay,2018,9,Democracy
+Peru,1990,8,Democracy
+Peru,1991,8,Democracy
+Peru,1992,-4,Anocracy
+Peru,1993,-1,Anocracy
+Peru,1994,-1,Anocracy
+Peru,1995,-1,Anocracy
+Peru,1996,-1,Anocracy
+Peru,1997,-1,Anocracy
+Peru,1998,-1,Anocracy
+Peru,1999,-1,Anocracy
+Peru,2000,4,Anocracy
+Peru,2001,9,Democracy
+Peru,2002,9,Democracy
+Peru,2003,9,Democracy
+Peru,2004,9,Democracy
+Peru,2005,9,Democracy
+Peru,2006,9,Democracy
+Peru,2007,9,Democracy
+Peru,2008,9,Democracy
+Peru,2009,9,Democracy
+Peru,2010,9,Democracy
+Peru,2011,9,Democracy
+Peru,2012,9,Democracy
+Peru,2013,9,Democracy
+Peru,2014,9,Democracy
+Peru,2015,9,Democracy
+Peru,2016,9,Democracy
+Peru,2017,9,Democracy
+Peru,2018,9,Democracy
+Philippines,1990,8,Democracy
+Philippines,1991,8,Democracy
+Philippines,1992,8,Democracy
+Philippines,1993,8,Democracy
+Philippines,1994,8,Democracy
+Philippines,1995,8,Democracy
+Philippines,1996,8,Democracy
+Philippines,1997,8,Democracy
+Philippines,1998,8,Democracy
+Philippines,1999,8,Democracy
+Philippines,2000,8,Democracy
+Philippines,2001,8,Democracy
+Philippines,2002,8,Democracy
+Philippines,2003,8,Democracy
+Philippines,2004,8,Democracy
+Philippines,2005,8,Democracy
+Philippines,2006,8,Democracy
+Philippines,2007,8,Democracy
+Philippines,2008,8,Democracy
+Philippines,2009,8,Democracy
+Philippines,2010,8,Democracy
+Philippines,2011,8,Democracy
+Philippines,2012,8,Democracy
+Philippines,2013,8,Democracy
+Philippines,2014,8,Democracy
+Philippines,2015,8,Democracy
+Philippines,2016,8,Democracy
+Philippines,2017,8,Democracy
+Philippines,2018,8,Democracy
+Papua New Guinea,1990,4,Anocracy
+Papua New Guinea,1991,4,Anocracy
+Papua New Guinea,1992,4,Anocracy
+Papua New Guinea,1993,4,Anocracy
+Papua New Guinea,1994,4,Anocracy
+Papua New Guinea,1995,4,Anocracy
+Papua New Guinea,1996,4,Anocracy
+Papua New Guinea,1997,4,Anocracy
+Papua New Guinea,1998,4,Anocracy
+Papua New Guinea,1999,4,Anocracy
+Papua New Guinea,2000,4,Anocracy
+Papua New Guinea,2001,4,Anocracy
+Papua New Guinea,2002,4,Anocracy
+Papua New Guinea,2003,4,Anocracy
+Papua New Guinea,2004,4,Anocracy
+Papua New Guinea,2005,4,Anocracy
+Papua New Guinea,2006,4,Anocracy
+Papua New Guinea,2007,4,Anocracy
+Papua New Guinea,2008,4,Anocracy
+Papua New Guinea,2009,4,Anocracy
+Papua New Guinea,2010,4,Anocracy
+Papua New Guinea,2011,4,Anocracy
+Papua New Guinea,2012,5,Anocracy
+Papua New Guinea,2013,5,Anocracy
+Papua New Guinea,2014,5,Anocracy
+Papua New Guinea,2015,5,Anocracy
+Papua New Guinea,2016,5,Anocracy
+Papua New Guinea,2017,5,Anocracy
+Papua New Guinea,2018,5,Anocracy
+Poland,1990,5,Anocracy
+Poland,1991,8,Democracy
+Poland,1992,8,Democracy
+Poland,1993,8,Democracy
+Poland,1994,8,Democracy
+Poland,1995,9,Democracy
+Poland,1996,9,Democracy
+Poland,1997,9,Democracy
+Poland,1998,9,Democracy
+Poland,1999,9,Democracy
+Poland,2000,9,Democracy
+Poland,2001,9,Democracy
+Poland,2002,10,Democracy
+Poland,2003,10,Democracy
+Poland,2004,10,Democracy
+Poland,2005,10,Democracy
+Poland,2006,10,Democracy
+Poland,2007,10,Democracy
+Poland,2008,10,Democracy
+Poland,2009,10,Democracy
+Poland,2010,10,Democracy
+Poland,2011,10,Democracy
+Poland,2012,10,Democracy
+Poland,2013,10,Democracy
+Poland,2014,10,Democracy
+Poland,2015,10,Democracy
+Poland,2016,10,Democracy
+Poland,2017,10,Democracy
+Poland,2018,10,Democracy
+Portugal,1990,10,Democracy
+Portugal,1991,10,Democracy
+Portugal,1992,10,Democracy
+Portugal,1993,10,Democracy
+Portugal,1994,10,Democracy
+Portugal,1995,10,Democracy
+Portugal,1996,10,Democracy
+Portugal,1997,10,Democracy
+Portugal,1998,10,Democracy
+Portugal,1999,10,Democracy
+Portugal,2000,10,Democracy
+Portugal,2001,10,Democracy
+Portugal,2002,10,Democracy
+Portugal,2003,10,Democracy
+Portugal,2004,10,Democracy
+Portugal,2005,10,Democracy
+Portugal,2006,10,Democracy
+Portugal,2007,10,Democracy
+Portugal,2008,10,Democracy
+Portugal,2009,10,Democracy
+Portugal,2010,10,Democracy
+Portugal,2011,10,Democracy
+Portugal,2012,10,Democracy
+Portugal,2013,10,Democracy
+Portugal,2014,10,Democracy
+Portugal,2015,10,Democracy
+Portugal,2016,10,Democracy
+Portugal,2017,10,Democracy
+Portugal,2018,10,Democracy
+North Korea,1990,-9,Autocracy
+North Korea,1991,-9,Autocracy
+North Korea,1992,-9,Autocracy
+North Korea,1993,-9,Autocracy
+North Korea,1994,-10,Autocracy
+North Korea,1995,-10,Autocracy
+North Korea,1996,-10,Autocracy
+North Korea,1997,-10,Autocracy
+North Korea,1998,-10,Autocracy
+North Korea,1999,-10,Autocracy
+North Korea,2000,-10,Autocracy
+North Korea,2001,-10,Autocracy
+North Korea,2002,-10,Autocracy
+North Korea,2003,-10,Autocracy
+North Korea,2004,-10,Autocracy
+North Korea,2005,-10,Autocracy
+North Korea,2006,-10,Autocracy
+North Korea,2007,-10,Autocracy
+North Korea,2008,-10,Autocracy
+North Korea,2009,-10,Autocracy
+North Korea,2010,-10,Autocracy
+North Korea,2011,-10,Autocracy
+North Korea,2012,-10,Autocracy
+North Korea,2013,-10,Autocracy
+North Korea,2014,-10,Autocracy
+North Korea,2015,-10,Autocracy
+North Korea,2016,-10,Autocracy
+North Korea,2017,-10,Autocracy
+North Korea,2018,-10,Autocracy
+Qatar,1990,-10,Autocracy
+Qatar,1991,-10,Autocracy
+Qatar,1992,-10,Autocracy
+Qatar,1993,-10,Autocracy
+Qatar,1994,-10,Autocracy
+Qatar,1995,-10,Autocracy
+Qatar,1996,-10,Autocracy
+Qatar,1997,-10,Autocracy
+Qatar,1998,-10,Autocracy
+Qatar,1999,-10,Autocracy
+Qatar,2000,-10,Autocracy
+Qatar,2001,-10,Autocracy
+Qatar,2002,-10,Autocracy
+Qatar,2003,-10,Autocracy
+Qatar,2004,-10,Autocracy
+Qatar,2005,-10,Autocracy
+Qatar,2006,-10,Autocracy
+Qatar,2007,-10,Autocracy
+Qatar,2008,-10,Autocracy
+Qatar,2009,-10,Autocracy
+Qatar,2010,-10,Autocracy
+Qatar,2011,-10,Autocracy
+Qatar,2012,-10,Autocracy
+Qatar,2013,-10,Autocracy
+Qatar,2014,-10,Autocracy
+Qatar,2015,-10,Autocracy
+Qatar,2016,-10,Autocracy
+Qatar,2017,-10,Autocracy
+Qatar,2018,-10,Autocracy
+South Korea,1990,6,Democracy
+South Korea,1991,6,Democracy
+South Korea,1992,6,Democracy
+South Korea,1993,6,Democracy
+South Korea,1994,6,Democracy
+South Korea,1995,6,Democracy
+South Korea,1996,6,Democracy
+South Korea,1997,6,Democracy
+South Korea,1998,8,Democracy
+South Korea,1999,8,Democracy
+South Korea,2000,8,Democracy
+South Korea,2001,8,Democracy
+South Korea,2002,8,Democracy
+South Korea,2003,8,Democracy
+South Korea,2004,8,Democracy
+South Korea,2005,8,Democracy
+South Korea,2006,8,Democracy
+South Korea,2007,8,Democracy
+South Korea,2008,8,Democracy
+South Korea,2009,8,Democracy
+South Korea,2010,8,Democracy
+South Korea,2011,8,Democracy
+South Korea,2012,8,Democracy
+South Korea,2013,8,Democracy
+South Korea,2014,8,Democracy
+South Korea,2015,8,Democracy
+South Korea,2016,8,Democracy
+South Korea,2017,8,Democracy
+South Korea,2018,8,Democracy
+Romania,1990,5,Anocracy
+Romania,1991,5,Anocracy
+Romania,1992,5,Anocracy
+Romania,1993,5,Anocracy
+Romania,1994,5,Anocracy
+Romania,1995,5,Anocracy
+Romania,1996,8,Democracy
+Romania,1997,8,Democracy
+Romania,1998,8,Democracy
+Romania,1999,8,Democracy
+Romania,2000,8,Democracy
+Romania,2001,8,Democracy
+Romania,2002,8,Democracy
+Romania,2003,8,Democracy
+Romania,2004,9,Democracy
+Romania,2005,9,Democracy
+Romania,2006,9,Democracy
+Romania,2007,9,Democracy
+Romania,2008,9,Democracy
+Romania,2009,9,Democracy
+Romania,2010,9,Democracy
+Romania,2011,9,Democracy
+Romania,2012,9,Democracy
+Romania,2013,9,Democracy
+Romania,2014,9,Democracy
+Romania,2015,9,Democracy
+Romania,2016,9,Democracy
+Romania,2017,9,Democracy
+Romania,2018,9,Democracy
+Russia,1992,5,Anocracy
+Russia,1993,3,Anocracy
+Russia,1994,3,Anocracy
+Russia,1995,3,Anocracy
+Russia,1996,3,Anocracy
+Russia,1997,3,Anocracy
+Russia,1998,3,Anocracy
+Russia,1999,3,Anocracy
+Russia,2000,6,Democracy
+Russia,2001,6,Democracy
+Russia,2002,6,Democracy
+Russia,2003,6,Democracy
+Russia,2004,6,Democracy
+Russia,2005,6,Democracy
+Russia,2006,6,Democracy
+Russia,2007,4,Anocracy
+Russia,2008,4,Anocracy
+Russia,2009,4,Anocracy
+Russia,2010,4,Anocracy
+Russia,2011,4,Anocracy
+Russia,2012,4,Anocracy
+Russia,2013,4,Anocracy
+Russia,2014,4,Anocracy
+Russia,2015,4,Anocracy
+Russia,2016,4,Anocracy
+Russia,2017,4,Anocracy
+Russia,2018,4,Anocracy
+Rwanda,1990,-7,Autocracy
+Rwanda,1991,-7,Autocracy
+Rwanda,1992,-7,Autocracy
+Rwanda,1993,-7,Autocracy
+Rwanda,1994,-6,Autocracy
+Rwanda,1995,-6,Autocracy
+Rwanda,1996,-6,Autocracy
+Rwanda,1997,-6,Autocracy
+Rwanda,1998,-6,Autocracy
+Rwanda,1999,-6,Autocracy
+Rwanda,2000,-4,Anocracy
+Rwanda,2001,-4,Anocracy
+Rwanda,2002,-4,Anocracy
+Rwanda,2003,-3,Anocracy
+Rwanda,2004,-3,Anocracy
+Rwanda,2005,-3,Anocracy
+Rwanda,2006,-3,Anocracy
+Rwanda,2007,-3,Anocracy
+Rwanda,2008,-3,Anocracy
+Rwanda,2009,-3,Anocracy
+Rwanda,2010,-4,Anocracy
+Rwanda,2011,-4,Anocracy
+Rwanda,2012,-4,Anocracy
+Rwanda,2013,-3,Anocracy
+Rwanda,2014,-3,Anocracy
+Rwanda,2015,-3,Anocracy
+Rwanda,2016,-3,Anocracy
+Rwanda,2017,-3,Anocracy
+Rwanda,2018,-3,Anocracy
+South Africa,1990,5,Anocracy
+South Africa,1991,5,Anocracy
+South Africa,1992,6,Democracy
+South Africa,1993,8,Democracy
+South Africa,1994,9,Democracy
+South Africa,1995,9,Democracy
+South Africa,1996,9,Democracy
+South Africa,1997,9,Democracy
+South Africa,1998,9,Democracy
+South Africa,1999,9,Democracy
+South Africa,2000,9,Democracy
+South Africa,2001,9,Democracy
+South Africa,2002,9,Democracy
+South Africa,2003,9,Democracy
+South Africa,2004,9,Democracy
+South Africa,2005,9,Democracy
+South Africa,2006,9,Democracy
+South Africa,2007,9,Democracy
+South Africa,2008,9,Democracy
+South Africa,2009,9,Democracy
+South Africa,2010,9,Democracy
+South Africa,2011,9,Democracy
+South Africa,2012,9,Democracy
+South Africa,2013,9,Democracy
+South Africa,2014,9,Democracy
+South Africa,2015,9,Democracy
+South Africa,2016,9,Democracy
+South Africa,2017,9,Democracy
+South Africa,2018,9,Democracy
+El Salvador,1990,6,Democracy
+El Salvador,1991,6,Democracy
+El Salvador,1992,6,Democracy
+El Salvador,1993,6,Democracy
+El Salvador,1994,7,Democracy
+El Salvador,1995,7,Democracy
+El Salvador,1996,7,Democracy
+El Salvador,1997,7,Democracy
+El Salvador,1998,7,Democracy
+El Salvador,1999,7,Democracy
+El Salvador,2000,7,Democracy
+El Salvador,2001,7,Democracy
+El Salvador,2002,7,Democracy
+El Salvador,2003,7,Democracy
+El Salvador,2004,7,Democracy
+El Salvador,2005,7,Democracy
+El Salvador,2006,7,Democracy
+El Salvador,2007,7,Democracy
+El Salvador,2008,7,Democracy
+El Salvador,2009,8,Democracy
+El Salvador,2010,8,Democracy
+El Salvador,2011,8,Democracy
+El Salvador,2012,8,Democracy
+El Salvador,2013,8,Democracy
+El Salvador,2014,8,Democracy
+El Salvador,2015,8,Democracy
+El Salvador,2016,8,Democracy
+El Salvador,2017,8,Democracy
+El Salvador,2018,8,Democracy
+Saudi Arabia,1990,-10,Autocracy
+Saudi Arabia,1991,-10,Autocracy
+Saudi Arabia,1992,-10,Autocracy
+Saudi Arabia,1993,-10,Autocracy
+Saudi Arabia,1994,-10,Autocracy
+Saudi Arabia,1995,-10,Autocracy
+Saudi Arabia,1996,-10,Autocracy
+Saudi Arabia,1997,-10,Autocracy
+Saudi Arabia,1998,-10,Autocracy
+Saudi Arabia,1999,-10,Autocracy
+Saudi Arabia,2000,-10,Autocracy
+Saudi Arabia,2001,-10,Autocracy
+Saudi Arabia,2002,-10,Autocracy
+Saudi Arabia,2003,-10,Autocracy
+Saudi Arabia,2004,-10,Autocracy
+Saudi Arabia,2005,-10,Autocracy
+Saudi Arabia,2006,-10,Autocracy
+Saudi Arabia,2007,-10,Autocracy
+Saudi Arabia,2008,-10,Autocracy
+Saudi Arabia,2009,-10,Autocracy
+Saudi Arabia,2010,-10,Autocracy
+Saudi Arabia,2011,-10,Autocracy
+Saudi Arabia,2012,-10,Autocracy
+Saudi Arabia,2013,-10,Autocracy
+Saudi Arabia,2014,-10,Autocracy
+Saudi Arabia,2015,-10,Autocracy
+Saudi Arabia,2016,-10,Autocracy
+Saudi Arabia,2017,-10,Autocracy
+Saudi Arabia,2018,-10,Autocracy
+Sudan,2011,-4,Anocracy
+Sudan,2012,-4,Anocracy
+Sudan,2013,-4,Anocracy
+Sudan,2014,-4,Anocracy
+Sudan,2015,-4,Anocracy
+Sudan,2016,-4,Anocracy
+Sudan,2017,-4,Anocracy
+Sudan,2018,-4,Anocracy
+Senegal,1990,-1,Anocracy
+Senegal,1991,-1,Anocracy
+Senegal,1992,-1,Anocracy
+Senegal,1993,-1,Anocracy
+Senegal,1994,-1,Anocracy
+Senegal,1995,-1,Anocracy
+Senegal,1996,-1,Anocracy
+Senegal,1997,-1,Anocracy
+Senegal,1998,-1,Anocracy
+Senegal,1999,-1,Anocracy
+Senegal,2000,8,Democracy
+Senegal,2001,8,Democracy
+Senegal,2002,8,Democracy
+Senegal,2003,8,Democracy
+Senegal,2004,8,Democracy
+Senegal,2005,8,Democracy
+Senegal,2006,8,Democracy
+Senegal,2007,7,Democracy
+Senegal,2008,7,Democracy
+Senegal,2009,7,Democracy
+Senegal,2010,7,Democracy
+Senegal,2011,7,Democracy
+Senegal,2012,7,Democracy
+Senegal,2013,7,Democracy
+Senegal,2014,7,Democracy
+Senegal,2015,7,Democracy
+Senegal,2016,7,Democracy
+Senegal,2017,7,Democracy
+Senegal,2018,7,Democracy
+Sierra Leone,1990,-7,Autocracy
+Sierra Leone,1991,-6,Autocracy
+Sierra Leone,1992,-7,Autocracy
+Sierra Leone,1993,-7,Autocracy
+Sierra Leone,1994,-7,Autocracy
+Sierra Leone,1995,-7,Autocracy
+Sierra Leone,1996,4,Anocracy
+Sierra Leone,1997,0,Anocracy
+Sierra Leone,1998,0,Anocracy
+Sierra Leone,1999,0,Anocracy
+Sierra Leone,2000,0,Anocracy
+Sierra Leone,2001,2,Anocracy
+Sierra Leone,2002,5,Anocracy
+Sierra Leone,2003,5,Anocracy
+Sierra Leone,2004,5,Anocracy
+Sierra Leone,2005,5,Anocracy
+Sierra Leone,2006,5,Anocracy
+Sierra Leone,2007,7,Democracy
+Sierra Leone,2008,7,Democracy
+Sierra Leone,2009,7,Democracy
+Sierra Leone,2010,7,Democracy
+Sierra Leone,2011,7,Democracy
+Sierra Leone,2012,7,Democracy
+Sierra Leone,2013,7,Democracy
+Sierra Leone,2014,7,Democracy
+Sierra Leone,2015,7,Democracy
+Sierra Leone,2016,7,Democracy
+Sierra Leone,2017,7,Democracy
+Sierra Leone,2018,7,Democracy
+Singapore,1990,-4,Anocracy
+Singapore,1991,-4,Anocracy
+Singapore,1992,-4,Anocracy
+Singapore,1993,-4,Anocracy
+Singapore,1994,-4,Anocracy
+Singapore,1995,-4,Anocracy
+Singapore,1996,-4,Anocracy
+Singapore,1997,-4,Anocracy
+Singapore,1998,-4,Anocracy
+Singapore,1999,-4,Anocracy
+Singapore,2000,-4,Anocracy
+Singapore,2001,-4,Anocracy
+Singapore,2002,-4,Anocracy
+Singapore,2003,-4,Anocracy
+Singapore,2004,-4,Anocracy
+Singapore,2005,-2,Anocracy
+Singapore,2006,-2,Anocracy
+Singapore,2007,-2,Anocracy
+Singapore,2008,-2,Anocracy
+Singapore,2009,-2,Anocracy
+Singapore,2010,-2,Anocracy
+Singapore,2011,-2,Anocracy
+Singapore,2012,-2,Anocracy
+Singapore,2013,-2,Anocracy
+Singapore,2014,-2,Anocracy
+Singapore,2015,-2,Anocracy
+Singapore,2016,-2,Anocracy
+Singapore,2017,-2,Anocracy
+Singapore,2018,-2,Anocracy
+Slovakia,1993,7,Democracy
+Slovakia,1994,7,Democracy
+Slovakia,1995,7,Democracy
+Slovakia,1996,7,Democracy
+Slovakia,1997,7,Democracy
+Slovakia,1998,9,Democracy
+Slovakia,1999,9,Democracy
+Slovakia,2000,9,Democracy
+Slovakia,2001,9,Democracy
+Slovakia,2002,9,Democracy
+Slovakia,2003,9,Democracy
+Slovakia,2004,9,Democracy
+Slovakia,2005,9,Democracy
+Slovakia,2006,10,Democracy
+Slovakia,2007,10,Democracy
+Slovakia,2008,10,Democracy
+Slovakia,2009,10,Democracy
+Slovakia,2010,10,Democracy
+Slovakia,2011,10,Democracy
+Slovakia,2012,10,Democracy
+Slovakia,2013,10,Democracy
+Slovakia,2014,10,Democracy
+Slovakia,2015,10,Democracy
+Slovakia,2016,10,Democracy
+Slovakia,2017,10,Democracy
+Slovakia,2018,10,Democracy
+Slovenia,1991,10,Democracy
+Slovenia,1992,10,Democracy
+Slovenia,1993,10,Democracy
+Slovenia,1994,10,Democracy
+Slovenia,1995,10,Democracy
+Slovenia,1996,10,Democracy
+Slovenia,1997,10,Democracy
+Slovenia,1998,10,Democracy
+Slovenia,1999,10,Democracy
+Slovenia,2000,10,Democracy
+Slovenia,2001,10,Democracy
+Slovenia,2002,10,Democracy
+Slovenia,2003,10,Democracy
+Slovenia,2004,10,Democracy
+Slovenia,2005,10,Democracy
+Slovenia,2006,10,Democracy
+Slovenia,2007,10,Democracy
+Slovenia,2008,10,Democracy
+Slovenia,2009,10,Democracy
+Slovenia,2010,10,Democracy
+Slovenia,2011,10,Democracy
+Slovenia,2012,10,Democracy
+Slovenia,2013,10,Democracy
+Slovenia,2014,10,Democracy
+Slovenia,2015,10,Democracy
+Slovenia,2016,10,Democracy
+Slovenia,2017,10,Democracy
+Slovenia,2018,10,Democracy
+Solomon Islands,1990,8,Democracy
+Solomon Islands,1991,8,Democracy
+Solomon Islands,1992,8,Democracy
+Solomon Islands,1993,8,Democracy
+Solomon Islands,1994,8,Democracy
+Solomon Islands,1995,8,Democracy
+Solomon Islands,1996,8,Democracy
+Solomon Islands,1997,8,Democracy
+Solomon Islands,1998,8,Democracy
+Solomon Islands,1999,8,Democracy
+Solomon Islands,2000,0,Anocracy
+Solomon Islands,2001,0,Anocracy
+Solomon Islands,2002,0,Anocracy
+Solomon Islands,2003,4,Anocracy
+Solomon Islands,2004,8,Democracy
+Solomon Islands,2005,8,Democracy
+Solomon Islands,2006,8,Democracy
+Solomon Islands,2007,8,Democracy
+Solomon Islands,2008,8,Democracy
+Solomon Islands,2009,8,Democracy
+Solomon Islands,2010,8,Democracy
+Solomon Islands,2011,8,Democracy
+Solomon Islands,2012,8,Democracy
+Solomon Islands,2013,8,Democracy
+Solomon Islands,2014,8,Democracy
+Solomon Islands,2015,8,Democracy
+Solomon Islands,2016,8,Democracy
+Solomon Islands,2017,8,Democracy
+Solomon Islands,2018,8,Democracy
+Somalia,1990,-7,Autocracy
+Somalia,1991,0,Anocracy
+Somalia,1992,0,Anocracy
+Somalia,1993,0,Anocracy
+Somalia,1994,0,Anocracy
+Somalia,1995,0,Anocracy
+Somalia,1996,0,Anocracy
+Somalia,1997,0,Anocracy
+Somalia,1998,0,Anocracy
+Somalia,1999,0,Anocracy
+Somalia,2000,0,Anocracy
+Somalia,2001,0,Anocracy
+Somalia,2002,0,Anocracy
+Somalia,2003,0,Anocracy
+Somalia,2004,0,Anocracy
+Somalia,2005,0,Anocracy
+Somalia,2006,0,Anocracy
+Somalia,2007,0,Anocracy
+Somalia,2008,0,Anocracy
+Somalia,2009,0,Anocracy
+Somalia,2010,0,Anocracy
+Somalia,2011,2,Anocracy
+Somalia,2012,5,Anocracy
+Somalia,2013,5,Anocracy
+Somalia,2014,5,Anocracy
+Somalia,2015,5,Anocracy
+Somalia,2016,5,Anocracy
+Somalia,2017,5,Anocracy
+Somalia,2018,5,Anocracy
+Spain,1990,10,Democracy
+Spain,1991,10,Democracy
+Spain,1992,10,Democracy
+Spain,1993,10,Democracy
+Spain,1994,10,Democracy
+Spain,1995,10,Democracy
+Spain,1996,10,Democracy
+Spain,1997,10,Democracy
+Spain,1998,10,Democracy
+Spain,1999,10,Democracy
+Spain,2000,10,Democracy
+Spain,2001,10,Democracy
+Spain,2002,10,Democracy
+Spain,2003,10,Democracy
+Spain,2004,10,Democracy
+Spain,2005,10,Democracy
+Spain,2006,10,Democracy
+Spain,2007,10,Democracy
+Spain,2008,10,Democracy
+Spain,2009,10,Democracy
+Spain,2010,10,Democracy
+Spain,2011,10,Democracy
+Spain,2012,10,Democracy
+Spain,2013,10,Democracy
+Spain,2014,10,Democracy
+Spain,2015,10,Democracy
+Spain,2016,10,Democracy
+Spain,2017,10,Democracy
+Spain,2018,10,Democracy
+Sri Lanka,1990,5,Anocracy
+Sri Lanka,1991,5,Anocracy
+Sri Lanka,1992,5,Anocracy
+Sri Lanka,1993,5,Anocracy
+Sri Lanka,1994,5,Anocracy
+Sri Lanka,1995,5,Anocracy
+Sri Lanka,1996,5,Anocracy
+Sri Lanka,1997,5,Anocracy
+Sri Lanka,1998,5,Anocracy
+Sri Lanka,1999,5,Anocracy
+Sri Lanka,2000,5,Anocracy
+Sri Lanka,2001,6,Democracy
+Sri Lanka,2002,6,Democracy
+Sri Lanka,2003,5,Anocracy
+Sri Lanka,2004,5,Anocracy
+Sri Lanka,2005,5,Anocracy
+Sri Lanka,2006,6,Democracy
+Sri Lanka,2007,6,Democracy
+Sri Lanka,2008,6,Democracy
+Sri Lanka,2009,5,Anocracy
+Sri Lanka,2010,3,Anocracy
+Sri Lanka,2011,3,Anocracy
+Sri Lanka,2012,3,Anocracy
+Sri Lanka,2013,3,Anocracy
+Sri Lanka,2014,3,Anocracy
+Sri Lanka,2015,6,Democracy
+Sri Lanka,2016,6,Democracy
+Sri Lanka,2017,6,Democracy
+Sri Lanka,2018,6,Democracy
+Sudan,1990,-7,Autocracy
+Sudan,1991,-7,Autocracy
+Sudan,1992,-7,Autocracy
+Sudan,1993,-7,Autocracy
+Sudan,1994,-7,Autocracy
+Sudan,1995,-7,Autocracy
+Sudan,1996,-7,Autocracy
+Sudan,1997,-7,Autocracy
+Sudan,1998,-7,Autocracy
+Sudan,1999,-6,Autocracy
+Sudan,2000,-6,Autocracy
+Sudan,2001,-6,Autocracy
+Sudan,2002,-6,Autocracy
+Sudan,2003,-6,Autocracy
+Sudan,2004,-6,Autocracy
+Sudan,2005,-3,Anocracy
+Sudan,2006,-3,Anocracy
+Sudan,2007,-3,Anocracy
+Sudan,2008,-3,Anocracy
+Sudan,2009,-3,Anocracy
+Sudan,2010,-2,Anocracy
+Sudan,2011,-2,Anocracy
+Suriname,1990,2,Anocracy
+Suriname,1991,5,Anocracy
+Suriname,1992,5,Anocracy
+Suriname,1993,5,Anocracy
+Suriname,1994,5,Anocracy
+Suriname,1995,5,Anocracy
+Suriname,1996,5,Anocracy
+Suriname,1997,5,Anocracy
+Suriname,1998,5,Anocracy
+Suriname,1999,5,Anocracy
+Suriname,2000,5,Anocracy
+Suriname,2001,5,Anocracy
+Suriname,2002,5,Anocracy
+Suriname,2003,5,Anocracy
+Suriname,2004,5,Anocracy
+Suriname,2005,5,Anocracy
+Suriname,2006,5,Anocracy
+Suriname,2007,5,Anocracy
+Suriname,2008,5,Anocracy
+Suriname,2009,5,Anocracy
+Suriname,2010,5,Anocracy
+Suriname,2011,5,Anocracy
+Suriname,2012,5,Anocracy
+Suriname,2013,5,Anocracy
+Suriname,2014,5,Anocracy
+Suriname,2015,5,Anocracy
+Suriname,2016,5,Anocracy
+Suriname,2017,5,Anocracy
+Suriname,2018,5,Anocracy
+Eswatini,1990,-9,Autocracy
+Eswatini,1991,-9,Autocracy
+Eswatini,1992,-6,Autocracy
+Eswatini,1993,-7,Autocracy
+Eswatini,1994,-7,Autocracy
+Eswatini,1995,-7,Autocracy
+Eswatini,1996,-7,Autocracy
+Eswatini,1997,-7,Autocracy
+Eswatini,1998,-7,Autocracy
+Eswatini,1999,-7,Autocracy
+Eswatini,2000,-7,Autocracy
+Eswatini,2001,-7,Autocracy
+Eswatini,2002,-7,Autocracy
+Eswatini,2003,-7,Autocracy
+Eswatini,2004,-7,Autocracy
+Eswatini,2005,-7,Autocracy
+Eswatini,2006,-7,Autocracy
+Eswatini,2007,-7,Autocracy
+Eswatini,2008,-7,Autocracy
+Eswatini,2009,-7,Autocracy
+Eswatini,2010,-7,Autocracy
+Eswatini,2011,-7,Autocracy
+Eswatini,2012,-7,Autocracy
+Eswatini,2013,-7,Autocracy
+Eswatini,2014,-7,Autocracy
+Eswatini,2015,-7,Autocracy
+Eswatini,2016,-7,Autocracy
+Eswatini,2017,-7,Autocracy
+Eswatini,2018,-7,Autocracy
+Sweden,1990,10,Democracy
+Sweden,1991,10,Democracy
+Sweden,1992,10,Democracy
+Sweden,1993,10,Democracy
+Sweden,1994,10,Democracy
+Sweden,1995,10,Democracy
+Sweden,1996,10,Democracy
+Sweden,1997,10,Democracy
+Sweden,1998,10,Democracy
+Sweden,1999,10,Democracy
+Sweden,2000,10,Democracy
+Sweden,2001,10,Democracy
+Sweden,2002,10,Democracy
+Sweden,2003,10,Democracy
+Sweden,2004,10,Democracy
+Sweden,2005,10,Democracy
+Sweden,2006,10,Democracy
+Sweden,2007,10,Democracy
+Sweden,2008,10,Democracy
+Sweden,2009,10,Democracy
+Sweden,2010,10,Democracy
+Sweden,2011,10,Democracy
+Sweden,2012,10,Democracy
+Sweden,2013,10,Democracy
+Sweden,2014,10,Democracy
+Sweden,2015,10,Democracy
+Sweden,2016,10,Democracy
+Sweden,2017,10,Democracy
+Sweden,2018,10,Democracy
+Switzerland,1990,10,Democracy
+Switzerland,1991,10,Democracy
+Switzerland,1992,10,Democracy
+Switzerland,1993,10,Democracy
+Switzerland,1994,10,Democracy
+Switzerland,1995,10,Democracy
+Switzerland,1996,10,Democracy
+Switzerland,1997,10,Democracy
+Switzerland,1998,10,Democracy
+Switzerland,1999,10,Democracy
+Switzerland,2000,10,Democracy
+Switzerland,2001,10,Democracy
+Switzerland,2002,10,Democracy
+Switzerland,2003,10,Democracy
+Switzerland,2004,10,Democracy
+Switzerland,2005,10,Democracy
+Switzerland,2006,10,Democracy
+Switzerland,2007,10,Democracy
+Switzerland,2008,10,Democracy
+Switzerland,2009,10,Democracy
+Switzerland,2010,10,Democracy
+Switzerland,2011,10,Democracy
+Switzerland,2012,10,Democracy
+Switzerland,2013,10,Democracy
+Switzerland,2014,10,Democracy
+Switzerland,2015,10,Democracy
+Switzerland,2016,10,Democracy
+Switzerland,2017,10,Democracy
+Switzerland,2018,10,Democracy
+Syria,1990,-9,Autocracy
+Syria,1991,-9,Autocracy
+Syria,1992,-9,Autocracy
+Syria,1993,-9,Autocracy
+Syria,1994,-9,Autocracy
+Syria,1995,-9,Autocracy
+Syria,1996,-9,Autocracy
+Syria,1997,-9,Autocracy
+Syria,1998,-9,Autocracy
+Syria,1999,-9,Autocracy
+Syria,2000,-6,Autocracy
+Syria,2001,-6,Autocracy
+Syria,2002,-6,Autocracy
+Syria,2003,-6,Autocracy
+Syria,2004,-6,Autocracy
+Syria,2005,-6,Autocracy
+Syria,2006,-6,Autocracy
+Syria,2007,-6,Autocracy
+Syria,2008,-6,Autocracy
+Syria,2009,-6,Autocracy
+Syria,2010,-6,Autocracy
+Syria,2011,-6,Autocracy
+Syria,2012,-9,Autocracy
+Syria,2013,-9,Autocracy
+Syria,2014,-9,Autocracy
+Syria,2015,-9,Autocracy
+Syria,2016,-9,Autocracy
+Syria,2017,-9,Autocracy
+Syria,2018,-9,Autocracy
+Tajikistan,1991,-2,Anocracy
+Tajikistan,1992,-6,Autocracy
+Tajikistan,1993,-6,Autocracy
+Tajikistan,1994,-6,Autocracy
+Tajikistan,1995,-6,Autocracy
+Tajikistan,1996,-6,Autocracy
+Tajikistan,1997,-5,Anocracy
+Tajikistan,1998,-1,Anocracy
+Tajikistan,1999,-1,Anocracy
+Tajikistan,2000,-1,Anocracy
+Tajikistan,2001,-1,Anocracy
+Tajikistan,2002,-1,Anocracy
+Tajikistan,2003,-3,Anocracy
+Tajikistan,2004,-3,Anocracy
+Tajikistan,2005,-3,Anocracy
+Tajikistan,2006,-3,Anocracy
+Tajikistan,2007,-3,Anocracy
+Tajikistan,2008,-3,Anocracy
+Tajikistan,2009,-3,Anocracy
+Tajikistan,2010,-3,Anocracy
+Tajikistan,2011,-3,Anocracy
+Tajikistan,2012,-3,Anocracy
+Tajikistan,2013,-3,Anocracy
+Tajikistan,2014,-3,Anocracy
+Tajikistan,2015,-3,Anocracy
+Tajikistan,2016,-3,Anocracy
+Tajikistan,2017,-3,Anocracy
+Tajikistan,2018,-3,Anocracy
+Taiwan,1990,-1,Anocracy
+Taiwan,1991,-1,Anocracy
+Taiwan,1992,7,Democracy
+Taiwan,1993,7,Democracy
+Taiwan,1994,7,Democracy
+Taiwan,1995,7,Democracy
+Taiwan,1996,8,Democracy
+Taiwan,1997,9,Democracy
+Taiwan,1998,9,Democracy
+Taiwan,1999,9,Democracy
+Taiwan,2000,9,Democracy
+Taiwan,2001,9,Democracy
+Taiwan,2002,9,Democracy
+Taiwan,2003,9,Democracy
+Taiwan,2004,10,Democracy
+Taiwan,2005,10,Democracy
+Taiwan,2006,10,Democracy
+Taiwan,2007,10,Democracy
+Taiwan,2008,10,Democracy
+Taiwan,2009,10,Democracy
+Taiwan,2010,10,Democracy
+Taiwan,2011,10,Democracy
+Taiwan,2012,10,Democracy
+Taiwan,2013,10,Democracy
+Taiwan,2014,10,Democracy
+Taiwan,2015,10,Democracy
+Taiwan,2016,10,Democracy
+Taiwan,2017,10,Democracy
+Taiwan,2018,10,Democracy
+Tanzania,1990,-6,Autocracy
+Tanzania,1991,-6,Autocracy
+Tanzania,1992,-5,Anocracy
+Tanzania,1993,-5,Anocracy
+Tanzania,1994,-5,Anocracy
+Tanzania,1995,-1,Anocracy
+Tanzania,1996,-1,Anocracy
+Tanzania,1997,-1,Anocracy
+Tanzania,1998,-1,Anocracy
+Tanzania,1999,-1,Anocracy
+Tanzania,2000,-1,Anocracy
+Tanzania,2001,-1,Anocracy
+Tanzania,2002,-1,Anocracy
+Tanzania,2003,-1,Anocracy
+Tanzania,2004,-1,Anocracy
+Tanzania,2005,-1,Anocracy
+Tanzania,2006,-1,Anocracy
+Tanzania,2007,-1,Anocracy
+Tanzania,2008,-1,Anocracy
+Tanzania,2009,-1,Anocracy
+Tanzania,2010,-1,Anocracy
+Tanzania,2011,-1,Anocracy
+Tanzania,2012,-1,Anocracy
+Tanzania,2013,-1,Anocracy
+Tanzania,2014,-1,Anocracy
+Tanzania,2015,3,Anocracy
+Tanzania,2016,3,Anocracy
+Tanzania,2017,3,Anocracy
+Tanzania,2018,3,Anocracy
+Thailand,1990,3,Anocracy
+Thailand,1991,-1,Anocracy
+Thailand,1992,9,Democracy
+Thailand,1993,9,Democracy
+Thailand,1994,9,Democracy
+Thailand,1995,9,Democracy
+Thailand,1996,9,Democracy
+Thailand,1997,9,Democracy
+Thailand,1998,9,Democracy
+Thailand,1999,9,Democracy
+Thailand,2000,9,Democracy
+Thailand,2001,9,Democracy
+Thailand,2002,9,Democracy
+Thailand,2003,9,Democracy
+Thailand,2004,9,Democracy
+Thailand,2005,9,Democracy
+Thailand,2006,-5,Anocracy
+Thailand,2007,-1,Anocracy
+Thailand,2008,4,Anocracy
+Thailand,2009,4,Anocracy
+Thailand,2010,4,Anocracy
+Thailand,2011,7,Democracy
+Thailand,2012,7,Democracy
+Thailand,2013,7,Democracy
+Thailand,2014,-3,Anocracy
+Thailand,2015,-3,Anocracy
+Thailand,2016,-3,Anocracy
+Thailand,2017,-3,Anocracy
+Thailand,2018,-3,Anocracy
+Turkmenistan,1991,-8,Autocracy
+Turkmenistan,1992,-9,Autocracy
+Turkmenistan,1993,-9,Autocracy
+Turkmenistan,1994,-9,Autocracy
+Turkmenistan,1995,-9,Autocracy
+Turkmenistan,1996,-9,Autocracy
+Turkmenistan,1997,-9,Autocracy
+Turkmenistan,1998,-9,Autocracy
+Turkmenistan,1999,-9,Autocracy
+Turkmenistan,2000,-9,Autocracy
+Turkmenistan,2001,-9,Autocracy
+Turkmenistan,2002,-9,Autocracy
+Turkmenistan,2003,-9,Autocracy
+Turkmenistan,2004,-9,Autocracy
+Turkmenistan,2005,-9,Autocracy
+Turkmenistan,2006,-9,Autocracy
+Turkmenistan,2007,-9,Autocracy
+Turkmenistan,2008,-9,Autocracy
+Turkmenistan,2009,-9,Autocracy
+Turkmenistan,2010,-9,Autocracy
+Turkmenistan,2011,-9,Autocracy
+Turkmenistan,2012,-9,Autocracy
+Turkmenistan,2013,-8,Autocracy
+Turkmenistan,2014,-8,Autocracy
+Turkmenistan,2015,-8,Autocracy
+Turkmenistan,2016,-8,Autocracy
+Turkmenistan,2017,-8,Autocracy
+Turkmenistan,2018,-8,Autocracy
+Togo,1990,-7,Autocracy
+Togo,1991,-5,Anocracy
+Togo,1992,-5,Anocracy
+Togo,1993,-2,Anocracy
+Togo,1994,-2,Anocracy
+Togo,1995,-2,Anocracy
+Togo,1996,-2,Anocracy
+Togo,1997,-2,Anocracy
+Togo,1998,-2,Anocracy
+Togo,1999,-2,Anocracy
+Togo,2000,-2,Anocracy
+Togo,2001,-2,Anocracy
+Togo,2002,-2,Anocracy
+Togo,2003,-2,Anocracy
+Togo,2004,-2,Anocracy
+Togo,2005,-4,Anocracy
+Togo,2006,-4,Anocracy
+Togo,2007,-4,Anocracy
+Togo,2008,-4,Anocracy
+Togo,2009,-4,Anocracy
+Togo,2010,-2,Anocracy
+Togo,2011,-2,Anocracy
+Togo,2012,-2,Anocracy
+Togo,2013,-2,Anocracy
+Togo,2014,-2,Anocracy
+Togo,2015,-2,Anocracy
+Togo,2016,-2,Anocracy
+Togo,2017,-2,Anocracy
+Togo,2018,-2,Anocracy
+Trinidad and Tobago,1990,8,Democracy
+Trinidad and Tobago,1991,8,Democracy
+Trinidad and Tobago,1992,8,Democracy
+Trinidad and Tobago,1993,8,Democracy
+Trinidad and Tobago,1994,8,Democracy
+Trinidad and Tobago,1995,9,Democracy
+Trinidad and Tobago,1996,9,Democracy
+Trinidad and Tobago,1997,9,Democracy
+Trinidad and Tobago,1998,9,Democracy
+Trinidad and Tobago,1999,9,Democracy
+Trinidad and Tobago,2000,9,Democracy
+Trinidad and Tobago,2001,9,Democracy
+Trinidad and Tobago,2002,9,Democracy
+Trinidad and Tobago,2003,9,Democracy
+Trinidad and Tobago,2004,9,Democracy
+Trinidad and Tobago,2005,9,Democracy
+Trinidad and Tobago,2006,9,Democracy
+Trinidad and Tobago,2007,9,Democracy
+Trinidad and Tobago,2008,9,Democracy
+Trinidad and Tobago,2009,9,Democracy
+Trinidad and Tobago,2010,9,Democracy
+Trinidad and Tobago,2011,9,Democracy
+Trinidad and Tobago,2012,9,Democracy
+Trinidad and Tobago,2013,9,Democracy
+Trinidad and Tobago,2014,9,Democracy
+Trinidad and Tobago,2015,9,Democracy
+Trinidad and Tobago,2016,9,Democracy
+Trinidad and Tobago,2017,9,Democracy
+Trinidad and Tobago,2018,9,Democracy
+Tunisia,1990,-6,Autocracy
+Tunisia,1991,-6,Autocracy
+Tunisia,1992,-6,Autocracy
+Tunisia,1993,-3,Anocracy
+Tunisia,1994,-3,Anocracy
+Tunisia,1995,-3,Anocracy
+Tunisia,1996,-3,Anocracy
+Tunisia,1997,-3,Anocracy
+Tunisia,1998,-3,Anocracy
+Tunisia,1999,-3,Anocracy
+Tunisia,2000,-3,Anocracy
+Tunisia,2001,-3,Anocracy
+Tunisia,2002,-4,Anocracy
+Tunisia,2003,-4,Anocracy
+Tunisia,2004,-4,Anocracy
+Tunisia,2005,-4,Anocracy
+Tunisia,2006,-4,Anocracy
+Tunisia,2007,-4,Anocracy
+Tunisia,2008,-4,Anocracy
+Tunisia,2009,-4,Anocracy
+Tunisia,2010,-4,Anocracy
+Tunisia,2011,-1,Anocracy
+Tunisia,2012,2,Anocracy
+Tunisia,2013,4,Anocracy
+Tunisia,2014,7,Democracy
+Tunisia,2015,7,Democracy
+Tunisia,2016,7,Democracy
+Tunisia,2017,7,Democracy
+Tunisia,2018,7,Democracy
+Türkiye,1990,9,Democracy
+Türkiye,1991,9,Democracy
+Türkiye,1992,9,Democracy
+Türkiye,1993,8,Democracy
+Türkiye,1994,8,Democracy
+Türkiye,1995,8,Democracy
+Türkiye,1996,8,Democracy
+Türkiye,1997,7,Democracy
+Türkiye,1998,7,Democracy
+Türkiye,1999,7,Democracy
+Türkiye,2000,7,Democracy
+Türkiye,2001,7,Democracy
+Türkiye,2002,7,Democracy
+Türkiye,2003,7,Democracy
+Türkiye,2004,7,Democracy
+Türkiye,2005,7,Democracy
+Türkiye,2006,7,Democracy
+Türkiye,2007,7,Democracy
+Türkiye,2008,7,Democracy
+Türkiye,2009,7,Democracy
+Türkiye,2010,7,Democracy
+Türkiye,2011,9,Democracy
+Türkiye,2012,9,Democracy
+Türkiye,2013,9,Democracy
+Türkiye,2014,3,Anocracy
+Türkiye,2015,3,Anocracy
+Türkiye,2016,-4,Anocracy
+Türkiye,2017,-4,Anocracy
+Türkiye,2018,-4,Anocracy
+United Arab Emirates,1990,-8,Autocracy
+United Arab Emirates,1991,-8,Autocracy
+United Arab Emirates,1992,-8,Autocracy
+United Arab Emirates,1993,-8,Autocracy
+United Arab Emirates,1994,-8,Autocracy
+United Arab Emirates,1995,-8,Autocracy
+United Arab Emirates,1996,-8,Autocracy
+United Arab Emirates,1997,-8,Autocracy
+United Arab Emirates,1998,-8,Autocracy
+United Arab Emirates,1999,-8,Autocracy
+United Arab Emirates,2000,-8,Autocracy
+United Arab Emirates,2001,-8,Autocracy
+United Arab Emirates,2002,-8,Autocracy
+United Arab Emirates,2003,-8,Autocracy
+United Arab Emirates,2004,-8,Autocracy
+United Arab Emirates,2005,-8,Autocracy
+United Arab Emirates,2006,-8,Autocracy
+United Arab Emirates,2007,-8,Autocracy
+United Arab Emirates,2008,-8,Autocracy
+United Arab Emirates,2009,-8,Autocracy
+United Arab Emirates,2010,-8,Autocracy
+United Arab Emirates,2011,-8,Autocracy
+United Arab Emirates,2012,-8,Autocracy
+United Arab Emirates,2013,-8,Autocracy
+United Arab Emirates,2014,-8,Autocracy
+United Arab Emirates,2015,-8,Autocracy
+United Arab Emirates,2016,-8,Autocracy
+United Arab Emirates,2017,-8,Autocracy
+United Arab Emirates,2018,-8,Autocracy
+Uganda,1990,-7,Autocracy
+Uganda,1991,-7,Autocracy
+Uganda,1992,-7,Autocracy
+Uganda,1993,-4,Anocracy
+Uganda,1994,-4,Anocracy
+Uganda,1995,-4,Anocracy
+Uganda,1996,-4,Anocracy
+Uganda,1997,-4,Anocracy
+Uganda,1998,-4,Anocracy
+Uganda,1999,-4,Anocracy
+Uganda,2000,-4,Anocracy
+Uganda,2001,-4,Anocracy
+Uganda,2002,-4,Anocracy
+Uganda,2003,-4,Anocracy
+Uganda,2004,-4,Anocracy
+Uganda,2005,-1,Anocracy
+Uganda,2006,-1,Anocracy
+Uganda,2007,-1,Anocracy
+Uganda,2008,-1,Anocracy
+Uganda,2009,-1,Anocracy
+Uganda,2010,-1,Anocracy
+Uganda,2011,-1,Anocracy
+Uganda,2012,-1,Anocracy
+Uganda,2013,-1,Anocracy
+Uganda,2014,-1,Anocracy
+Uganda,2015,-1,Anocracy
+Uganda,2016,-1,Anocracy
+Uganda,2017,-1,Anocracy
+Uganda,2018,-1,Anocracy
+United Kingdom,1990,10,Democracy
+United Kingdom,1991,10,Democracy
+United Kingdom,1992,10,Democracy
+United Kingdom,1993,10,Democracy
+United Kingdom,1994,10,Democracy
+United Kingdom,1995,10,Democracy
+United Kingdom,1996,10,Democracy
+United Kingdom,1997,10,Democracy
+United Kingdom,1998,10,Democracy
+United Kingdom,1999,10,Democracy
+United Kingdom,2000,10,Democracy
+United Kingdom,2001,10,Democracy
+United Kingdom,2002,10,Democracy
+United Kingdom,2003,10,Democracy
+United Kingdom,2004,10,Democracy
+United Kingdom,2005,10,Democracy
+United Kingdom,2006,10,Democracy
+United Kingdom,2007,10,Democracy
+United Kingdom,2008,10,Democracy
+United Kingdom,2009,10,Democracy
+United Kingdom,2010,10,Democracy
+United Kingdom,2011,10,Democracy
+United Kingdom,2012,10,Democracy
+United Kingdom,2013,10,Democracy
+United Kingdom,2014,10,Democracy
+United Kingdom,2015,10,Democracy
+United Kingdom,2016,8,Democracy
+United Kingdom,2017,8,Democracy
+United Kingdom,2018,8,Democracy
+Ukraine,1991,6,Democracy
+Ukraine,1992,6,Democracy
+Ukraine,1993,5,Anocracy
+Ukraine,1994,7,Democracy
+Ukraine,1995,7,Democracy
+Ukraine,1996,7,Democracy
+Ukraine,1997,7,Democracy
+Ukraine,1998,7,Democracy
+Ukraine,1999,7,Democracy
+Ukraine,2000,6,Democracy
+Ukraine,2001,6,Democracy
+Ukraine,2002,6,Democracy
+Ukraine,2003,6,Democracy
+Ukraine,2004,6,Democracy
+Ukraine,2005,6,Democracy
+Ukraine,2006,7,Democracy
+Ukraine,2007,7,Democracy
+Ukraine,2008,7,Democracy
+Ukraine,2009,7,Democracy
+Ukraine,2010,6,Democracy
+Ukraine,2011,6,Democracy
+Ukraine,2012,6,Democracy
+Ukraine,2013,6,Democracy
+Ukraine,2014,4,Anocracy
+Ukraine,2015,4,Anocracy
+Ukraine,2016,4,Anocracy
+Ukraine,2017,4,Anocracy
+Ukraine,2018,4,Anocracy
+Uruguay,1990,10,Democracy
+Uruguay,1991,10,Democracy
+Uruguay,1992,10,Democracy
+Uruguay,1993,10,Democracy
+Uruguay,1994,10,Democracy
+Uruguay,1995,10,Democracy
+Uruguay,1996,10,Democracy
+Uruguay,1997,10,Democracy
+Uruguay,1998,10,Democracy
+Uruguay,1999,10,Democracy
+Uruguay,2000,10,Democracy
+Uruguay,2001,10,Democracy
+Uruguay,2002,10,Democracy
+Uruguay,2003,10,Democracy
+Uruguay,2004,10,Democracy
+Uruguay,2005,10,Democracy
+Uruguay,2006,10,Democracy
+Uruguay,2007,10,Democracy
+Uruguay,2008,10,Democracy
+Uruguay,2009,10,Democracy
+Uruguay,2010,10,Democracy
+Uruguay,2011,10,Democracy
+Uruguay,2012,10,Democracy
+Uruguay,2013,10,Democracy
+Uruguay,2014,10,Democracy
+Uruguay,2015,10,Democracy
+Uruguay,2016,10,Democracy
+Uruguay,2017,10,Democracy
+Uruguay,2018,10,Democracy
+United States,1990,10,Democracy
+United States,1991,10,Democracy
+United States,1992,10,Democracy
+United States,1993,10,Democracy
+United States,1994,10,Democracy
+United States,1995,10,Democracy
+United States,1996,10,Democracy
+United States,1997,10,Democracy
+United States,1998,10,Democracy
+United States,1999,10,Democracy
+United States,2000,10,Democracy
+United States,2001,10,Democracy
+United States,2002,10,Democracy
+United States,2003,10,Democracy
+United States,2004,10,Democracy
+United States,2005,10,Democracy
+United States,2006,10,Democracy
+United States,2007,10,Democracy
+United States,2008,10,Democracy
+United States,2009,10,Democracy
+United States,2010,10,Democracy
+United States,2011,10,Democracy
+United States,2012,10,Democracy
+United States,2013,10,Democracy
+United States,2014,10,Democracy
+United States,2015,10,Democracy
+United States,2016,8,Democracy
+United States,2017,8,Democracy
+United States,2018,8,Democracy
+United States,2019,7,Democracy
+United States,2020,5,Anocracy
+Russia,1990,0,Anocracy
+Russia,1991,0,Anocracy
+Uzbekistan,1991,-9,Autocracy
+Uzbekistan,1992,-9,Autocracy
+Uzbekistan,1993,-9,Autocracy
+Uzbekistan,1994,-9,Autocracy
+Uzbekistan,1995,-9,Autocracy
+Uzbekistan,1996,-9,Autocracy
+Uzbekistan,1997,-9,Autocracy
+Uzbekistan,1998,-9,Autocracy
+Uzbekistan,1999,-9,Autocracy
+Uzbekistan,2000,-9,Autocracy
+Uzbekistan,2001,-9,Autocracy
+Uzbekistan,2002,-9,Autocracy
+Uzbekistan,2003,-9,Autocracy
+Uzbekistan,2004,-9,Autocracy
+Uzbekistan,2005,-9,Autocracy
+Uzbekistan,2006,-9,Autocracy
+Uzbekistan,2007,-9,Autocracy
+Uzbekistan,2008,-9,Autocracy
+Uzbekistan,2009,-9,Autocracy
+Uzbekistan,2010,-9,Autocracy
+Uzbekistan,2011,-9,Autocracy
+Uzbekistan,2012,-9,Autocracy
+Uzbekistan,2013,-9,Autocracy
+Uzbekistan,2014,-9,Autocracy
+Uzbekistan,2015,-9,Autocracy
+Uzbekistan,2016,-9,Autocracy
+Uzbekistan,2017,-9,Autocracy
+Uzbekistan,2018,-9,Autocracy
+Venezuela,1990,9,Democracy
+Venezuela,1991,9,Democracy
+Venezuela,1992,8,Democracy
+Venezuela,1993,8,Democracy
+Venezuela,1994,8,Democracy
+Venezuela,1995,8,Democracy
+Venezuela,1996,8,Democracy
+Venezuela,1997,8,Democracy
+Venezuela,1998,8,Democracy
+Venezuela,1999,7,Democracy
+Venezuela,2000,7,Democracy
+Venezuela,2001,6,Democracy
+Venezuela,2002,6,Democracy
+Venezuela,2003,6,Democracy
+Venezuela,2004,6,Democracy
+Venezuela,2005,6,Democracy
+Venezuela,2006,5,Anocracy
+Venezuela,2007,5,Anocracy
+Venezuela,2008,5,Anocracy
+Venezuela,2009,-3,Anocracy
+Venezuela,2010,-3,Anocracy
+Venezuela,2011,-3,Anocracy
+Venezuela,2012,-3,Anocracy
+Venezuela,2013,4,Anocracy
+Venezuela,2014,4,Anocracy
+Venezuela,2015,4,Anocracy
+Venezuela,2016,4,Anocracy
+Venezuela,2017,-3,Anocracy
+Venezuela,2018,-3,Anocracy
+Vietnam,1990,-7,Autocracy
+Vietnam,1991,-7,Autocracy
+Vietnam,1992,-7,Autocracy
+Vietnam,1993,-7,Autocracy
+Vietnam,1994,-7,Autocracy
+Vietnam,1995,-7,Autocracy
+Vietnam,1996,-7,Autocracy
+Vietnam,1997,-7,Autocracy
+Vietnam,1998,-7,Autocracy
+Vietnam,1999,-7,Autocracy
+Vietnam,2000,-7,Autocracy
+Vietnam,2001,-7,Autocracy
+Vietnam,2002,-7,Autocracy
+Vietnam,2003,-7,Autocracy
+Vietnam,2004,-7,Autocracy
+Vietnam,2005,-7,Autocracy
+Vietnam,2006,-7,Autocracy
+Vietnam,2007,-7,Autocracy
+Vietnam,2008,-7,Autocracy
+Vietnam,2009,-7,Autocracy
+Vietnam,2010,-7,Autocracy
+Vietnam,2011,-7,Autocracy
+Vietnam,2012,-7,Autocracy
+Vietnam,2013,-7,Autocracy
+Vietnam,2014,-7,Autocracy
+Vietnam,2015,-7,Autocracy
+Vietnam,2016,-7,Autocracy
+Vietnam,2017,-7,Autocracy
+Vietnam,2018,-7,Autocracy
+Yemen,1990,-4,Anocracy
+Yemen,1991,-4,Anocracy
+Yemen,1992,-3,Anocracy
+Yemen,1993,-2,Anocracy
+Yemen,1994,-2,Anocracy
+Yemen,1995,-2,Anocracy
+Yemen,1996,-2,Anocracy
+Yemen,1997,-2,Anocracy
+Yemen,1998,-2,Anocracy
+Yemen,1999,-2,Anocracy
+Yemen,2000,-2,Anocracy
+Yemen,2001,-2,Anocracy
+Yemen,2002,-2,Anocracy
+Yemen,2003,-2,Anocracy
+Yemen,2004,-2,Anocracy
+Yemen,2005,-2,Anocracy
+Yemen,2006,-2,Anocracy
+Yemen,2007,-2,Anocracy
+Yemen,2008,-2,Anocracy
+Yemen,2009,-2,Anocracy
+Yemen,2010,-2,Anocracy
+Yemen,2011,-2,Anocracy
+Yemen,2012,3,Anocracy
+Yemen,2013,3,Anocracy
+Yemen,2014,0,Anocracy
+Yemen,2015,0,Anocracy
+Yemen,2016,0,Anocracy
+Yemen,2017,0,Anocracy
+Yemen,2018,0,Anocracy
+Bosnia and Herzegovina,1991,-5,Anocracy
+Bosnia and Herzegovina,1992,-5,Anocracy
+Bosnia and Herzegovina,1993,-7,Autocracy
+Bosnia and Herzegovina,1994,-7,Autocracy
+Bosnia and Herzegovina,1995,-7,Autocracy
+Bosnia and Herzegovina,1996,-7,Autocracy
+Bosnia and Herzegovina,1997,-6,Autocracy
+Bosnia and Herzegovina,1998,-6,Autocracy
+Bosnia and Herzegovina,1999,-6,Autocracy
+Bosnia and Herzegovina,2000,7,Democracy
+Bosnia and Herzegovina,2001,7,Democracy
+Bosnia and Herzegovina,2002,7,Democracy
+Bosnia and Herzegovina,1990,-5,Anocracy
+Bosnia and Herzegovina,1991,-5,Anocracy
+DR Congo,1990,-8,Autocracy
+DR Congo,1991,-8,Autocracy
+DR Congo,1992,0,Anocracy
+DR Congo,1993,0,Anocracy
+DR Congo,1994,0,Anocracy
+DR Congo,1995,0,Anocracy
+DR Congo,1996,0,Anocracy
+DR Congo,1997,0,Anocracy
+DR Congo,1998,0,Anocracy
+DR Congo,1999,0,Anocracy
+DR Congo,2000,0,Anocracy
+DR Congo,2001,0,Anocracy
+DR Congo,2002,0,Anocracy
+DR Congo,2003,1,Anocracy
+DR Congo,2004,2,Anocracy
+DR Congo,2005,4,Anocracy
+DR Congo,2006,5,Anocracy
+DR Congo,2007,5,Anocracy
+DR Congo,2008,5,Anocracy
+DR Congo,2009,5,Anocracy
+DR Congo,2010,5,Anocracy
+DR Congo,2011,5,Anocracy
+DR Congo,2012,5,Anocracy
+DR Congo,2013,5,Anocracy
+DR Congo,2014,5,Anocracy
+DR Congo,2015,5,Anocracy
+DR Congo,2016,-3,Anocracy
+DR Congo,2017,-3,Anocracy
+DR Congo,2018,-3,Anocracy
+Zambia,1990,-9,Autocracy
+Zambia,1991,6,Democracy
+Zambia,1992,6,Democracy
+Zambia,1993,6,Democracy
+Zambia,1994,6,Democracy
+Zambia,1995,6,Democracy
+Zambia,1996,1,Anocracy
+Zambia,1997,1,Anocracy
+Zambia,1998,1,Anocracy
+Zambia,1999,1,Anocracy
+Zambia,2000,1,Anocracy
+Zambia,2001,5,Anocracy
+Zambia,2002,5,Anocracy
+Zambia,2003,5,Anocracy
+Zambia,2004,5,Anocracy
+Zambia,2005,5,Anocracy
+Zambia,2006,5,Anocracy
+Zambia,2007,5,Anocracy
+Zambia,2008,7,Democracy
+Zambia,2009,7,Democracy
+Zambia,2010,7,Democracy
+Zambia,2011,7,Democracy
+Zambia,2012,7,Democracy
+Zambia,2013,7,Democracy
+Zambia,2014,7,Democracy
+Zambia,2015,7,Democracy
+Zambia,2016,6,Democracy
+Zambia,2017,6,Democracy
+Zambia,2018,6,Democracy
+Zimbabwe,1990,-6,Autocracy
+Zimbabwe,1991,-6,Autocracy
+Zimbabwe,1992,-6,Autocracy
+Zimbabwe,1993,-6,Autocracy
+Zimbabwe,1994,-6,Autocracy
+Zimbabwe,1995,-6,Autocracy
+Zimbabwe,1996,-6,Autocracy
+Zimbabwe,1997,-6,Autocracy
+Zimbabwe,1998,-6,Autocracy
+Zimbabwe,1999,-3,Anocracy
+Zimbabwe,2000,-3,Anocracy
+Zimbabwe,2001,-4,Anocracy
+Zimbabwe,2002,-4,Anocracy
+Zimbabwe,2003,-4,Anocracy
+Zimbabwe,2004,-4,Anocracy
+Zimbabwe,2005,-4,Anocracy
+Zimbabwe,2006,-4,Anocracy
+Zimbabwe,2007,-4,Anocracy
+Zimbabwe,2008,-4,Anocracy
+Zimbabwe,2009,1,Anocracy
+Zimbabwe,2010,1,Anocracy
+Zimbabwe,2011,1,Anocracy
+Zimbabwe,2012,1,Anocracy
+Zimbabwe,2013,4,Anocracy
+Zimbabwe,2014,4,Anocracy
+Zimbabwe,2015,4,Anocracy
+Zimbabwe,2016,4,Anocracy
+Zimbabwe,2017,4,Anocracy
+Zimbabwe,2018,4,Anocracy
