@@ -106,6 +106,23 @@ Based on McClory's 6 main sub-indices:
 
 
 # Source: 
+
+
+| Sources                                                  |                                                                                                                                                                                                            |                            |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| Data                                                     | Source Adress                                                                                                                                                                                              | Coverage                   |
+| Country Similarity Index                                 | https://objectivelists.com/2020/05/30/country-similarity-index/                                                                                                                                            | static                     |
+| Education: Inbound Int. Students by Country              | http://data.uis.unesco.org/                                                                                                                                                                                | 1999 - 2020                |
+| International Migrant Stock 2020: Destination and origin | https://www.un.org/development/desa/pd/content/international-migrant-stock                                                                                                                                 | 1990-2020 (in 5 year gaps) |
+| Refugees by Origin and Asylum Country from UNHCR         | https://www.unhcr.org/refugee-statistics/download/?url=2P3YzA                                                                                                                                              | 1951 - 2023                |
+| Polity                                                   | http://www.systemicpeace.org/inscr/p5v2018.xls                                                                                                                                                             | 1990-2018                  |
+| Corruption: Corruption Perceptions Index                 | [https://en.wikipedia.org/wiki/Corruption_Perceptions_Index https://www.transparency.org/en/cpi/2010 https://www.transparency.org/en/cpi/2011](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index) | 1995-2023                  |
+| Scimago: Science Citations                               | https://www.scimagojr.com/countryrank.php?order=itp&ord=desc                                                                                                                                               | 1996-2022                  |
+| Science: R&D Spending by GDP                             | https://ourworldindata.org/grapher/research-spending-gdp                                                                                                                                                   | 1996-2022                  |
+| Tourism: Number of arrivals by country                   | https://data.worldbank.org/indicator/ST.INT.ARVL                                                                                                                                                           | 1995 - 2020                |
+| Unesco Heritage Sites                                    | https://whc.unesco.org/en/list/?order=year&mode=table                                                                                                                                                      | 1976-2022                  |
+
+
 CPI: 
 
     - https://www.transparency.org/en/cpi/2010
