@@ -15,29 +15,28 @@ institutions of international regulations" (Nye 1990, p. 168). "Soft power is th
       since a Hollywood flm, for example, ‘may produce attraction in Brazil at the same time it produces
       repulsion in Saudi Arabia’ (Nye 2021, p. 201; in Chitty et al 2023)  
 
-## The following table explains my data choice which will be present in the soft power index
+## The soft power index - methodology
+The SPI will consist of unilateral and bilateral parts, all based on the year. This is due to data constraints and methodological considerations. For one, certain data (e.g. Tourism int. arrivals) can only be used as an unilateral indicator of a country's attractiveness. Secondly, it makes sense that bilateral data also influences countries as a whole. While the number of refugees from Iraq to Türkiye will definitely increase the perceived soft power of the latter in Iraq, so will the international news as a whole. Therefore, the total number of refugees accepted by France in year 1996 should have a beneficial impact on the perceived soft power as a whole due to its political ideals. The data below will show which parts of the data will be used as uni- or bilateral or as both. 
 
-| Data                                        | Type       | Year Coverage               | Static / Yearly | Soft Power Category      | Interpolation | Extrapolation | Score   | Notes                                                                                                                                                            |
-| ------------------------------------------- | ---------- | --------------------------- | --------------- | ------------------------ | ------------- | ------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Country Similarity Index                    | Bilateral  | 1990 - 2020                 | Yearly          | Culture                  | unclear       | unclear       | unclear |                                                                                                                                                                  |
-| Education: Inbound Int. Students by Country | Bilateral  | 1999 - 2020                 | Yearly          | Foreign Policy & Culture | Yes           | No            | 1,75    | Extrapolation would be irresponsible for this length of data. Interpolation for missing years by using the former annual value (for each bilateral combination). |
-| Migration                                   | Bilateral  | 1990 - 2020 (every 5 years) | Yearly          | Foreign Policy           | Yes           | No            | 2,75    |                                                                                                                                                                  |
-| Refugees                                    | Bilateral  |                             |                 | Foreign Policy           | unclear       | unclear       | unclear |                                                                                                                                                                  |
-| Polity                                      | Bilateral  | 1990 - 2018                 | Yearly          | Political Values         | Yes           | Yes           | 2,25    | Interpolation for nan values.                                                                                                                                    |
-| Corruption: CPI                             | Unilateral | 1995-2022                   | Yearly          | Political Values         | Yes           | Yes           | 1,25    | Backfill and Frontfill for a couple years                                                                                                                        |
-| Science Citations                           | Unilateral | 1990 - 2020                 | Static (-0,5)   | Political Values         | No            | No            | 1,5     | Unsure whether to use static variable or not. Could als be proxied by other science related variables.                                                           |
-| Science: R&D Spending by GDP                | Unilateral | 1996-2020                   | Yearly          | Political Values         | Yes           | Yes           | 1,25    |                                                                                                                                                                  |
-| Tourism: Int Arrivals                       | Unilateral | 1995 - 2020                 | Yearly          | Culture                  | unclear       | unclear       | unclear |                                                                                                                                                                  |
-| Tourism: Int Departures                     | Unilateral | 1995 - 2020                 | Yearly          | Culture                  | unclear       | unclear       | unclear | A lot of missing data for every country                                                                                                                          |
-| Unesco Heritage Sites                       | Unilateral | 1990 - 2020                 | Yearly          | Culture                  | No            | No            | 2       |        
+| SPI Coverage                   | Data                                                   | Coverage                     | Nye Category    |
+| ------------------------------ | ------------------------------------------------------ | ---------------------------- | --------------- |
+| Unilateral AND Bilateral Score | Corruption: Corruption Perceptions Index               | 1995 - 2023                  | Culture         |
+| Bilateral Score                | Country Similarity Index                               | Static                       | Culture         |
+| Bilateral Score                | Education: Inbound Int. Students by Country            | 1999 - 2020                  | Foreign Policy  |
+| Bilateral Score                | UN International Migrant Stock: Destination and origin | 1990 - 2020 (in 5 year gaps) | Foreign Policy  |
+| Unilateral AND Bilateral Score | Polity                                                 | 1990 - 2018                  | Political Value |
+| Bilateral Score                | Refugees by Origin and Asylum Country from UNHCR       | 1951 - 2023                  | Foreign Policy  |
+| Unilateral Score               | Science: R&D Spending by GDP                           | 1996 - 2022                  | Political Value |
+| Unilateral Score               | Scimago: Science Citations                             | 1996 - 2022                  | Political Value |
+| Unilateral Score               | Tourism: Int Arrivals                                  | 1995 - 2020                  | Culture         |
+| Unilateral Score               | Unesco Heritage Sites                                  | 1976 - 2022                  | Culture         |
+| Unilateral Score               | Refugees Total Amount from UNHCR                       | 1951 - 2023                  | Foreign Policy  |
+| Unilateral Score               | Total Migrants                                         | 1990 - 2020 (in 5 year gaps) | Foreign Policy  |
+| Unilateral Score               | Polity Variability                                     | 1990 - 2018                  | Political Value |
 
-### How the score is calculated:
-| Score            | Complete       | Semi                       | Semi                      | Semi                                  | Semi            | Incomplete                 | Incomplete                | Incomplete                            |
-| ---------------- | -------------- | -------------------------- | ------------------------- | ------------------------------------- | --------------- | -------------------------- | ------------------------- | ------------------------------------- |
-| Year Coverage    | Complete (+1)  | Interpolated Years (+0,75) | Extrapolated Years (+0,5) | Extra- and Interpolated Years (+0,25) | Complete (+1)   | Interpolated Years (+0,75) | Extrapolated Years (+0,5) | Extra- and Interpolated Years (+0,25) |
-| Type             | Bilateral (+2) | Bilateral (+2)             | Bilateral (+2)            | Bilateral (+2)                        | Unilateral (+1) | Unilateral (+1)            | Unilateral (+1)           | Unilateral (+1)                       |
-| If Static: - 0,5 |                |                            |                           |                                       |                 |                            |                           |                                       |
-| Sum              | 3              | 2,75                       | 2,5                       | 2,25                                  | 2               | 1,75                       | 1,5                       | 1,25                                  ||
+
+  
+
 ### The following list will explain my choice of data and possible further extension. 
 
 Based on McClory's 6 main sub-indices:
@@ -57,6 +56,7 @@ Based on McClory's 6 main sub-indices:
   - World Religion Data [1950-2010; 5 year steps]
       - Will be interpolated for years 2015 and 2020
       - Interpolation for 4 years between each data point
+      - Already part of country-similarity-index
       - Data as percent of religious denomination
         - e.g. catholic, anglican, protestant (see: https://correlatesofwar.org/wp-content/uploads/wrp-codebook-bibliography.pdf)
         - Either do superficial: Only Christianity, Islam etc. without specification or use specifics
@@ -67,7 +67,7 @@ Based on McClory's 6 main sub-indices:
 3.	Global Engagement Sub-index:
   - Net Migration (rate) [1960-2020] 
      - Includes both voluntarily migration and refugees (https://ourworldindata.org/migration-definition)
-  - Number of refugees living in the host country per 1,000 people 
+  - Number of refugees moving to the host country 
      - specify direct impact of refugess
            -> Refugees are included in the net migration rate; problem of endogeneity?
              - Should be manageable 
