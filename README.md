@@ -35,7 +35,14 @@ The SPI will consist of unilateral and bilateral parts, all based on the year. T
 | Unilateral Score               | Polity Variability                                     | 1990 - 2018                  | Political Value |
 
 
-  
+### SPI Code
+
+The SPI Code can be created by using the master.py file in the folder "test_master_spi". 
+
+## How to run it:
+1) The current os.chdir in config.py needs to be adjusted for the correct path of the folder "test_master_spi"
+2) Run the master.py file. I usually takes 5-10 minutes.
+3) The spi_files are created in the folder "test_master_spi"
 
 ### The following list will explain my choice of data and possible further extension. 
 
