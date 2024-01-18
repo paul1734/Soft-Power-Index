@@ -14,7 +14,7 @@ import pandas as pd
 import country_converter as coco
 from config import path_cleaning
 # Specify the URL of the data you want to download
-data = pd.read_csv(path_cleaning + "/Education/unesco_wto.csv")
+data = pd.read_csv(path_cleaning + "/Education/unesco_wto_short.csv")
 df = data.copy()
 # Define a function to extract country names using regular expressions
 def extract_country_name(indicator):
